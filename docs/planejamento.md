@@ -1,9 +1,0 @@
-# Metodologia 
-
-# Cronograma 
-
-
-
-
-
-# Versionamento
