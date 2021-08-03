@@ -21,7 +21,7 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 
 
 
-## Fontes
+## Bibliografia
 <p align = "justify"> [1] https://www.caixa.gov.br/caixatem/Paginas/default.aspx </p>
 
 
@@ -32,7 +32,5 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
 | 1.01 | 02/08/2021 | Adiconar informaçōes sobre os integrantes | Antônio Aldisio |
-
-
 
 </center>
