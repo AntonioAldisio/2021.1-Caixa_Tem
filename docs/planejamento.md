@@ -12,9 +12,10 @@ Em consenso foi escolhido o Caixa tem.
 # 2. Metodologia  
 
 <p style="text-indent: 20px; align = "justify"> A metodologia adotada pelo grupo foi SCRUM. </p>
-    * Daliy: Todo dia via whatsapp;
-    * Reunião Semanal: Segunda a noite via discord;
-    * Tempo em média da sprint: 7 dias;
+
+- Daliy: Todo dia via whatsapp;
+- Reunião Semanal: Segunda a noite via discord;
+- Tempo em média da sprint: 7 dias;
 
 
 ## 2.1  Cronograma de atividades 
