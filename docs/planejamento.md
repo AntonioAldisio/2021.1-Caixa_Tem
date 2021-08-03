@@ -11,7 +11,12 @@
 Em consenso foi escolhido o Caixa tem.
 # 2. Metodologia  
 
-<p style="text-indent: 20px; align = "justify"> A metodologia adotada pelo grupo foi SCRUM. As sprints serão de 1 semana conesecao a sprint 0 e 12 tem duaração de apenas 3 dias. Elas começa na segunda e termina no domingo. Preferencialmente a reunião semanal acontecerá na segunda, ou seja, o primeiro dia da nova sprint. </p>
+<p style="text-indent: 20px; align = "justify"> A metodologia adotada pelo grupo foi SCRUM. </p>
+<p style="text-indent: 20px; align = "justify">
+    - Daliy: Todo dia via whatsapp;
+    - Reunião Semanal: Segunda a noite via discord;
+    - Tempo em média da sprint: 7 dias;
+</p>
 
 
 ## 2.1  Cronograma de atividades 
@@ -117,5 +122,6 @@ Em consenso foi escolhido o Caixa tem.
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
 | 1.01 | 02/08/2021 | Adicionou o bloco de Metodologia, Aplicativos avaliados individualmente e Ferramentas Utilizadas| Antônio Aldisio |
+| 1.03 | 02/08/2021 | Alteração do texto sobre scrum | Antônio Aldisio |
 
 </center>
