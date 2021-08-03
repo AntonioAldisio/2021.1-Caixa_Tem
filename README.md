@@ -17,7 +17,7 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 |Fernando Calil |  FernandoMirandaC | 190106565@aluno.unb.br | 
 |Lucas Lopes |  --- | --- | 
 |Matheus Salim | --- | --- |
-|Ugor Costa| ubrando | ugor_gost@hotmaial.com |
+|Ugor Costa| ubrando | ugor_gost@hotmail.com |
 
 
 
