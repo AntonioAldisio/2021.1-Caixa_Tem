@@ -9,7 +9,7 @@
 - PagMeia
 
 Em consenso foi escolhido o Caixa tem.
-# 2. Metodologia  
+## 2. Metodologia  
 
 <p style="text-indent: 20px; align = "justify"> A metodologia adotada pelo grupo foi SCRUM. </p>
 
@@ -18,7 +18,7 @@ Em consenso foi escolhido o Caixa tem.
 - Tempo em média da sprint: 7 dias;
 
 
-## 2.1  Cronograma de atividades 
+### 2.1  Cronograma de atividades 
 <p style="text-indent: 20px; align = "justify"> Com as datas estipuladas pelo o professor foi levantado um cronograma das atividades a sem realizadas. Vale saleantar que as data podem ser alteradas ao decorrer do tempo.</p>
 
 <center>
@@ -37,7 +37,7 @@ Em consenso foi escolhido o Caixa tem.
 
 </center>
 
-## 2.2  Cronograma das Sprints
+### 2.2  Cronograma das Sprints
 
 <center>
 
@@ -63,7 +63,7 @@ Em consenso foi escolhido o Caixa tem.
 <p style="text-indent: 20px; align = "justify"> Obs: Os Backlogs das sprints serão colocados ao longo do desenvolvimento do projeto.</p>
 
 
-## 2.3  Disponibilidade dos integrantes
+## 3  Disponibilidade dos integrantes
 
 <p style="text-indent: 20px; align = "justify"> A figura 01 apresenta o quadro de disponbilidade geral dos integrantes do grupo.Obs: pode sofrer alteração ao longo do semestre.</p>
 
@@ -72,7 +72,7 @@ Em consenso foi escolhido o Caixa tem.
 
 
 
-### 2.3.1  Disponibilidade intividual dos integrantes
+### 3.1  Disponibilidade intividual dos integrantes
 
 <img width="800px" src="../assets/heatmap/Antonio.png" alt="QuadroAntonio">
 <figcaption>Figura 02 - Quadro de disponibilidade do Antônio Aldisio </figcaption>
