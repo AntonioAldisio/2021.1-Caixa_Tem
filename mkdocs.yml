@@ -1,0 +1,13 @@
+site_name: Caixa Tem
+
+theme:
+  name: material
+  language: pt
+
+
+
+nav:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+  - Pré-rastreabilidade:
+    - Rich pictures: ../pre_rastreabilidade/rich_pictures.md
