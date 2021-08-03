@@ -1,0 +1,15 @@
+site_name: Caixa Tem
+
+theme:
+  name: material
+  language: pt
+  logo: ../assets/logos/caixatem.jpeg
+  favicon: ../assets/logos/caixatem.jpeg
+
+repo_url: https://requisitos-de-software.github.io/2021.1-Caixa_Tem/
+
+nav:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+  - Pré-rastreabilidade:
+    - Rich pictures: pre_rastreabilidade/rich_pictures.md
