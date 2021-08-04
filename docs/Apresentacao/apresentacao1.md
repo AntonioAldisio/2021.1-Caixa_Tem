@@ -2,15 +2,17 @@
 
 ## Link da apresentação
 
-<iframe width="820" height="500" src="https://www.youtube.com/watch?v=Rz7BkRF21Ug" frameborder="0"
+<iframe width="820" height="500" src="https://www.youtube.com/embed/iiWy87fLqRY
+" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
+
 
 ## Link do silde
 
 Apresentações feita no Google Slides.
 
-<iframe width="820" height="500" src="hhttps://docs.google.com/presentation/d/19Pz6XfJcDeKM8RxuLLvaAiWUaj_Sl0zonHeeni7l7IY/edit?usp=sharing
+<iframe width="820" height="500" src="https://docs.google.com/presentation/d/19Pz6XfJcDeKM8RxuLLvaAiWUaj_Sl0zonHeeni7l7IY/edit?usp=sharing
 " frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
