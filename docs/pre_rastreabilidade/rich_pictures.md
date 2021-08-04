@@ -1,10 +1,5 @@
-# 1. Introdução 
 
-<p style="text-indent: 20px; align = "justify"> 
-Rich picture é uma imagem para analisar problemas e/ou expressar ideias.
-</p>
-
-# 2. Rich Picture
+# 1. Rich Picture
 <img width="800px" src="../../assets/RichPicture/v01.png" alt="RichPictureV01">
 <figcaption>Figura 01 - Versão 1.0 do rich picture  </figcaption>
 
