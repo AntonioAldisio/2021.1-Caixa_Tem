@@ -12,12 +12,12 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 
 | Foto | Nome | Github | email |
 |: --- : | :--- : | :--- :   | :--- : |
-|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/integrantes/Antonio.png" alt="Antonio">|Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
-|<img width="150px" height = "140px" style="border-radius:10%" src="./assets/integrantes/Ariel.jpeg" alt="Ariel">|Ariel Serafim | ArielSixwings | arielserafim@gmail.com | 
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/Fernado.jpeg" alt="Fernando">|Fernando Calil |  FernandoMirandaC | 190106565@aluno.unb.br | 
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/Lucas.jpeg" alt="Lucas">|Lucas Lopes | Lucas Gomes | lucasglpes@gmail.com | 
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/Matheus.jpeg" alt="Matheus">|Matheus Salim | matheussalimdeoliveira | matheussalimdeoliveira@gmail.com |
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/Ugor.jpeg" alt="Ugor">|Ugor Costa| ubrando | ugor_gost@hotmail.com |
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
+|<img width="150px" height = "140px" style="border-radius:10%" src="./assets/Integrantes/Ariel.png" alt="Ariel">|Ariel Serafim | ArielSixwings | arielserafim@gmail.com | 
+|<img width="150px" style="border-radius:10%" src="./assets/Integrantes/Fernado.jpeg" alt="Fernando">|Fernando Calil |  FernandoMirandaC | 190106565@aluno.unb.br | 
+|<img width="150px" style="border-radius:10%" src="./assets/Integrantes/Lucas.png" alt="Lucas">|Lucas Lopes | Lucas Gomes | lucasglpes@gmail.com | 
+|<img width="150px" style="border-radius:10%" src="./assets/Integrantes/Matheus.jpeg" alt="Matheus">|Matheus Salim | matheussalimdeoliveira | matheussalimdeoliveira@gmail.com |
+|<img width="150px" style="border-radius:10%" src="./assets/Integrantes/ugor.png" alt="Ugor">|Ugor Costa| ubrando | ugor_gost@hotmail.com |
 
 
 
@@ -31,6 +31,6 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
-| 1.01 | 02/08/2021 | Adiconar informaçōes sobre os integrantes | Antônio Aldisio |
+| 1.01 | 02/08/2021 | Adiconar informaçōes sobre os Integrantes | Antônio Aldisio |
 
 </center>

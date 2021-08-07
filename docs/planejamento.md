@@ -19,7 +19,7 @@ Em consenso foi escolhido o Caixa tem.
 
 
 ### 2.1  Cronograma de atividades 
-<p style="text-indent: 20px; align = "justify"> Com as datas estipuladas pelo o professor foi levantado um cronograma das atividades a sem realizadas. Vale saleantar que as data podem ser alteradas ao decorrer do tempo.</p>
+<p style="text-indent: 20px; align = "justify"> Conforme as datas estipuladas pelo professor foi levantado um cronograma das atividades a sem realizadas. Vale salientar que as datas podem ser alteradas ao decorrer do tempo.</p>
 
 <center>
 
@@ -67,29 +67,29 @@ Em consenso foi escolhido o Caixa tem.
 
 <p style="text-indent: 20px; align = "justify"> A figura 01 apresenta o quadro de disponbilidade geral dos integrantes do grupo.Obs: pode sofrer alteração ao longo do semestre.</p>
 
-<img width="800px" src="../assets/heatmap/Geral.png" alt="QuadroGeral">
+<img width="800px" src="../assets/Heatmap/Geral.png" alt="QuadroGeral">
 <figcaption>Figura 01 - Quadro de disponibilidade geral dos integrantes </figcaption>
 
 
 
 ### 3.1  Disponibilidade intividual dos integrantes
 
-<img width="800px" src="../assets/heatmap/Antonio.png" alt="QuadroAntonio">
+<img width="800px" src="../assets/Heatmap/Antonio.png" alt="QuadroAntonio">
 <figcaption>Figura 02 - Quadro de disponibilidade do Antônio Aldisio </figcaption>
 
-<img width="800px" src="../assets/heatmap/Ariel.png" alt="QuadroAriel">
+<img width="800px" src="../assets/Heatmap/Ariel.png" alt="QuadroAriel">
 <figcaption>Figura 03 - Quadro de disponibilidade do Ariel Serafim </figcaption>
 
-<img width="800px" src="../assets/heatmap/Fernando.png" alt="QuadroFernando">
+<img width="800px" src="../assets/Heatmap/Fernando.png" alt="QuadroFernando">
 <figcaption>Figura 04 - Quadro de disponibilidade do Fernando Calil </figcaption>
 
-<img width="800px" src="../assets/heatmap/Lucas.png" alt="QuadroLucas">
+<img width="800px" src="../assets/Heatmap/Lucas.png" alt="QuadroLucas">
 <figcaption>Figura 05 - Quadro de disponibilidade do Lucas Lopes </figcaption>
 
-<img width="800px" src="../assets/heatmap/Matheus.png" alt="QuadroMatheus">
+<img width="800px" src="../assets/Heatmap/Matheus.png" alt="QuadroMatheus">
 <figcaption>Figura 06 - Quadro de disponibilidade do Matheus Salim </figcaption>
 
-<img width="800px" src="../assets/heatmap/Ugor.png" alt="QuadroUgor">
+<img width="800px" src="../assets/Heatmap/Ugor.png" alt="QuadroUgor">
 <figcaption>Figura 07 - Quadro de disponibilidade do Ugor Costa </figcaption>
 
 # 3. Ferramentas Utilizadas
