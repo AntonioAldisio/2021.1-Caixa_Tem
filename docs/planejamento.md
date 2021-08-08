@@ -1,6 +1,6 @@
 # Planejamento 
 ## 1. Aplicativos avaliados individualmente
-<p style="text-indent: 20px; align = "justify"> Cada integrante avaliou um aplicativo de seu interesse e alguns membros realizaram a análise do mesmo aplicativo como foi o caso da Carteira Digital de Trânsito. Ai temos os seguintes aplicativos avaliados:</p>
+<p style="text-indent: 20px; align = "justify"> Cada integrante avaliou um aplicativo de seu interesse, alguns membros realizaram a análise do mesmo aplicativo, como foi o caso da Carteira Digital de Trânsito. Temos então os seguintes aplicativos avaliados:</p>
 
 - Youtube
 - Caixa Tem
@@ -8,10 +8,10 @@
 - Hemovida
 - PagMeia
 
-Em consenso foi escolhido o Caixa tem.
+Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 ## 2. Metodologia  
 
-<p style="text-indent: 20px; align = "justify"> A metodologia adotada pelo grupo foi SCRUM. </p>
+<p style="text-indent: 20px; align = "justify"> A metodologia adotada pelo grupo foi o metodo SCRUM. <a href="#Bibliografia">[1]</a> </p>
 
 - Daliy: Todo dia via whatsapp;
 - Reunião Semanal: Segunda a noite via discord;
@@ -19,7 +19,7 @@ Em consenso foi escolhido o Caixa tem.
 
 
 ### 2.1  Cronograma de atividades 
-<p style="text-indent: 20px; align = "justify"> Conforme as datas estipuladas pelo professor foi levantado um cronograma das atividades a sem realizadas. Vale salientar que as datas podem ser alteradas ao decorrer do tempo.</p>
+<p style="text-indent: 20px; align = "justify"> Conforme as datas estipuladas pelo professor foi levantado um cronograma das atividades a serem realizadas. Vale salientar que as datas podem ser alteradas ao decorrer do tempo.</p>
 
 <center>
 
@@ -27,7 +27,7 @@ Em consenso foi escolhido o Caixa tem.
 |:------:|:-----------------------------:|:----------------------------------:|
 | Pré-Rastreabilidade | 04/08 | Planejamento do projeto e RichPicture| 
 | Elicitação de Requisitos | 21/08  | Técnicas e Priorização| 
-| Modelagem de Requisitos | 30/08 | Cenários , Léxico, Use Case, Especificação Suplementar| 
+| Modelagem de Requisitos | 30/08 | Cenários, Léxico, Use Case, Especificação Suplementar| 
 | Modelagem de Requisitos - Ágil |11/09 | Histórias de Usuário, Backlogs, NFR Framework |
 | Análise de Requisitos | 18/09 | Verificação e Validação | 
 | Pós-Rastreabilidade | 09/10 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 
@@ -60,15 +60,17 @@ Em consenso foi escolhido o Caixa tem.
 <figcaption>Tabela 2 - Cronograma das sprints </figcaption>
 </center>
 
-<p style="text-indent: 20px; align = "justify"> Obs: Os Backlogs das sprints serão colocados ao longo do desenvolvimento do projeto.</p>
+<p style="text-indent: 20px; align = "justify"> <strong>Obs</strong>: Os Backlogs das sprints serão atualizados ao longo do desenvolvimento do projeto.</p>
 
 
 ## 3  Disponibilidade dos integrantes
 
-<p style="text-indent: 20px; align = "justify"> A figura 01 apresenta o quadro de disponbilidade geral dos integrantes do grupo.Obs: pode sofrer alteração ao longo do semestre.</p>
+<p style="text-indent: 20px; align = "justify"> A figura 01 apresenta o quadro de disponbilidade geral dos integrantes do grupo.</p>
 
 <img width="800px" src="../assets/Heatmap/Geral.png" alt="QuadroGeral">
 <figcaption>Figura 01 - Quadro de disponibilidade geral dos integrantes </figcaption>
+
+<p><strong>Obs</strong>: pode sofrer alteração ao longo do semestre.</p>
 
 
 
@@ -92,7 +94,7 @@ Em consenso foi escolhido o Caixa tem.
 <img width="800px" src="../assets/Heatmap/Ugor.png" alt="QuadroUgor">
 <figcaption>Figura 07 - Quadro de disponibilidade do Ugor Costa </figcaption>
 
-# 3. Ferramentas Utilizadas
+## 4. Ferramentas Utilizadas
 
 <center>
 
@@ -110,8 +112,12 @@ Em consenso foi escolhido o Caixa tem.
 
 </center>
 
+## Bibliografia <a id="Bibliografia"></a>
+<p align = "justify"> [1] LEFFINGWELL, Dean; <strong>Agile Software Requirements</strong>: Lean Requirements Practices for Teams, Programs, and Enterprise. 1. ed. Boston: Pearson, 2011. </p>
 
-# Versionamento
+
+
+## Versionamento
 
 <center>
 
@@ -119,6 +125,6 @@ Em consenso foi escolhido o Caixa tem.
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
 | 1.01 | 02/08/2021 | Adicionou o bloco de Metodologia, Aplicativos avaliados individualmente e Ferramentas Utilizadas| Antônio Aldisio |
-| 1.03 | 02/08/2021 | Alteração do texto sobre scrum | Antônio Aldisio |
+| 1.05 | 02/08/2021 | Ajuste de texto<br> Adicionada referência teórica | Fernando Calil |
 
 </center>

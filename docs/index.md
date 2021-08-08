@@ -4,8 +4,8 @@ Serão documentados os métodos e técnicas para levantamento e especificação 
 
 ## Sobre o Aplicativo 
 <p style="text-indent: 20px; align = "justify"> O CAIXA Tem é um aplicativo da CAIXA criado para facilitar o acesso de todos os brasileiros a serviços e transações bancárias de sua conta Poupança Digital Social.
-Com o app é possível consultar saldos e extratos, fazer pagamentos de contas e boletos, transferências e compras na internet utilizando o Cartão de Débito Virtual, gerado gratuitamente no próprio aplicativo. 
-Ele também permite compras no comércio por meio de um QR Code gerado pelo lojista na própria maquininha do estabelecimento comercial. [1] </p>
+Com o app é possível, consultar saldos e extratos, fazer pagamentos de contas e boletos, transferências e compras na internet utilizando o Cartão de Débito Virtual, gerado gratuitamente no próprio aplicativo. 
+Ele também permite compras no comércio por meio de um QR Code gerado pelo lojista na própria maquininha do estabelecimento comercial. <a href="Bibliografia">[1]</a> </p>
 
 ## Integrantes 
 
@@ -21,7 +21,7 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 
 
 
-## Bibliografia
+## Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] https://www.caixa.gov.br/caixatem/Paginas/default.aspx </p>
 
 
@@ -32,5 +32,6 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
 | 1.01 | 02/08/2021 | Adiconar informaçōes sobre os Integrantes | Antônio Aldisio |
+| 1.02 | 02/08/2021 | Melhorias no padrão de foto dos integrantes | Fernando Calil |
 
 </center>

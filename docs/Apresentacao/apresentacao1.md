@@ -8,7 +8,7 @@
     allowfullscreen></iframe>
 
 
-## Link do silde
+## Link do slide
 
 Apresentações feita no Google Slides.
 
