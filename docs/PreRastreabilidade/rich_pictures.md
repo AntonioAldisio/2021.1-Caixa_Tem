@@ -17,7 +17,7 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 ### 1.1 Antonio Aldísio
 
-<img width="800px" src="../../assets/RichPicture/prototipo1_antonio.jpeg" alt="PropostaAntonio01">
+<img width="600px" src="../../assets/RichPicture/prototipo1_antonio.jpeg" alt="PropostaAntonio01">
 <figcaption>Figura 01 - Proposta de aplicativo - Carteira Digital de Trânsito. </figcaption>
 
 ### 1.2 Ariel Serafim
