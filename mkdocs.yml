@@ -9,6 +9,8 @@ docs_dir: docs/
 nav:
   - Sobre: index.md
   - Planejamento: planejamento.md
+  - Atas de reunião:
+    - Ata 01: 'Atas/Ata01.md'
   - Apresentaçōes:
     - Apresentação 1: 'Apresentacao/apresentacao1.md'
   - Pré-rastreabilidade:
