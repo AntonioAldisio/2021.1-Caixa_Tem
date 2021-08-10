@@ -17,17 +17,20 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 ### 1.1 Antonio Aldísio
 
+<img width="800px" src="../../assets/RichPicture/prototipo1_antonio.png" alt="PropostaAntonio01">
+<figcaption>Figura 01 - Proposta de aplicativo - Carteira Digital de Trânsito. </figcaption>
+
 ### 1.2 Ariel Serafim
 
 ### 1.3 Fernando Calil
 
 
 <img width="800px" src="../../assets/RichPicture/prototipo1_fernando.png" alt="PropostaFernandov01">
-<figcaption>Figura 01 - Proposta de aplicativo - Youtube. </figcaption>
+<figcaption>Figura 04 - Proposta de aplicativo - Youtube. </figcaption>
 
 
 <img width="800px" src="../../assets/RichPicture/prototipo2_fernando.png" alt="PropostaFernandov01">
-<figcaption>Figura 02 - Proposta de aplicativo - Meu Imposto de Renda.  </figcaption>
+<figcaption>Figura 05 - Proposta de aplicativo - Meu Imposto de Renda.  </figcaption>
 
 ### 1.4 Lucas Lopes
 
@@ -53,9 +56,10 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 <center>
 
 | Versão | Data | Modificação | Autor |
-|--|--|--|--|
+|:--:|:--:|:--:|:--:|
 | 1.0  | 03/08/2021 | Criação do rich picture  geral | Todos |
 | 1.01 | 04/08/2021 | Inserir imagem da versão 1.0 do rich picture | Antônio Aldísio |
 | <br> 1.1 | <br> 07/08/2021 | Adição de teoria sobre Rich Picture <br> Nova estruturação do conteudo <br> Adicionados Rich Pictures individuais | <br> Fernando Calil |
+| 1.11 | 10/08/2021 | Inserir imagem do meu rich picture | Antônio Aldísio |
 
 </center>
