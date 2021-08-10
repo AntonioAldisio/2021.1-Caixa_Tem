@@ -23,7 +23,7 @@
 - Priorização de requisitos;
 
 
-## 5. Discussões
+## 5 Discussões
 
 ### 5.1 Elicitação de Requisitos 
 <p style="text-indent: 20px; align = "justify">
@@ -35,9 +35,9 @@ Foi discutido e acordado entre os membros as seguintes técnicas de elicitação
 
 <p style="text-indent: 20px; align = "justify">
 Para escolha foi levado em consideração o contexto dos conteúdo já estudados pelos estudantes.
-<p>
+</p>
 
-### 5.2 Priorização de requisitos
+### 5.2. Priorização de requisitos
 
 <p style="text-indent: 20px; align = "justify">
 Foi discutido e acordado entre os membros as seguintes prioridades de requisitos:
@@ -48,14 +48,15 @@ Foi discutido e acordado entre os membros as seguintes prioridades de requisitos
 
 <p style="text-indent: 20px; align = "justify">
 Para escolha foi levado em consideração o contexto dos conteúdo já estudados pelos estudantes.
-<p>
+</p>
+
 
 ## 6. Backlog da Sprint
 
 <center>
 
 | Sprint | Atividade | Data entrega | Responsavél | Revisor |
-|:--:|:--:|:--:|:--:|:--:|
+|--|--|--|--|--|
 | 01 | Realizar alteração de melhoria proposta pelo professor| 15/08 | Todos | ---- |
 | 01 | Tabela de Argumentação da escolha do aplicativo | 15/08 | Ugor Costa | Todos |
 | 01 | Análise de documentos| 15/08 | Ariel Serafim| Antônio Aldísio |
