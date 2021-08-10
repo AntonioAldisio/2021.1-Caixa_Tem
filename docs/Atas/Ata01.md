@@ -24,6 +24,7 @@
 
 
 ## 5. Discussões
+
 ### 5.1 Elicitação de Requisitos 
 <p style="text-indent: 20px; align = "justify">
 Foi discutido e acordado entre os membros as seguintes técnicas de elicitação:
@@ -55,8 +56,8 @@ Para escolha foi levado em consideração o contexto dos conteúdo já estudados
 
 | Sprint | Atividade | Data entrega | Responsavél | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-| 01 | Realizar alteração de melhoria <br> proposta pelo professor| 15/08 | Todos | ---- |
-| 01 | Tabela de Argumentação da escolha <br> do aplicativo | 15/08 | Ugor Costa | Todos |
+| 01 | Realizar alteração de melhoria proposta pelo professor| 15/08 | Todos | ---- |
+| 01 | Tabela de Argumentação da escolha do aplicativo | 15/08 | Ugor Costa | Todos |
 | 01 | Análise de documentos| 15/08 | Ariel Serafim| Antônio Aldísio |
 | 01 | Questionário | 15/08 | Lucas Gomes e Matheus Salim|  Ugor Costa|
 | 01 | MoSCow | 15/08 | Fernando Calil | Matheus Salim |
