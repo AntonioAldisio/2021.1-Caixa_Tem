@@ -1,4 +1,4 @@
-## Versionamento
+
 # Ata de Reunião 10/08/2021
 
 ## 1. Local
@@ -71,7 +71,7 @@ Para escolha foi levado em consideração o contexto dos conteúdo já estudados
 ## 7. Tópico para próxima reunião
 <p style="text-indent: 20px; align = "justify"> Não ficou nada pedende para próxima reunião. </p>
 
-
+## Versionamento
 <center>
 
 | Versão | Data | Modificação | Autor |
