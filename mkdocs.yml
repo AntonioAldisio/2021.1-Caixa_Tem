@@ -15,3 +15,10 @@ nav:
     - Apresentação 1: 'Apresentacao/apresentacao1.md'
   - Pré-rastreabilidade:
     - Rich pictures: 'PreRastreabilidade/rich_pictures.md'
+  - Elicitação:
+    - Análise de Documentos: 'Elicitacao/AnalisedeDocumentos.md'
+    - Questionario: 'Elicitacao/questionario.md'
+    - Priorização:
+      - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
+      - Gráfico Tempo X Esforço: 'Elicitacao/Priorizacao/esforcoImpacto.md'
+    - Resultado: 'Elicitacao/Elicitacao.md'
