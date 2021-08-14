@@ -1,10 +1,17 @@
-site_name: Caixa Tem
+site_name: CAIXA Tem
 
 theme:
   name: material
   language: pt
+  font:
+    text: 'Kurale'
+  logo: assets/Images/logo.png
+  favicon: assets/Images/icon2.png
 
 docs_dir: docs/
+
+extra_css:
+  - assets/ExtraCss/page.css
 
 nav:
   - Sobre: index.md
