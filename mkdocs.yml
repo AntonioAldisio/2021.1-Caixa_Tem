@@ -24,7 +24,7 @@ nav:
     - Rich pictures: 'PreRastreabilidade/rich_pictures.md'
   - Elicitação:
     - Análise de Documentos: 'Elicitacao/AnalisedeDocumentos.md'
-    - Questionario: 'Elicitacao/questionario.md'
+    - Questionário: 'Elicitacao/questionario.md'
     - Priorização:
       - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
       - Gráfico Tempo X Esforço: 'Elicitacao/Priorizacao/esforcoImpacto.md'
