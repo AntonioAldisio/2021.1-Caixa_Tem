@@ -77,6 +77,6 @@ Para escolha foi levado em consideração o contexto dos conteúdo já estudados
 | Versão | Data | Modificação | Autor |
 |:--:|:--:|:--:|:--:|
 | 1.0  | 10/08/2021 | Criação de página | Antônio Aldísio |
-| 1.2  | dd/dd/2021 | Elaboração da ata | Antônio Aldísio |
+| 1.1  | 10/08/2021 | Elaboração da ata | Antônio Aldísio |
 
 </center>
