@@ -10,9 +10,9 @@ O objetivo desse documento é reunir todos os requistos que foram elicitados par
 ## 2. Resultado
 <center>
 
-|Código| Requisito| Técnica|
-|:---:|:---:|:---:|
-|RF 1| ---| ----| 
+|Código| Requisito| Técnica| Priorização | 
+|:---:|:---:|:---:|:---:|
+|RF 1| ---| ----| ----|
 
 </center>
 
