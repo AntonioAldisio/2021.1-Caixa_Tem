@@ -26,6 +26,11 @@ nav:
   - Elicitação:
     - Análise de Documentos: 'Elicitacao/AnalisedeDocumentos.md'
     - Questionário: 'Elicitacao/questionario.md'
+    - Entrevista: 'Elicitacao/entrevista.md'
+    - Instrospecção: 'Elicitacao/inpeccao.md'
+    - Storytelling: 'Elicitacao/storytelling.md'
+    - Brainstorm: 'Elicitacao/brainstorm.md'
+    - Observação: 'Elicitacao/observacao.md'
     - Priorização:
       - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
       - Gráfico Tempo X Esforço: 'Elicitacao/Priorizacao/esforcoImpacto.md'
