@@ -49,7 +49,7 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 <figcaption>Figura 03 - Rich Picture colaborativo versão 1.  </figcaption>
 
 <img width="800px" src="../../assets/RichPicture/Richpicture_02.png" alt="ColaborativoV02">
-<figcaption>Figura 03 - Rich Picture colaborativo versão 2.  </figcaption>
+<figcaption>Figura 04 - Rich Picture colaborativo versão 2.  </figcaption>
 
 ## Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for resoning about work context. <strong>Interactions</strong>, York v.5, n.2, march./1998 </p>
