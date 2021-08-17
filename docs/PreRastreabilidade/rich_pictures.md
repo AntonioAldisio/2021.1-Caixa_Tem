@@ -37,15 +37,19 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 ### 1.5 Matheus Salim
 
 ### 1.6 Ugor Costa
-
+<img width="800px" src="../../assets/RichPicture/richpicturHemovida.png" alt="PropostaUgorv01">
+<figcaption>Figura 08 - Proposta de aplicativo - Hemovida.  </figcaption>
 
 ## 2. Discussao para escolha do tema
 
 ## 3. Rich Picture colaborativo
 
+
 <img width="800px" src="../../assets/RichPicture/v01.png" alt="ColaborativoV01">
 <figcaption>Figura 03 - Rich Picture colaborativo versão 1.  </figcaption>
 
+<img width="800px" src="../../assets/RichPicture/Richpicture_02.png" alt="ColaborativoV02">
+<figcaption>Figura 03 - Rich Picture colaborativo versão 2.  </figcaption>
 
 ## Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for resoning about work context. <strong>Interactions</strong>, York v.5, n.2, march./1998 </p>
@@ -61,5 +65,7 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 | 1.01 | 04/08/2021 | Inserir imagem da versão 1.0 do rich picture | Antônio Aldísio |
 | <br> 1.1 | <br> 07/08/2021 | Adição de teoria sobre Rich Picture <br> Nova estruturação do conteudo <br> Adicionados Rich Pictures individuais | <br> Fernando Calil |
 | 1.11 | 10/08/2021 | Inserir imagem do meu rich picture | Antônio Aldísio |
+| 1.12 | 17/08/2021 | Inserir imagem do meu rich picture | Ugor Costa |
+| 1.11 | 17/08/2021 | Inserir imagem do rich picture colaborativo com correcoes | Ugor Costa |
 
 </center>
