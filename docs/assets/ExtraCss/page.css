@@ -1,0 +1,56 @@
+:root {
+  --md-primary-fg-color: #1080c2;
+
+}
+
+.md-header__button.md-logo{
+  margin:.18rem;padding:.38rem !important
+}
+
+.md-header__button.md-logo img,.md-header__button.md-logo svg{
+  fill:currentColor;
+  display:block;
+  height:1.7rem;
+  width:1.7rem;
+}
+
+.md-main {
+  color: rgb(76, 84, 87) !important;
+  background-image: radial-gradient(#74bee9, #a7ddfc);
+}
+
+.md-content {
+  background-color: rgba(234, 250, 255, 0.5);
+  box-shadow: 0px 0px 27px -12px rgba(0,0,0,0.49);
+  border-collapse: collapse !important;
+  width: 100% !important;
+  border-radius: 10px !important;
+}
+
+/* Main headlines */
+.md-main h1 {
+  color: rgb(25, 26, 27) !important;
+}
+
+.md-main h2 {
+  color: rgb(25, 26, 27) !important;
+}
+
+.md-main h3 {
+  color: rgb(25, 26, 27) !important;
+}
+
+
+.md-main {
+
+}
+
+/* Tables */
+
+.md-typeset table {
+  background-color: rgb(205, 216, 223) !important;
+  box-shadow: 6px 6px 4px -2px rgba(0,0,0,0.34) !important;
+  border-collapse: collapse !important; 
+  width: 100% !important;
+  border-radius: 10px !important;
+}

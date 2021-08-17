@@ -100,15 +100,15 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
-|<img width="80px" height="80px" src="../assets/AplicativosUsados/CaixaTem.png" alt="CaixaTem">|<a href="https://play.google.com/store/apps/details?id=br.gov.caixa.tem" target="_blank">Caixa Tem| Aplicativo análisado por essa equipe |  
-|<img width="80px" height="80px" src="../assets/AplicativosUsados/github.png" alt="github">|<a href="https://github.com/Requisitos-de-Software/2021.1-Caixa_Tem" target="_blank">Github| Ferramenta de controle de versão de arquivos e código |  
-|<img width="80px" height="80px" src="../assets/AplicativosUsados/Discord.png" alt="discord">|<a href="https://discord.com/" target="_blank">Discord| Ferramenta principal de reunião do grupo | 
-|<img width="80px" height="80px" src="../assets/AplicativosUsados/google.png" alt="google">|<a href="https://google.com/" target="_blank">Google Workspace| Ferramenta de compatilhamento de arquivo |  
-|<img width="80px" height="80px" src="../assets/AplicativosUsados/teams.jpeg" alt="teams">|<a href="https://google.com/" target="_blank"> Teams| Ferramenta  de reunião do grupo e gravação de apresentaçōes |  
-|<img width="80px" height="80px" src="../assets/AplicativosUsados/whatsapp.jpeg" alt="whatsapp">|<a href="https://web.whatapp.com/" target="_blank"> Whatsapp| Mensageiro principal do grupo para diálogo  |  
+|<img width="80px" height="80px" src="../assets/AplicativosUsados/CaixaTem.png" alt="Caixa Tem">|<a href="https://play.google.com/store/apps/details?id=br.gov.caixa.tem" target="_blank">CAIXA Tem| Aplicativo análisado por essa equipe |  
+|<img width="80px" height="80px" src="../assets/AplicativosUsados/github.png" alt="Github">|<a href="https://github.com/Requisitos-de-Software/2021.1-Caixa_Tem" target="_blank">Github| Ferramenta de controle de versão de arquivos e código |  
+|<img width="110px" height="110px" src="../assets/AplicativosUsados/Discord.png" alt="Discord">|<a href="https://discord.com/" target="_blank">Discord| Ferramenta principal de reunião do grupo | 
+|<img width="150px" height="80px" src="../assets/AplicativosUsados/google.png" alt="Google">|<a href="https://google.com/" target="_blank">Google Workspace| Ferramenta de compatilhamento de arquivo |  
+|<img width="80px" height="80px" src="../assets/AplicativosUsados/MSTeams.png" alt="Microsoft Teams">|<a href="https://google.com/" target="_blank">Microsoft Teams| Ferramenta  de reunião do grupo e gravação de apresentaçōes |  
+|<img width="80px" height="80px" src="../assets/AplicativosUsados/WhatsApp.svg" alt="WhatsApp">|<a href="https://web.whatapp.com/" target="_blank"> WhatsApp| Mensageiro principal do grupo para diálogo  |  
 |<img width="80px" height="80px" src="../assets/AplicativosUsados/youtube.png" alt="Youtube">|<a href="https://youtube.com/" target="_blank"> Youtube| Plataforma de upload e visualização das apresentaçōes |  
-|<img width="80px" height="80px" src="../assets/AplicativosUsados/mkdocs.jpeg" alt="mkdocs">|<a href="https://youtube.com/" target="_blank"> Mkdocs| Ferramenta gerador de site estático minimalista|  
-
+|<img width="80px" height="80px" src="../assets/AplicativosUsados/mkdocs.jpeg" alt="Mkdocs">|<a href="https://www.mkdocs.org/" target="_blank"> Mkdocs| Ferramenta gerador de site estático minimalista|  
+|<img width="110px" height="110px" src="../assets/AplicativosUsados/material.png" alt="Mkdocs Material">|<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank"> Mkdocs - Material| Tema para a página|  
 
 </center>
 

@@ -15,7 +15,7 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 |Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
 |Ariel Serafim | --- | --- | 
 |Fernando Calil |  FernandoMirandaC | 190106565@aluno.unb.br | 
-|Lucas Lopes |  --- | --- | 
+|Lucas Gomes |  LucasGlopes | lucasglpes@gmail.com | 
 |Matheus Salim | --- | --- |
 |Ugor Costa| ubrando | ugor_gost@hotmail.com |
 

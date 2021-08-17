@@ -15,7 +15,7 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 |<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
 |<img width="150px" height = "140px" style="border-radius:10%" src="./assets/Integrantes/Ariel.png" alt="Ariel">|Ariel Serafim | ArielSixwings | arielserafim@gmail.com | 
 |<img width="150px" style="border-radius:10%" src="./assets/Integrantes/Fernado.jpeg" alt="Fernando">|Fernando Calil |  FernandoMirandaC | 190106565@aluno.unb.br | 
-|<img width="150px" style="border-radius:10%" src="./assets/Integrantes/Lucas.png" alt="Lucas">|Lucas Lopes | Lucas Gomes | lucasglpes@gmail.com | 
+|<img width="150px" style="border-radius:10%" src="./assets/Integrantes/Lucas.png" alt="Lucas">|Lucas Gomes | LucasGlopes | lucasglpes@gmail.com | 
 |<img width="150px" style="border-radius:10%" src="./assets/Integrantes/Matheus.jpeg" alt="Matheus">|Matheus Salim | matheussalimdeoliveira | matheussalimdeoliveira@gmail.com |
 |<img width="150px" style="border-radius:10%" src="./assets/Integrantes/ugor.png" alt="Ugor">|Ugor Costa| ubrando | ugor_gost@hotmail.com |
 
