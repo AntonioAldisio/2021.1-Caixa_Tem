@@ -2,13 +2,13 @@
 # Ata de Reunião 17/08/2021
 
 ## 1. Local
-<p style="text-indent: 20px; align="justify"> Camada de voz realizada no Discord </p>
+<p style="text-indent: 40px; align="justify"> Camada de voz realizada no Discord </p>
 
 ## 2. Participantes
 - Antônio Aldísio
 - Ariel Serafim 
 - Lucas Gomes
-- Fernando Calli
+- Fernando Calil
 - Ugor Costa
 
 ## 3. Início
@@ -23,15 +23,15 @@
 ## 5 Discussões
 
 ### 5.1 Feedback da sprint 01.
-<p style="text-indent: 20px; align="justify"> O membros presentes apresentaram feedback positivo em relação a primeira sprint. A maioria dos membros fizeram pesquisa sobre novas técnicas de elicitação.</p>
+<p style="text-indent: 40px; align="justify"> O membros presentes apresentaram feedback positivo em relação a primeira sprint. A maioria dos membros fizeram pesquisa sobre novas técnicas de elicitação.</p>
 
-<p style="text-indent: 20px; align="justify"> Dividas da sprints: </p>
+<p style="text-indent: 40px; align="justify"> Dividas da sprints: </p>
 - Não teve retorno dos desenvolvedores do Caixa Tem.
 - Atualizar wiki.
 
 
 ### 5.2 Incluir novas técnicas de elicitação.
-<p style="text-indent: 20px; align="justify"> O grupo propos novas técnicas de elicitação: </p>
+<p style="text-indent: 40px; align="justify"> O grupo propos novas técnicas de elicitação: </p>
 - Entrevista.
 - Instrospecção.
 - Storytelling.

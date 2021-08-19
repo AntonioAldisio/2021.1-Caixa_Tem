@@ -22,7 +22,7 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 
 
 ## Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] https://www.caixa.gov.br/caixatem/Paginas/default.aspx </p>
+<p align = "justify"> [1] - https://www.caixa.gov.br/caixatem/Paginas/default.aspx </p>
 
 
 ## Versionamento
@@ -32,6 +32,6 @@ Ele também permite compras no comércio por meio de um QR Code gerado pelo loji
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
 | 1.01 | 02/08/2021 | Adiconar informaçōes sobre os Integrantes | Antônio Aldisio |
-| 1.02 | 02/08/2021 | Melhorias no padrão de foto dos integrantes | Fernando Calil |
+| 1.02 | 08/08/2021 | Melhorias no padrão de foto dos integrantes | Fernando Calil |
 
 </center>

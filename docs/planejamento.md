@@ -113,7 +113,7 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 </center>
 
 ## Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] LEFFINGWELL, Dean; <strong>Agile Software Requirements</strong>: Lean Requirements Practices for Teams, Programs, and Enterprise. 1. ed. Boston: Pearson, 2011. </p>
+<p align = "justify"> [1] - LEFFINGWELL, Dean; <strong>Agile Software Requirements</strong>: Lean Requirements Practices for Teams, Programs, and Enterprise. 1. ed. Boston: Pearson, 2011. </p>
 
 
 
@@ -125,6 +125,6 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
 | 1.01 | 02/08/2021 | Adicionou o bloco de Metodologia, Aplicativos avaliados individualmente e Ferramentas Utilizadas| Antônio Aldisio |
-| 1.05 | 02/08/2021 | Ajuste de texto<br> Adicionada referência teórica | Fernando Calil |
+| 1.05 | 08/08/2021 | Ajuste de texto<br> Adicionada referência teórica | Fernando Calil |
 
 </center>

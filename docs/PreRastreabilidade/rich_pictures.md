@@ -17,7 +17,7 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 ### 1.1 Antonio Aldísio
 
-<img width="600px" src="../../assets/RichPicture/prototipo1_antonio.jpeg" alt="PropostaAntonio01">
+<img width="600px"  class="center" src="../../assets/RichPicture/prototipo1_antonio.jpeg" alt="PropostaAntonio01">
 <figcaption>Figura 01 - Proposta de aplicativo - Carteira Digital de Trânsito. </figcaption>
 
 ### 1.2 Ariel Serafim
@@ -46,14 +46,14 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 
 <img width="800px" src="../../assets/RichPicture/v01.png" alt="ColaborativoV01">
-<figcaption>Figura 03 - Rich Picture colaborativo versão 1.  </figcaption>
+<figcaption>Figura 09 - Rich Picture colaborativo versão 1.  </figcaption>
 
 <img width="800px" src="../../assets/RichPicture/Richpicture_02.png" alt="ColaborativoV02">
-<figcaption>Figura 04 - Rich Picture colaborativo versão 2.  </figcaption>
+<figcaption>Figura 10 - Rich Picture colaborativo versão 2.  </figcaption>
 
 ## Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for resoning about work context. <strong>Interactions</strong>, York v.5, n.2, march./1998 </p>
-<p>[2] http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html</p>
+<p align = "justify"> [1] - MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for resoning about work context. <strong>Interactions</strong>, York v.5, n.2, march./1998 </p>
+<p>[2] - http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html</p>
 
 ## Versionamento
 

@@ -1,12 +1,12 @@
 # Questionario
 ## 1.Introdução
 
-<p style="text-indent: 20px; align="justify"> O questionário é uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público-alvo numeroso. Quando aplicada a uma amostra representativa do público, permite representar as opiniões de toda a população.</p>
-<p style="text-indent: 20px; align="justify">É uma técnica relativamente rápida e barata de ser aplicada e é muito útil quando a o público-alvo está disperso geograficamente.<a href="#Bibliografia">[1]</a><br></p>
+<p style="text-indent: 40px; align="justify"> O questionário é uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público-alvo numeroso. Quando aplicada a uma amostra representativa do público, permite representar as opiniões de toda a população.</p>
+<p style="text-indent: 40px; align="justify">É uma técnica relativamente rápida e barata de ser aplicada e é muito útil quando a o público-alvo está disperso geograficamente.<a href="#Bibliografia">[1]</a><br></p>
 
 ## 2.Metodologia
 
-<p style="text-indent: 20px; align="justify">O questionário foi elaborado pelos membros Lucas Gomes e Matheus Salim e posteriormente revisado por Ugor Costa. O questionário possui perguntas relacionadas ao uso do aplicativo e perguntas genéricas com o intuito de descobrir o perfil dos usuários.</p>
+<p style="text-indent: 40px; align="justify">O questionário foi elaborado pelos membros Lucas Gomes e Matheus Salim e posteriormente revisado por Ugor Costa. O questionário possui perguntas relacionadas ao uso do aplicativo e perguntas genéricas com o intuito de descobrir o perfil dos usuários.</p>
 
 <img  src="../../assets/imgs/diagramaQuestionario.png" alt="diagramaQuestionario">
 <figcaption>Figura 01 - Diagrama Representativo do Questionário</figcaption>
