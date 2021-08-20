@@ -36,9 +36,8 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 ### 1.5 Matheus Salim
 
-<img width="800px" src="../../assets/RichPicture/rich picture_pagmeia.png" alt="PropostaMatheusv01">
+<img width="800px" src="../../assets/RichPicture/richpicture_pagmeia.png" alt="PropostaMatheusv01">
 <figcaption>Figura 06 - Proposta de aplicativo - PagMeia.  </figcaption>
-
 
 ### 1.6 Ugor Costa
 <img width="800px" src="../../assets/RichPicture/richpicturHemovida.png" alt="PropostaUgorv01">
