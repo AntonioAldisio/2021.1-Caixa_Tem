@@ -26,6 +26,10 @@
   width: 50%;
 }
 
+h3 {
+  text-indent: 10px;
+}
+
 /*p {
   text-indent: 50px;
   text-align: justify;

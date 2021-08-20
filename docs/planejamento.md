@@ -1,6 +1,6 @@
 # Planejamento 
 ## 1. Aplicativos avaliados individualmente
-<p style="text-indent: 20px; align = "justify"> Cada integrante avaliou um aplicativo de seu interesse, alguns membros realizaram a análise do mesmo aplicativo, como foi o caso da Carteira Digital de Trânsito. Temos então os seguintes aplicativos avaliados:</p>
+<p style="text-indent: 40px; align = "justify"> Cada integrante avaliou um aplicativo de seu interesse, alguns membros realizaram a análise do mesmo aplicativo, como foi o caso da Carteira Digital de Trânsito. Temos então os seguintes aplicativos avaliados:</p>
 
 - Youtube
 - Caixa Tem
@@ -11,7 +11,7 @@
 Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 ## 2. Metodologia  
 
-<p style="text-indent: 20px; align = "justify"> A metodologia adotada pelo grupo foi o metodo SCRUM. <a href="#Bibliografia">[1]</a> </p>
+<p style="text-indent: 40px; align = "justify"> A metodologia adotada pelo grupo foi o metodo SCRUM. <a href="#Bibliografia">[1]</a> </p>
 
 - Daliy: Todo dia via whatsapp;
 - Reunião Semanal: Segunda a noite via discord;
@@ -19,7 +19,7 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 
 
 ### 2.1  Cronograma de atividades 
-<p style="text-indent: 20px; align = "justify"> Conforme as datas estipuladas pelo professor foi levantado um cronograma das atividades a serem realizadas. Vale salientar que as datas podem ser alteradas ao decorrer do tempo.</p>
+<p style="text-indent: 40px; align = "justify"> Conforme as datas estipuladas pelo professor foi levantado um cronograma das atividades a serem realizadas. Vale salientar que as datas podem ser alteradas ao decorrer do tempo.</p>
 
 <center>
 
@@ -60,12 +60,12 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 <figcaption>Tabela 2 - Cronograma das sprints </figcaption>
 </center>
 
-<p style="text-indent: 20px; align = "justify"> <strong>Obs</strong>: Os Backlogs das sprints serão atualizados ao longo do desenvolvimento do projeto.</p>
+<p style="text-indent: 40px; align = "justify"> <strong>Obs</strong>: Os Backlogs das sprints serão atualizados ao longo do desenvolvimento do projeto.</p>
 
 
 ## 3  Disponibilidade dos integrantes
 
-<p style="text-indent: 20px; align = "justify"> A figura 01 apresenta o quadro de disponbilidade geral dos integrantes do grupo.</p>
+<p style="text-indent: 40px; align = "justify"> A figura 01 apresenta o quadro de disponbilidade geral dos integrantes do grupo.</p>
 
 <img width="800px" src="../assets/Heatmap/Geral.png" alt="QuadroGeral">
 <figcaption>Figura 01 - Quadro de disponibilidade geral dos integrantes </figcaption>

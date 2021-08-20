@@ -1,6 +1,6 @@
 ## Rich Picture
 
-<p style="text-indent: 20px; align="justify"> Rich Picture e uma ferramenta para a representação visual simples, que pode de ser entendida por qualquer pessoa, das preocupações e relações dos usuários com uma aplicação.<a href="#Bibliografia">[1]</a><br><br>
+<p style="text-indent: 40px; align="justify"> Rich Picture e uma ferramenta para a representação visual simples, que pode de ser entendida por qualquer pessoa, das preocupações e relações dos usuários com uma aplicação.<a href="#Bibliografia">[1]</a><br><br>
 O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
     <ol>
     <li> Elaboração de Rich Pictures individuais, primeiramente para ganhar experiencia com a técnica, e também para propor ideias do tema do projeto. </li>
@@ -12,7 +12,7 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 ## 1. Rich Pictures individuais
 
-<p style="text-indent: 20px; align="justify"> Antes que fosse decidida definitivamente a escolha  do aplicativo alvo do projeto, cada integrante fez um Rich Picture de, ao menos, uma aplicação que considerava adequado para o escopo do projeto. <a href="#Bibliografia">[1][2]</a></p>
+<p style="text-indent: 40px; align="justify"> Antes que fosse decidida definitivamente a escolha  do aplicativo alvo do projeto, cada integrante fez um Rich Picture de, ao menos, uma aplicação que considerava adequado para o escopo do projeto. <a href="#Bibliografia">[1][2]</a></p>
 
 
 ### 1.1 Antonio Aldísio
