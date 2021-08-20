@@ -41,6 +41,8 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 <figcaption>Figura 07 - Proposta de aplicativo - Hemovida.  </figcaption>
 
 ## 2. Discussao para escolha do tema
+<p style="text-indent: 40px; align="justify"> Nós como grupo tinhamos que escolher dentro dos aplicativos que foram realizados os rich pictures, aquele que possuia os requisitos para poder ser o nosso tema principal , os requisitos eram: um aplicativo que ao mesmo tempo que poderiamos trabalhar bem "em cima dele", não fosse tão complexo; um aplicativo do governo. Dentro das opções escolhemos por votação unanime o aplicativo do governo Caixa Tem.
+<br></p>
 
 ## 3. Rich Picture colaborativo
 
