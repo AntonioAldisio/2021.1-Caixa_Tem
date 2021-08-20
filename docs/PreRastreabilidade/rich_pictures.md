@@ -26,11 +26,11 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 
 <img width="800px" src="../../assets/RichPicture/prototipo1_fernando.png" alt="PropostaFernandov01">
-<figcaption>Figura 04 - Proposta de aplicativo - Youtube. </figcaption>
+<figcaption>Figura 03 - Proposta de aplicativo - Youtube. </figcaption>
 
 
 <img width="800px" src="../../assets/RichPicture/prototipo2_fernando.png" alt="PropostaFernandov01">
-<figcaption>Figura 05 - Proposta de aplicativo - Meu Imposto de Renda.  </figcaption>
+<figcaption>Figura 04 - Proposta de aplicativo - Meu Imposto de Renda.  </figcaption>
 
 ### 1.4 Lucas Lopes
 
@@ -38,7 +38,7 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 ### 1.6 Ugor Costa
 <img width="800px" src="../../assets/RichPicture/richpicturHemovida.png" alt="PropostaUgorv01">
-<figcaption>Figura 08 - Proposta de aplicativo - Hemovida.  </figcaption>
+<figcaption>Figura 07 - Proposta de aplicativo - Hemovida.  </figcaption>
 
 ## 2. Discussao para escolha do tema
 
@@ -46,10 +46,10 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 
 <img width="800px" src="../../assets/RichPicture/v01.png" alt="ColaborativoV01">
-<figcaption>Figura 09 - Rich Picture colaborativo versão 1.  </figcaption>
+<figcaption>Figura 08 - Rich Picture colaborativo versão 1.  </figcaption>
 
 <img width="800px" src="../../assets/RichPicture/Richpicture_02.png" alt="ColaborativoV02">
-<figcaption>Figura 10 - Rich Picture colaborativo versão 2.  </figcaption>
+<figcaption>Figura 09 - Rich Picture colaborativo versão 2.  </figcaption>
 
 ## Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] - MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for resoning about work context. <strong>Interactions</strong>, York v.5, n.2, march./1998 </p>

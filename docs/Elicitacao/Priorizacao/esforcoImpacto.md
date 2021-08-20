@@ -9,7 +9,7 @@ Na figura 01 temos a matriz é dividida em dois eixos, vertical e horizontal. O 
 </p>
 
 <center>
-<img width="600px" src="../../../assets/imgs/matrixdeEsforco.png" alt="matrixdeEsforco">
+<img width="600px" src="../../../assets/imgs/matrixdeEsforco.jpeg" alt="matrixdeEsforco">
 <figcaption>Figura 01 - Matriz  Esforço X Impacto. Fonte:[1] </figcaption>
 </center>
 
