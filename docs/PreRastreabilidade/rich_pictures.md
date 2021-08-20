@@ -69,5 +69,6 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 | 1.11 | 10/08/2021 | Inserir imagem do meu rich picture | Antônio Aldísio |
 | 1.12 | 17/08/2021 | Inserir imagem do meu rich picture | Ugor Costa |
 | 1.11 | 17/08/2021 | Inserir imagem do rich picture colaborativo com correcoes | Ugor Costa |
+| 1.13 | 20/08/2021 | Inserir imagem do meu rich picture, fazer a discussão sobre o tema | Matheus Salim de Oliveira |
 
 </center>
