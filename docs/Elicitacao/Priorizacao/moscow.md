@@ -18,11 +18,11 @@ Durante o processo de priorização, cada funcionalidade é avaliada com relaç�
 <img width="550" src="../../../assets/Images/moscow.png" class="center" alt="Método de priorização MoSCoW">
 <figcaption class="center"> Figura 1 - Descrição de cada prioridade. </figcaption>
 
-## Bibliografia <a id="Bibliografia"></a>
+## Bibliografia  <a id="Bibliografia"></a>
 
 [1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016. 
 
-## <a href="#moscow">Versionamento</a>
+## Versionamento
 
 <center>
 

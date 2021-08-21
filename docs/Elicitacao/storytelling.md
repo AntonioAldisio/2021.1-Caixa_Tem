@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-<p style="text-indent: 40px; align = "justify"> Técnica usada quando o público alvo não se encontra acessível ao time de desenvolvimento, storytelling vai se utilizar de personas, representações fictícias de usuários que seriam potenciais usuários do produto o qual o planejamento está ocorrendo. Utilizamos esses usuários fictícios para contar histórias sobre o suas preocupações, objetivos, preferências, tudo com o intuito de dar vida a estes usuários, para poder entender quais são as suas necessidades e consequentemente as funcionalidades que as atenderiam.</p>
+<p style="text-indent: 40px; align = "justify"> Técnica usada quando o público alvo não se encontra acessível ao time de desenvolvimento, storytelling vai se utilizar de personas, representações fictícias de usuários que seriam potenciais usuários do produto o qual o planejamento está ocorrendo. Utilizamos esses usuários fictícios para contar histórias sobre o suas preocupações, objetivos, preferências, tudo com o intuito de dar vida a estes usuários, para poder entender quais são as suas necessidades e consequentemente as funcionalidades que as atenderiam.<a href="#bibliografia">[1]</a></p>
 
 ## 2. Personas
 
@@ -59,10 +59,9 @@
 | RNF 05 | Os dados do usuário devem ser protegidos. |
 | RNF 06 | Os dados dos usuários devem ser checados sobre a elegibilidade para os serviços sociais. |
 
-## Bibliografia
+## Bibliografia  <a id="Bibliografia"></a>
 
-[1] - BARBOSA, S. D. J; SILVA, B. S.; Interação Humano-Computador. 1. ed. 2010: Elsevier, Rio de Janeiro - RJ Brasil.
-
+[1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016. 
 
 ## Versionamento
 
