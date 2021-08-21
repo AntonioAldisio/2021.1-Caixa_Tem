@@ -45,8 +45,8 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 |:------:|:-------------:|:--------------------:|:---------------------:|
 | 0 | 29/07 | 01/08 | Escolha do Aplicativo, ferramentas e metodologia |  
 | 1 | 02/08 | 08/08 | Montagem de wiki, Gravação da apresentação 1|  
-| 2 | 09/08 | 15/08 | ---------- |  
-| 3 | 16/08 | 22/08 | ---------- | 
+| 2 | 10/08 | 16/08 | Questionário, Análise de Documentos, definição de técnicas de priorização (MoSCoW, Gráfico Tempo x Esforço), Tabela de argumentação e nova versão do Rich Picture |  
+| 3 | 17/08 | 21/08 | Entrevista, Observação, Storytelling, Introspecção, Brainstorming, Priorização dos requisitos, Gravação e edição da Apresentação 2 | 
 | 4 | 23/08 | 29/08 | ---------- |
 | 5 | 30/08 | 05/09 | ---------- | 
 | 6 | 06/09 | 12/09 | ---------- | 
