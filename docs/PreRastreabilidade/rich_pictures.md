@@ -32,7 +32,10 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 <img width="800px" src="../../assets/RichPicture/prototipo2_fernando.png" alt="PropostaFernandov01">
 <figcaption>Figura 04 - Proposta de aplicativo - Meu Imposto de Renda.  </figcaption>
 
-### 1.4 Lucas Lopes
+### 1.4 Lucas Gomes
+
+<img width="800px" src="../../assets/RichPicture/richpicture_lucas.png" alt="PropostaLucasv01">
+<figcaption>Figura 05 - Proposta de aplicativo - Hemovida.  </figcaption>
 
 ### 1.5 Matheus Salim
 
@@ -43,8 +46,8 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 <img width="800px" src="../../assets/RichPicture/richpicturHemovida.png" alt="PropostaUgorv01">
 <figcaption>Figura 07 - Proposta de aplicativo - Hemovida.  </figcaption>
 
-## 2. Discussao para escolha do tema
-<p style="text-indent: 40px; align="justify"> Nós como grupo tinhamos que escolher dentro dos aplicativos que foram realizados os rich pictures, aquele que possuia os requisitos para poder ser o nosso tema principal , os requisitos eram: um aplicativo que ao mesmo tempo que poderiamos trabalhar bem "em cima dele", não fosse tão complexo; um aplicativo do governo. Dentro das opções escolhemos por votação unanime o aplicativo do governo Caixa Tem.
+## 2. Discussão para escolha do tema
+<p style="text-indent: 40px; align="justify"> Nós, como grupo, tinhamos que escolher dentro dos aplicativos que foram realizados os rich pictures, aquele que possuia os requisitos para poder ser o nosso tema principal. Os requisitos eram: um aplicativo que ao mesmo tempo que poderiamos trabalhar bem "em cima dele", não fosse tão complexo; um aplicativo do governo. Dentro das opções escolhemos por votação unânime o aplicativo do governo Caixa Tem.
 <br></p>
 
 ## 3. Rich Picture colaborativo
@@ -73,5 +76,6 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 | 1.12 | 17/08/2021 | Inserir imagem do meu rich picture | Ugor Costa |
 | 1.11 | 17/08/2021 | Inserir imagem do rich picture colaborativo com correcoes | Ugor Costa |
 | 1.13 | 20/08/2021 | Inserir imagem do meu rich picture, fazer a discussão sobre o tema | Matheus Salim de Oliveira |
-| 1.14 | 21/08/2021 | Inserir imagem do meu rich picture, proposta inicial do CaixaTem | Ariel Vieria Lima Serafim 
+| 1.14 | 21/08/2021 | Inserir imagem do meu rich picture, proposta inicial do CaixaTem | Ariel Vieria Lima Serafim |
+| 1.15 | 21/08/2021 | Inserir imagem do meu rich picture | Lucas Gomes | 
 </center>
