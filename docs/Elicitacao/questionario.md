@@ -73,8 +73,10 @@
 | RF 02 | O usuário pode consultar seu saldo | 
 | RF 03 | O usuário pode consultar seus extratos | 
 | RF 04 | O usuário pode fazer saque sem cartão | 
-| RF 05 | O usuário deve ser capaz de pagar suas contas e boletos | 
-
+| RF 05 | O aplicativo deve gerar um código para saque | 
+| RF 06 | O usuário deve ser capaz de pagar suas contas e boletos | 
+| RF 07 | O usuário deve ser capaz de comprar na maquininha | 
+| RF 08 | O usuário pode realizar compras na internet com cartão de débito virtual | 
 
 
 
@@ -82,9 +84,13 @@
 | ID | Requisito | 
 |--|--|
 | RNF 01 | O aplicativo deve manter os dados do usuário em segurança | 
-| RNF 01 | O aplicativo deve possuir uma interface simples | 
-| RNF 01 | O aplicativo deve ser veloz e eficiente | 
-| RNF 01 | O aplicativo deve ser acessível a pessoas com deficiência | 
+| RNF 02 | O aplicativo deve possuir uma interface simples | 
+| RNF 03 | O aplicativo deve ser veloz e eficiente | 
+| RNF 04 | O aplicativo deve ser intuitivo | 
+| RNF 05 | O aplicativo deve ser acessível a pessoas com deficiência | 
+| RNF 06 | As funcionalidades do aplicativo devem se parecer com uma conversa | 
+| RNF 07 | O código de segurança gerado para realizar compras com cartão de débito virtual deve ser válido para apenas uma compra | 
+
 
 
 ## 6.Bibliografia <a id="Bibliografia"></a>
