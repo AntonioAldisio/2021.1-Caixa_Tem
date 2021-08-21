@@ -21,7 +21,7 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 <figcaption>Figura 01 - Proposta de aplicativo - Carteira Digital de Trânsito. </figcaption>
 
 ### 1.2 Ariel Serafim
-<img width="600px"  class="center" src="../../assets/RichPicture/prototipo1_ArielSerafim.png" alt="PropostaAntonio01">
+<img width="600px"  class="center" src="../../assets/RichPicture/prototipo1_ArielSerafim.png" alt="PropostaAriel01">
 <figcaption>Figura 02 - Proposta de aplicativo - CaixaTem. </figcaption>
 ### 1.3 Fernando Calil
 
