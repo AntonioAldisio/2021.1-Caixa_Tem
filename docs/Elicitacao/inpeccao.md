@@ -32,7 +32,8 @@
 | RF 19 | O usuário tem que ser capaz de fazer gerar o cartão de débito virtual | 
 | RF 20 | O usuário tem que ser capaz de consultar comprovante de pagamentos e transferência | 
 | RF 21 | O usuário tem que ser capaz de acessar as informaçōes do NIS | 
-| RF 22 | O usuário tem que ser capaz de fazer recarga no aplicativo/cartão de transporte | 
+| RF 22 | O usuário tem que ser capaz de fazer recarga no aplicativo | 
+| RF 23 | O usuário tem que ser capaz de fazer recarga no cartão de transporte | 
 
 
 

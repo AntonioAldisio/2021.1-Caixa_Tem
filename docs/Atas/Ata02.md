@@ -2,7 +2,7 @@
 # Ata de Reunião 17/08/2021
 
 ## 1. Local
-<p style="text-indent: 40px; align="justify"> Camada de voz realizada no Discord </p>
+<p style="text-indent: 40px; align="justify"> Chamada de voz realizada no Discord </p>
 
 ## 2. Participantes
 - Antônio Aldísio

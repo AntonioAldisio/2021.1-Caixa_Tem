@@ -2,7 +2,7 @@
 # Ata de Reunião 10/08/2021
 
 ## 1. Local
-<p style="text-indent: 40px; align="justify"> Camada de voz realizada no Discord </p>
+<p style="text-indent: 40px; align="justify"> Chamada de voz realizada no Discord </p>
 
 ## 2. Participantes
 - Antônio Aldísio
@@ -69,7 +69,7 @@ Para escolha foi levado em consideração o contexto dos conteúdo já estudados
 
 
 ## 7. Tópico para próxima reunião
-<p style="text-indent: 40px; align = "justify"> Não ficou nada pedende para próxima reunião. </p>
+<p style="text-indent: 40px; align = "justify"> Não ficou nada pedente para próxima reunião. </p>
 
 ## Versionamento
 <center>
