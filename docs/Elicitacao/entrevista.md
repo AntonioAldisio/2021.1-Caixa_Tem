@@ -31,4 +31,8 @@
 | 1.0 | 17/08/2021 | Criação do página | Antônio Aldisio |
 
 
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+| 2.0 | 21/08/2021 | Resultados da entrevista | Ariel Serafim |
+
 </center>
