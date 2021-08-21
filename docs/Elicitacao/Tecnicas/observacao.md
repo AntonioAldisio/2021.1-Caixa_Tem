@@ -13,14 +13,27 @@ Uma forma de resolver essa questão é criar aplicativos dedicados a determinado
 
 ## 4. Requisitos Funcionais
 
+<center>
+
 | ID | Requisito | 
-|--|--|
+|:--:|:--:|
 | RF 01 |  | 
 
+</center>
+
+
 ## 5. Requisitos Não - Funcionais
+
+<center>
+
 | ID | Requisito | 
+|:--:|:--:|
 | 1 | Agrupar funcionalidades especificas em aplicativos dedicados|
-| RNF 01 |  | 
+
+</center>
+
+
+
 ## Versionamento
 
 

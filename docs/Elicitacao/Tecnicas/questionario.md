@@ -8,7 +8,7 @@
 
 <p style="text-indent: 40px; align="justify">O questionário foi elaborado pelos membros Lucas Gomes e Matheus Salim e posteriormente revisado por Ugor Costa. O questionário possui perguntas relacionadas ao uso do aplicativo e perguntas genéricas com o intuito de descobrir o perfil dos usuários.</p>
 
-<img  src="../../assets/imgs/diagramaQuestionario.png" alt="diagramaQuestionario">
+<img  src="../../../assets/imgs/diagramaQuestionario.png" alt="diagramaQuestionario">
 <figcaption>Figura 01 - Diagrama Representativo do Questionário</figcaption>
 
 ## 3. Resultado do Questionário
@@ -16,48 +16,48 @@
 
 ### 3.1. Seção Inicial
 #### Questão 1
-<img  src="../../assets/imgs/questoes/questao1.png" alt="questao 1">
+<img  src="../../../assets/imgs/questoes/questao1.png" alt="questao 1">
 
 #### Questão 2
-<img  src="../../assets/imgs/questoes/questao2.png" alt="questao 2">
+<img  src="../../../assets/imgs/questoes/questao2.png" alt="questao 2">
 
 #### Questão 3
-<img  src="../../assets/imgs/questoes/questao3.png" alt="questao 3">
+<img  src="../../../assets/imgs/questoes/questao3.png" alt="questao 3">
 
 ### 3.2. Seção 2 - Já utilizou o Caixa Tem
 
 #### Questão 4
-<img  src="../../assets/imgs/questoes/questao4.png" alt="questao 4">
+<img  src="../../../assets/imgs/questoes/questao4.png" alt="questao 4">
 
 #### Questão 5
-<img  src="../../assets/imgs/questoes/questao5.png" alt="questao 5">
+<img  src="../../../assets/imgs/questoes/questao5.png" alt="questao 5">
 
 #### Questão 6
-<img  src="../../assets/imgs/questoes/questao6.png" alt="questao 6">
+<img  src="../../../assets/imgs/questoes/questao6.png" alt="questao 6">
 
 #### Questão 7
-<img  src="../../assets/imgs/questoes/questao7.png" alt="questao 7">
+<img  src="../../../assets/imgs/questoes/questao7.png" alt="questao 7">
 
 #### Questão 8
-<img  src="../../assets/imgs/questoes/questao8.png" alt="questao 8">
+<img  src="../../../assets/imgs/questoes/questao8.png" alt="questao 8">
 
 #### Questão 9
-<img  src="../../assets/imgs/questoes/questao9.png" alt="questao 9">
+<img  src="../../../assets/imgs/questoes/questao9.png" alt="questao 9">
 
 ### 3.3. Seção 3 - Nunca utilizou o Caixa Tem
 <p style="text-indent: 40px; align="justify">Essa seção inicia com um breve texto explicando sobre o Caixa Tem e suas funcionalidades.</p>
 
 #### Questão 10
-<img  src="../../assets/imgs/questoes/questao10.png" alt="questao 10">
+<img  src="../../../assets/imgs/questoes/questao10.png" alt="questao 10">
 
 #### Questão 11
-<img  src="../../assets/imgs/questoes/questao11.png" alt="questao 11">
+<img  src="../../../assets/imgs/questoes/questao11.png" alt="questao 11">
 
 #### Questão 12
-<img  src="../../assets/imgs/questoes/questao12.png" alt="questao 12">
+<img  src="../../../assets/imgs/questoes/questao12.png" alt="questao 12">
 
 #### Questão 13
-<img  src="../../assets/imgs/questoes/questao13.png" alt="questao 13">
+<img  src="../../../assets/imgs/questoes/questao13.png" alt="questao 13">
 
 ### 3.4. Conclusão
 

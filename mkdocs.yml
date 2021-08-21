@@ -24,14 +24,15 @@ nav:
   - Pré-rastreabilidade:
     - Rich pictures: 'PreRastreabilidade/rich_pictures.md'
   - Elicitação:
-    - Análise de Documentos: 'Elicitacao/AnalisedeDocumentos.md'
-    - Questionário: 'Elicitacao/questionario.md'
-    - Entrevista: 'Elicitacao/entrevista.md'
-    - Instrospecção: 'Elicitacao/inpeccao.md'
-    - Storytelling: 'Elicitacao/storytelling.md'
-    - Brainstorm: 'Elicitacao/brainstorm.md'
-    - Observação: 'Elicitacao/observacao.md'
-    - Priorização:
+    - Técnicas de Elicitação:
+      - Análise de Documentos: 'Elicitacao/Tecnicas/AnalisedeDocumentos.md'
+      - Questionário: 'Elicitacao/Tecnicas/questionario.md'
+      - Entrevista: 'Elicitacao/Tecnicas/entrevista.md'
+      - Instrospecção: 'Elicitacao/Tecnicas/inpeccao.md'
+      - Storytelling: 'Elicitacao/Tecnicas/storytelling.md'
+      - Brainstorm: 'Elicitacao/Tecnicas/brainstorm.md'
+      - Observação: 'Elicitacao/Tecnicas/observacao.md'
+    - Técnicas de Priorização:
       - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
       - Gráfico Tempo X Esforço: 'Elicitacao/Priorizacao/esforcoImpacto.md'
-    - Resultado: 'Elicitacao/Elicitacao.md'
+    - Resultado: 'Elicitacao/Resultado.md'

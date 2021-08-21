@@ -8,19 +8,24 @@ O objetivo é iniciar contextualizando o entrevistado e então buscar informaç�
 ## 2. Requisitos Funcionais
 
 <center>
+
 | ID | Requisitos | 
-|1|Selecionar funções favoritas|
-| RF 01 |  | 
+|:--:|:--:|
+|RF 1|Selecionar funções favoritas|
+
 
 </center>
 
 ## 3. Requisitos Não - Funcionais
+
 <center>
+
 | ID | Requisito | 
-|1|Menor tempo de espera para entrar em aplicativo durante periodos de grande fluxo|
-|2|Acessibilidade com comandos por voz|
-|3|Guia para primeiro acesso|
-| RNF 01 |  | 
+|:--:|:--:|
+|RNF 1|Menor tempo de espera para entrar em aplicativo durante periodos de grande fluxo|
+|RNF 2|Acessibilidade com comandos por voz|
+|RNF 3|Guia para primeiro acesso|
+
 
 </center>
 
@@ -32,10 +37,8 @@ O objetivo é iniciar contextualizando o entrevistado e então buscar informaç�
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 17/08/2021 | Criação do página | Antônio Aldisio |
-
-
-| Versão | Data | Modificação | Autor |
-|--|--|--|--|
 | 2.0 | 21/08/2021 | Resultados da entrevista | Ariel Serafim |
+| 2.1 | 21/08/2021 | Correção de tabela | Antônio Aldisio |
+
 
 </center>
