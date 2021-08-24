@@ -7,18 +7,18 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
 
-<!--
+
 ## Link do slide
 
-Apresentações feitas no Google Slides.
+Apresentações feitas no Canva.
 
-<iframe width="820" height="500" src="https://docs.google.com/presentation/d/19Pz6XfJcDeKM8RxuLLvaAiWUaj_Sl0zonHeeni7l7IY/edit?usp=sharing
+<iframe width="820" height="500" src="https://www.canva.com/design/DAEnrABwjIc/-cHJF0qVuAthmG65mgmrMg/view?utm_content=DAEnrABwjIc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 " frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
 
-#### 
--->
+####
+
 ## Versionamento
 <center>
 
