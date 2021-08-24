@@ -19,6 +19,10 @@ Ariel.
 Infelizmente não obtivemos retorno até o momemnto.
 </p>
 
+## 2. Bibliografia
+<p style="text-indent: 40px; align = "justify">
+Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
+</p>
 
 ## Versionamento
 
@@ -29,6 +33,6 @@ Infelizmente não obtivemos retorno até o momemnto.
 | 1.0 | 13/08/2021 | Criação do página | Antônio Aldisio |
 | 2.0 | 21/08/2021 | Relatorio | Ariel Serafim |
 | 2.1 | 21/08/2021 | Revisão e inserção de email enviado  | Antônio Aldisio |
-
+| 2.2 | 24/08/2021 | Inserção de Bibliografia | Ariel Serafim |
 
 </center>
