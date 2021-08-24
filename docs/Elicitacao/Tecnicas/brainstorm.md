@@ -15,7 +15,7 @@
 <center>
 
 | ID | Requisito | 
-|--|--|
+|:--:|:--:|
 | RF 01 | O usuário deve ser capaz de realizar cadastro | 
 | RF 02 | O usuário deve ser capaz de realizar login | 
 | RF 03 | O usuário pode realizar pagamentos | 
@@ -39,7 +39,7 @@
 <center>
 
 | ID | Requisito | 
-|--|--|
+|:--:|:--:|
 | RNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | 
 | RNF 02 | O sistema deve recusar o acesso de pessoas não autorizadas | 
 | RNF 03 | O sistema deve ser acessível para Pessoas com Deficiência (PcD) | 
