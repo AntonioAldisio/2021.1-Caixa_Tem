@@ -5,12 +5,17 @@
 Para a Entrevista, organizei as perguntas no formato 'diamante', em que se incia com perguntas fechadas, passa para uma etapa de perguntas abertas, e termina com perguntas fechadas. 
 O objetivo é iniciar contextualizando o entrevistado e então buscar informações mais subjetivas, com o intuito de se encontrar requisitos não funcionais.
 
-## 2. Bibliografia
+## 2. Esqueme Diamante
+
+<img width="800px" src="../../assets/imgs/EsquemaEntrevista.png" alt="Esquema Entrevista">
+<figcaption>Figura 01 - Organização da entrevista no estilo diamante </figcaption>
+
+## 3. Bibliografia
 <p style="text-indent: 40px; align = "justify">
 Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 </p>
 
-## 3. Requisitos Funcionais
+## 4. Requisitos Funcionais
 
 <center>
 
@@ -22,7 +27,7 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 
 </center>
 
-## 4. Requisitos Não - Funcionais
+## 5. Requisitos Não - Funcionais
 
 <center>
 
@@ -45,6 +50,6 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 | 1.0 | 17/08/2021 | Criação do página | Antônio Aldisio |
 | 2.0 | 21/08/2021 | Resultados da entrevista | Ariel Serafim |
 | 2.1 | 21/08/2021 | Correção de tabela | Antônio Aldisio |
-| 2.2 | 24/08/2021 | Inserção da Bibliografia e mais requisitos| Ariel Serafim |
+| 2.2 | 24/08/2021 | Inserção da Bibliografia, imagem e mais requisitos| Ariel Serafim |
 
 </center>
