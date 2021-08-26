@@ -5,6 +5,8 @@
 <p style="text-indent: 40px; align="justify"> Brainstorming é uma técnica de elicitação de requisitos realizada em grupo. </p>
 <p style="text-indent: 40px; align="justify">Uma sessão de brainstorming busca levantar de forma bastante livre um conjunto grande e abrangente de opiniões dos participantes em torno de um tema. Os resultados dessa atividade podem alimentar diretamente a especificação funcional e documentação de design.
 <a href="#Bibliografia">[1]</a><br></p>
+<p style="text-indent: 40px; align="justify"> Para que a técnica tenha sucesso, ela deve ser realizada com pessoas que possuam perspectivas e pontos de vistas diferentes acerca do tema abordado. É, também, importante que todos os participantes possam expor suas ideias livres de críticas, pois todas elas devem ser levadas em conta durante a realização da reunião. </p>
+
 
 ## 2. Metodologia
 <p style="text-indent: 40px; align="justify">A sessão de Brainstorming foi realizada no dia 17/08/2021 por meio de uma reunião no Discord e durou aproximadamente 1 hora. Todos os membros presentes expressaram suas opiniões e ideias e uma pessoa ficou encarregada de realizar a documentação da sessão.</p>
@@ -60,6 +62,8 @@
 |--|--|--|--|
 | 1.0 | 17/08/2021 | Criação do página | Antônio Aldisio |
 | 1.1 | 20/08/2021 | Adição da introdução, metodologia, requisitos elicitados e bibliografia | Lucas Gomes |
+| 1.2 | 20/08/2021 | Atualização da introdução | Lucas Gomes |
+
 
 
 </center>
