@@ -108,7 +108,8 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 |<img width="80px" height="80px" src="../assets/AplicativosUsados/WhatsApp.svg" alt="WhatsApp">|<a href="https://web.whatapp.com/" target="_blank"> WhatsApp| Mensageiro principal do grupo para diálogo  |  
 |<img width="80px" height="80px" src="../assets/AplicativosUsados/youtube.png" alt="Youtube">|<a href="https://youtube.com/" target="_blank"> Youtube| Plataforma de upload e visualização das apresentaçōes |  
 |<img width="80px" height="80px" src="../assets/AplicativosUsados/mkdocs.jpeg" alt="Mkdocs">|<a href="https://www.mkdocs.org/" target="_blank"> Mkdocs| Ferramenta gerador de site estático minimalista|  
-|<img width="110px" height="110px" src="../assets/AplicativosUsados/material.png" alt="Mkdocs Material">|<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank"> Mkdocs - Material| Tema para a página|  
+|<img width="110px" height="110px" src="../assets/AplicativosUsados/material.png" alt="Mkdocs Material">|<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank"> Mkdocs - Material| Tema para a página|
+|<img width="70px" height="70px" src="../assets/AplicativosUsados/canva.png" alt="Canva">|<a href="https://www.canva.com/" target="_blank"> Canva| Ferramenta para criação da apresentação|  
 
 </center>
 
@@ -126,5 +127,6 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
 | 1.01 | 02/08/2021 | Adicionou o bloco de Metodologia, Aplicativos avaliados individualmente e Ferramentas Utilizadas| Antônio Aldisio |
 | 1.05 | 08/08/2021 | Ajuste de texto<br> Adicionada referência teórica | Fernando Calil |
+| 1.06 | 26/08/2021 | Adicionada ferramenta de criação da apresentação | Fernando Calil |
 
 </center>
