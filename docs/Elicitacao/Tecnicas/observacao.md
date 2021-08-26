@@ -4,8 +4,9 @@
 O objetivo de se usar a tecnica de observção é captar informações que uma pessoa leiga em software dificilmente forneceria dentro de uma entrevista.
 
 ## 2. Processo
-Observei dois usuarios utilizando o aplicativo CaixaTem, meu intuito era observar se a suspeita que tinha sobre o acumulo inadequado de funções dentro do aplicativo era um problema real.
-Ambos os participantes demonstraram não ter o menor interesse nas funções que não usam sempre, foi comentado que se percebe quando uma nova funcionalidade é acrescentada ao aplicativo,isso não costuma se converter a uma melhora para um usuario anterior, mas sim a uma funcionalidade interessante a um novo usuario.
+Observei dois usuarios utilizando o aplicativo CaixaTem, meu intuito era observar se o acumulo inadequado de funções dentro do aplicativo era um problema real.
+
+Ambos os participantes demonstraram não ter o menor interesse nas funções que não usam, foi comentado que se percebe quando uma nova funcionalidade é acrescentada ao aplicativo,isso não costuma se converter a uma melhora para um usuario anterior, mas sim a uma funcionalidade interessante a um novo usuario.
 
 ## 3. Conclusão
 Em termos de requisitos, pode-se perceber que o CaixaTem se enquadra na categoria de aplicativos que tenta atender personas demais.
@@ -25,6 +26,7 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 | RF 01 | Logar no aplicativo |
 | RF 02 | Verificar situação de auxilios |
 | RF 03 | Sacar auxilios | 
+| RF 04 | Realizar transferências ou pagamentos de boletos |
 
 </center>
 
@@ -35,7 +37,8 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 
 | ID | Requisito | 
 |:--:|:--:|
-| NF 01 | Agrupar funcionalidades especificas em aplicativos dedicados|
+| NF 01 | Agrupar funcionalidades especificas em aplicativos dedicados |
+| NF 02 | Direcionar melhor o usúario nas funcionalidades do aplicativo que possam estar "escondidas" |
 
 </center>
 
@@ -51,4 +54,5 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 | 1.0 | 17/08/2021 | Criação do página | Antônio Aldisio |
 | 2.0 | 21/08/2021 | Relatoria de Observação | Ariel Serafim |
 | 2.1 | 24/08/2021 | Inserção da Bibliografia e mais requisitos | Ariel Serafim |
+| 2.2 | 26/08/2021 | Revisão e melhorias nas Técnicas de observação | Matheus Salim de Oliveira |
 </center>
