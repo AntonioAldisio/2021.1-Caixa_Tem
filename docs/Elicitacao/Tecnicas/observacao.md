@@ -1,10 +1,10 @@
 # Observação
 
 ## 1. Introdução
-O objetivo de se usar a tecnica de observção é captar informações que uma pessoa leiga no aplicativo dificilmente forneceria dentro de uma entrevista.
-
+Nosso objetivo na observação, era para ver como dois indivíduos que não tinham experiência no aplicativo, utilizasse suas funções e por fim desse suas opiniôes em relação ao aplicativo CaixaTem.
 ## 2. Processo
-Observamos dois usuarios utilizando o aplicativo CaixaTem, meu intuito era observar se o acumulo inadequado de funções dentro do aplicativo era um problema real.
+
+Observamos dois usuarios utilizando o aplicativo CaixaTem,nosso intuito era observar se o acumulo inadequado de funções sem uma instrução dentro do aplicativo era um problema real.
 
 Ambos os participantes demonstraram não ter o menor interesse nas funções que não usam, foi comentado que se percebe quando uma nova funcionalidade é acrescentada ao aplicativo,isso não costuma se converter a uma melhora para um usuario anterior, mas sim a uma funcionalidade interessante a um novo usuario.
 
@@ -23,10 +23,15 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 
 | ID | Requisito | 
 |:--:|:--:|
-| RF 01 | Logar no aplicativo |
-| RF 02 | Verificar situação de auxilios |
-| RF 03 | Sacar auxilios | 
-| RF 04 | Realizar transferências ou pagamentos de boletos |
+| RF 00 | O usuário deve ser capaz de realizar cadastro |
+| RF 00 | O usuário deve ser capaz de realizar login | 
+| RF 00 | O usuário pode consultar saldo |
+| RF 00 | O usuário pode consultar o extrato |
+| RF 00 | O usuário pode realizar transferência |                                              
+| RF 00 | Logar no aplicativo |
+| RF 00 | Verificar situação de auxilios |
+| RF 00 | Sacar auxilios | 
+| RF 00 | Realizar transferências ou pagamentos de boletos |
 
 </center>
 
