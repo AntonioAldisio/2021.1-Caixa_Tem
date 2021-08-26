@@ -1,10 +1,10 @@
 # Observação
 
 ## 1. Introdução
-O objetivo de se usar a tecnica de observção é captar informações que uma pessoa leiga em software dificilmente forneceria dentro de uma entrevista.
+O objetivo de se usar a tecnica de observção é captar informações que uma pessoa leiga no aplicativo dificilmente forneceria dentro de uma entrevista.
 
 ## 2. Processo
-Observei dois usuarios utilizando o aplicativo CaixaTem, meu intuito era observar se o acumulo inadequado de funções dentro do aplicativo era um problema real.
+Observamos dois usuarios utilizando o aplicativo CaixaTem, meu intuito era observar se o acumulo inadequado de funções dentro do aplicativo era um problema real.
 
 Ambos os participantes demonstraram não ter o menor interesse nas funções que não usam, foi comentado que se percebe quando uma nova funcionalidade é acrescentada ao aplicativo,isso não costuma se converter a uma melhora para um usuario anterior, mas sim a uma funcionalidade interessante a um novo usuario.
 
