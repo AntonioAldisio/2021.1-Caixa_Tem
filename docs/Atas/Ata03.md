@@ -44,15 +44,15 @@ Nova organização com inicio no Sábado e termino na Sexta-Feira.
 
 | Sprint | Atividade | Data entrega | Responsavél | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-| 02 | Revisão/Tentativa de Execução da Técnica de Análise | 26/08 | Ugor | Matheus |
-| 02 | Revisão da Técnica de Questionário | 26/08 | Lucas | Matheus |
-| 02 | Revisão da Técnica de Entrevista | 26/08 | Ariel | Fernando |
-| 02 | Revisão da Técnica de Introspecção | 26/08 | Antônio | Ugor |
-| 02 | Revisão da Técnica de Storytelling | 26/08 | Fernando | Antônio |
-| 02 | Revisão da Técnica de Brainstorming | 26/08 | Lucas| Ariel |
-| 02 | Revisão da Técnica de Observação | 26/08 | Matheus| Fernando |
-| 02 | Reformulação da Identificação das origens das funcionalidades | 26/08 | Todos | Todos |
-| 02 | Execução da Técnica de Esforço X Tempo | 26/08 | --- | Todos |
+| 03 | Revisão/Tentativa de Execução da Técnica de Análise | 26/08 | Ugor | Matheus |
+| 03 | Revisão buscando melhorias da Técnica de Questionário | 26/08 | Lucas | Matheus |
+| 03 | Revisão buscando melhorias da Técnica de Entrevista | 26/08 | Ariel | Fernando |
+| 03 | Revisão buscando melhorias da Técnica de Introspecção | 26/08 | Antônio | Ugor |
+| 03 | Revisão buscando melhorias da Técnica de Storytelling | 26/08 | Fernando | Antônio |
+| 03 | Revisão buscando melhorias da Técnica de Brainstorming | 26/08 | Lucas| Ariel |
+| 03 | Revisão buscando melhorias da Técnica de Observação | 26/08 | Matheus| Fernando |
+| 03 | Reformulação da Identificação das origens das funcionalidades | 26/08 | Todos | Todos |
+| 03 | Execução da Técnica de Esforço X Tempo | 26/08 | --- | Todos |
 
 
 </center>

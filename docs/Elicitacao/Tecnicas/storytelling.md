@@ -6,15 +6,15 @@
 
 ## 2. Personas
 
-### 2.1 João Vitor
+### 2.1 Persona Primária : João Vitor
 
 <table>
     <thead>
-        <th colspan="5" style="text-align: center">Persona Primária : João Vitor</th>
+        <th colspan="10" style="text-align: center">Persona Primária : João Vitor</th>
     </thead>
     <tbody>
         <tr">
-            <td rowspan=5 colspan=2 style="width: 220px">
+            <td rowspan="6" colspan="5" style="width: 350px">
                 <figure>
                     <center>
                     <img src="../../../assets/Personas/joaoVitor.jpeg" height="175" width="175" alt="Foto de Jão Vitor"></img>
@@ -25,40 +25,40 @@
             </td>
         </tr>
         <tr>
-            <td><strong>Idade:</strong></td>
-            <td>27 anos.</td>
+            <td class="titulo"><strong>Idade:</strong></td>
+            <td class="persona" colspan="1">27 anos.</td>
         </tr>
         <tr>
-            <td><strong>Profissão:</strong></td>
-            <td>Auxiliar de construção civil.</td>
+            <td class="titulo"><strong>Profissão:</strong></td>
+            <td colspan="1">Auxiliar de construção civil.</td>
         </tr>
         <tr>
-            <td><strong>Escolaridade:</strong></td>
-            <td>Nível Médio Completo.</td>
+            <td class="titulo"><strong>Escolaridade:</strong></td>
+            <td colspan="1" class="persona">Nível Médio Completo.</td>
         </tr>
         <tr>
-            <td><strong>Objetivos:</strong></td>
-            <td>Comprar a casa prórpia.</td>
+            <td class="titulo"><strong>Objetivos:</strong></td>
+            <td colspan="1" class="persona">Poupar dinheiro para comprar a casa prórpia.</td>
         </tr>
         <tr>
-            <td><strong>Habilidades:</strong></td>
-            <td colspan=3>Possui vasto conhecimento com as tecnologias mais atuais sendo bem habilidosa com celulares e computadores, além de possuir bastante facilidade em aprender.</td>
+            <td class="titulo"><strong>Relacionamentos:</strong></td>
+            <td colspan="1" class="persona">Casado.<br> Pai de 3 filhos.</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Habilidades:</strong></td>
+            <td colspan="8" class="persona">Não tem muito contato com dispositivos eletrônicos, gosta de </td>
         </tr>
         <tr>
             <td><strong>Tarefas:</strong></td>
-            <td colspan=3>Sua manhã e parte da tarde consiste em estudar na sua faculdade. Ao chegar em casa, costuma estudar coisas novas ou sair com seus amigos ou namorado, e pela noite não pode faltar sua sessão de filmes e séries.</td>
-        </tr>
-        <tr>
-            <td><strong>Relacionamentos:</strong></td>
-            <td colspan=3>Casado.</td>
+            <td colspan=8 class="persona">Sua manhã e parte da tarde consiste em estudar na sua faculdade. Ao chegar em casa, costuma estudar coisas novas ou sair com seus amigos ou namorado, e pela noite não pode faltar sua sessão de filmes e séries.</td>
         </tr>
         <tr>
             <td><strong>Requisitos:</strong></td>
-            <td colspan=3>Para Regiane, um aplicativo deve ter as funcionalidades essenciais para a realização de suas tarefas, com uma interface bonita e de fácil entendimento.</td>
+            <td colspan=8 class="persona">Para Regiane, um aplicativo deve ter as funcionalidades essenciais para a realização de suas tarefas, com uma interface bonita e de fácil entendimento.</td>
         </tr>
         <tr>
             <td><strong>Expectativas:</strong></td>
-            <td colspan=3>Por gostar muito de filmes, espera que o aplicativo seja capaz de mostrar notícias interessantes (para possíveis maratonas), além de ser capaz de identificar os filmes que estão em cartaz para assistir com seus amigos e namorado.</td>
+            <td colspan=8 class="persona">Por gostar muito de filmes, espera que o aplicativo seja capaz de mostrar notícias interessantes (para possíveis maratonas), além de ser capaz de identificar os filmes que estão em cartaz para assistir com seus amigos e namorado.</td>
         </tr>
     </tbody>
 </table>
