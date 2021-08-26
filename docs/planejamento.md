@@ -14,7 +14,7 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 <p style="text-indent: 40px; align = "justify"> A metodologia adotada pelo grupo foi o metodo SCRUM. <a href="#Bibliografia">[1]</a> </p>
 
 - Daliy: Todo dia via whatsapp;
-- Reunião Semanal: Segunda a noite via discord;
+- Reunião Semanal: <s>Segunda a noite</s> Sabado de manhã via discord;
 - Tempo em média da sprint: 7 dias;
 
 
@@ -47,15 +47,15 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 | 1 | 02/08 | 08/08 | Montagem de wiki, Gravação da apresentação 1|  
 | 2 | 10/08 | 16/08 | Questionário, Análise de Documentos, definição de técnicas de priorização (MoSCoW, Gráfico Tempo x Esforço), Tabela de argumentação e nova versão do Rich Picture |  
 | 3 | 17/08 | 21/08 | Entrevista, Observação, Storytelling, Introspecção, Brainstorming, Priorização dos requisitos, Gravação e edição da Apresentação 2 | 
-| 4 | 23/08 | 29/08 | ---------- |
-| 5 | 30/08 | 05/09 | ---------- | 
-| 6 | 06/09 | 12/09 | ---------- | 
-| 7 | 13/09 | 19/09 | ---------- | 
-| 8 | 20/09 | 26/09 | ---------- | 
-| 9 | 27/09 | 03/10 | ---------- | 
-| 10 | 04/10 | 10/10 | ---------- | 
-| 11 | 11/10 | 17/10 | ---------- | 
-| 12 | 18/10 | 20/10 | ---------- | 
+| 4 | 24/08 | 27/08 | ---------- |
+| 5 | 28/08 | 03/09 | ---------- | 
+| 6 | 04/09 | 10/09 | ---------- | 
+| 7 | 11/09 | 17/09 | ---------- | 
+| 8 | 18/09 | 24/09 | ---------- | 
+| 9 | 25/09 | 01/10 | ---------- | 
+| 10 | 02/10 | 08/10 | ---------- | 
+| 11 | 09/10 | 15/10 | ---------- | 
+| 12 | 16/10 | 20/10 | ---------- | 
 
 <figcaption>Tabela 2 - Cronograma das sprints </figcaption>
 </center>
