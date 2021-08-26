@@ -12,8 +12,7 @@
 
 Apresentações feitas no Canva.
 
-<iframe width="820" height="500" src="https://www.canva.com/design/DAEnrABwjIc/-cHJF0qVuAthmG65mgmrMg/view?utm_content=DAEnrABwjIc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-" frameborder="0"
+<iframe width="820" height="500" src="https://www.canva.com/design/DAEnrABwjIc/-cHJF0qVuAthmG65mgmrMg/view?embed" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
 
@@ -27,5 +26,6 @@ Apresentações feitas no Canva.
 | 1.0  | 20/08/2021 | Criação do slide | Todos |
 | 1.01 | 20/08/2021 | Gravação do video | Todos |
 | 1.02 | 21/08/2021 | Edição do video | Fernando Calil |
+| 1.02 | 25/08/2021 | Adicionado link dos Slides | Fernando Calil |
 
 </center>

@@ -30,6 +30,10 @@ h3 {
   text-indent: 10px;
 }
 
+table thead {
+  background-color: rgb(215, 210, 219) ;
+}
+
 /*p {
   text-indent: 50px;
   text-align: justify;
