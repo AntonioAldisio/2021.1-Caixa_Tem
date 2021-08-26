@@ -70,18 +70,12 @@
 
 ### 2.2 Maria Clara
 
-<!-- <figure>
-    <img src="../assets/Images/Persona2.png" alt="Foto Maria Clara">
-</figure> -->
 <p style="text-indent: 40px; align = "justify" class="PersonaDescprition"> Maria Clara tem 22 anos está estudando para ser advogada e trabalha em uma lanchonete para ter seu próprio dinheiro, gosta de sair se encontrar com amigos, e tem perfil bastante aventureiro, sempre que tem folga da faculdade ela organiza trilhas com os amigos, recentemente está muito feliz, já que acabou de se mudar para um apartamento onde mora sozinha.</p>
 <p style="text-indent: 40px; align = "justify">Com o surto de COVID-19 Maria Clara foi pega de surpresa, já que acabou de se mudar e contava com o salário para poder pagar seu aluguel e contas, sem saber o que fazer Maria Clara voltou temporariamente para a casa dos pais, com o prolongamento do estado de emergência, Maria Clara se viu obrigada a sair do apartamento que alugou de forma definitiva, mas ainda tinha pendências com as contas do apartamento, assim que foi anunciado o auxílio emergencial, Maria Clara se cadastrou para poder receber o dinheiro para pagar suas dívidas.</p>
 
 
 ### 2.3 Carmen de Souza
 
-<!-- <figure>
-    <img src="../assets/Images/Persona3.png" alt="Foto Carmen de Souza">
-</figure> -->
 <p style="text-indent: 40px; align = "justify" class="PersonaDescprition"> Carmen de Souza tem 26 anos e está desempregada, perdeu o marido recentemente para a COVID-19, Carmen está cuidando sozinha de seu filho de 5 anos, pois seus pais já faleceram e não tem família onde mora.</p>
 <p style="text-indent: 40px; align = "justify">Carmen está recebendo ajuda do governo para poder se sustentar neste momento difícil, já tinha cadastro no aplicativo do governo para receber o auxílio emergencial, agora Carmen também foi beneficiada pelo seguro apoio família, que foi contratado por seu marido, e foi o que permitiu que ele tivesse um enterro digno, já que a família não tem condições para isso. Carmen está conseguindo se sustentar no período de pandemia graças aos auxílios do governo, então ela está sempre atenta para as novidades ligadas ao assunto e à volta das atividades, já que precisa trabalhar para sustentar o filho.</p>
 
@@ -106,8 +100,8 @@
 ## 4. Requisitos Não - Funcionais
 | ID | Requisito | 
 |--|--|
-| S 01 | O usuário não pode ficar mais de 15minutos em fila para acessar o aplicativo. |
-| S 02 | O usuário deverá ser instruido de forma personalizada em todas as opções do aplicativo. |
+| SNF 01 | O usuário não pode ficar mais de 15minutos em fila para acessar o aplicativo. |
+| SNF 02 | O usuário deverá ser instruido de forma personalizada em todas as opções do aplicativo. |
 | SNF 03 | O sistema não pode ficar mais que 30 minutos fora do ar. |
 | SNF 04 | Todas as transações do usuário devem ser salvas para que ele possa vê-las no futuro. |
 | SNF 05 | Os dados do usuário devem ser protegidos. |

@@ -38,3 +38,9 @@ nav:
       - MoSCoW: 'Elicitacao/Priorizacao/moscow.md'
       - Gráfico Tempo X Esforço: 'Elicitacao/Priorizacao/esforcoImpacto.md'
     - Resultado: 'Elicitacao/Resultado.md'
+  - Modelagem:
+    - Casos de Uso: 'Modelagem/CasoUso.md'
+    - Cenários: 'Modelagem/Cenarios.md'
+    - Especificação Suplementar: 'Modelagem/Especificacao.md'
+    - Léxico: 'Modelagem/Lexicos.md'
+
