@@ -48,6 +48,8 @@ Ambos os participantes demonstraram não ter o menor interesse nas funções que
 ## 7. Bibliografia
 <p style="text-indent: 40px; align = "justify">
 [1] https://pt.wikipedia.org/wiki/Observa%C3%A7%C3%A3o
+                                              
+                                              
 [4]Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 
 </p>
