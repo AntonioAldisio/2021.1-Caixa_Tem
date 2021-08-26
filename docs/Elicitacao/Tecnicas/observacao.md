@@ -1,21 +1,22 @@
 # Observação
 
 ## 1. Sobre a técnica
-[1]A tecnica de observação consiste em ver,perceber e interpretar os resultados que partiram de uma análide do ambiente que está sendo estudado.
+<p style="text-indent: 40px; align="justify"> Originada da antropologia, a observação busca o entendimento das interações entre pessoas e outras pessoas, instituições, máquinas ou seu ambiente. A técnica é utilizada ao ter a necessidade de entender os processos organizacionais de um ambiente de trabalho, mas os stakeholders não podem descrever estes detalhes de forma adequada, seja por falta de eloquência para tal, ou em ambientes muito complexos, onde a descrição completa do processo se torna difícil. <a href="#Bibliografia">[1]</a></p>
 
 ## 2. Introdução
-Nosso objetivo na observação, era para ver como dois indivíduos que não tinham experiência no aplicativo, utilizasse suas funções e por fim desse suas opiniôes em relação ao aplicativo CaixaTem.
+<p style="text-indent: 40px; align="justify"> Nosso objetivo utilizando a técnica, era observar como dois indivíduos que não tinham experiência no aplicativo utilizavam suas funções, e ao fim desse processo, recolher suas opiniões em relação ao aplicativo CaixaTem.</p>
 
 ## 3. Processo
 
-Observamos dois usuarios que não possuiam experiência utilizando o aplicativo CaixaTem. Nosso intuito era observar se a quantidade de funções escondidas ou pouco utilizadas no aplicativo causava algum problema ou dúvida na hora de manuzear o aplicativo.
+<p style="text-indent: 40px; align="justify"> Observamos dois usuários que não possuíam experiência utilizando o aplicativo Caixa tem. Nosso intuito era observar se a quantidade de funções oferecidas pelo aplicativo causava algum problema ou dúvida na hora de utilizar o aplicativo.</p>
 
-Ambos os participantes demonstraram não ter o menor interesse nas funções que não usam, foi comentado que se percebe quando uma nova funcionalidade é acrescentada ao aplicativo,isso não agrega ao usuário atual, mas sim a um novo usuario que possa vir a usar o aplicativo, fazendo que funções não sejam usadas por uns usuários mas sim por outros usuários com intuitos iguais ou diferentes.
+<p style="text-indent: 40px; align="justify"> Ambos os participantes demonstraram não ter o menor interesse nas funções que não usam, foi comentado que se percebe quando uma nova funcionalidade é acrescentada ao aplicativo, isso não tem foco a melhoria no uso para o usuário atual, mas sim buscar agradar a um novo usuário que possa vir a utilizar o aplicativo, fazendo que funções não sejam usadas por alguns usuários, mas sim por outros usuários com intuitos iguais ou diferentes.</p>
 
+<!--
 ## 4. Conclusão
-[4]Em termos de requisitos, pode-se perceber que o CaixaTem é um aplicativo que satisfaz no quesito de funcionalidade, mas em quesitos como utilidade, rastreabilidade, navegabilidade não são tão bem vistas na perpectiva do usuário. Visto que o objetivo do aplicativo era se tornar um aplicativo perfeitamente funcional e mais prático no uso cotidiano dos brasileiros em geral que utilizam o serviço.
-
-## 5. Requisitos Funcionais
+<p style="text-indent: 40px; align="justify"> Em termos de requisitos, pode-se perceber que o Caixa Tem é um aplicativo que satisfaz no quesito de funcionalidade, mas em quesitos como utilidade, rastreabilidade, navegabilidade não são tão bem vistas na perpectiva do usuário. Visto que o objetivo do aplicativo era se tornar um aplicativo perfeitamente funcional e mais prático no uso cotidiano dos brasileiros em geral que utilizam o serviço.<a href="#Bibliografia">[2]</a></p>
+-->
+## 4. Requisitos Funcionais
 
 <center>
 
@@ -34,7 +35,7 @@ Ambos os participantes demonstraram não ter o menor interesse nas funções que
 </center>
 
 
-## 6. Requisitos Não - Funcionais
+## 5. Requisitos Não - Funcionais
 
 <center>
 
@@ -45,12 +46,9 @@ Ambos os participantes demonstraram não ter o menor interesse nas funções que
 
 </center>
 
-## 7. Bibliografia
-<p style="text-indent: 40px; align = "justify">
-[1] https://pt.wikipedia.org/wiki/Observa%C3%A7%C3%A3o
-                                              
-                                              
-[4]Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
+## 6. Bibliografia <a id="Bibliografia"></a>
+
+[1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016. 
 
 </p>
 
@@ -65,4 +63,5 @@ Ambos os participantes demonstraram não ter o menor interesse nas funções que
 | 2.0 | 21/08/2021 | Relatoria de Observação | Ariel Serafim |
 | 2.1 | 24/08/2021 | Inserção da Bibliografia e mais requisitos | Ariel Serafim |
 | 2.2 | 26/08/2021 | Revisão e melhorias nas Técnicas de observação | Matheus Salim de Oliveira |
+| 2.3 | 26/08/2021 | Revisão e melhorias nas estruturas de texto, organização e padronização com as outras páginas | Fernando Calil |
 </center>

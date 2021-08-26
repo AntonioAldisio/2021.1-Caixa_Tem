@@ -91,29 +91,29 @@
 
 | ID | Requisito | 
 |--|--|
-| RF 01 | O usuário deve ser capaz de se cadastrar. | 
-| RF 02 | O usuário deve ter acesso ao sistema a partir de uma conta cadastrada préviamente. |
-| RF 03 | O usuário poderá checar se está elegível a receber auxílio emergencial. | 
-| RF 04 | O usuário pode checar o estado do seu auxílio emergencial. | 
-| RF 05 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado. |
-| RF 06 | O usuário pode checar o seu saldo no aplicativo a qualquer momento. | 
-| RF 07 | O usuário pode checar o seu histórico de operações no aplicativo em qualquer período desde quando foi cadastrado. | 
-| RF 08 | O usuário poderá pagar suas contas através do aplicativo. | 
-| RF 09 | O usuário poderá sacar dinheiro em qualquer caixa eletrônico da caixa.| 
-| RF 10 | O usuário poderá checar os benefícios que está recebendo. | 
-| RF 11 | O usuário terá opção de contratar seguro apoio família. | 
+| SF 01 | O usuário deve ser capaz de se cadastrar. | 
+| SF 02 | O usuário deve ter acesso ao sistema a partir de uma conta cadastrada préviamente. |
+| SF 03 | O usuário poderá checar se está elegível a receber auxílio emergencial. | 
+| SF 04 | O usuário pode checar o estado do seu auxílio emergencial. | 
+| SF 05 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado. |
+| SF 06 | O usuário pode checar o seu saldo no aplicativo a qualquer momento. | 
+| SF 07 | O usuário pode checar o seu histórico de operações no aplicativo em qualquer período desde quando foi cadastrado. | 
+| SF 08 | O usuário poderá pagar suas contas através do aplicativo. | 
+| SF 09 | O usuário poderá sacar dinheiro em qualquer caixa eletrônico da caixa.| 
+| SF 10 | O usuário poderá checar os benefícios que está recebendo. | 
+| SF 11 | O usuário terá opção de contratar seguro apoio família. | 
 
 ## 4. Requisitos Não - Funcionais
 | ID | Requisito | 
 |--|--|
-| RNF 01 | O usuário não pode ficar mais de 15minutos em fila para acessar o aplicativo. |
-| RNF 02 | O usuário deverá ser instruido de forma personalizada em todas as opções do aplicativo. |
-| RNF 03 | O sistema não pode ficar mais que 30 minutos fora do ar. |
-| RNF 04 | Todas as transações do usuário devem ser salvas para que ele possa vê-las no futuro. |
-| RNF 05 | Os dados do usuário devem ser protegidos. |
-| RNF 06 | Os dados dos usuários devem ser checados sobre a elegibilidade para os serviços sociais. |
+| S 01 | O usuário não pode ficar mais de 15minutos em fila para acessar o aplicativo. |
+| S 02 | O usuário deverá ser instruido de forma personalizada em todas as opções do aplicativo. |
+| SNF 03 | O sistema não pode ficar mais que 30 minutos fora do ar. |
+| SNF 04 | Todas as transações do usuário devem ser salvas para que ele possa vê-las no futuro. |
+| SNF 05 | Os dados do usuário devem ser protegidos. |
+| SNF 06 | Os dados dos usuários devem ser checados sobre a elegibilidade para os serviços sociais. |
 
-## Bibliografia  <a id="Bibliografia"></a>
+## 5. Bibliografia  <a id="Bibliografia"></a>
 
 [1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016. 
 
