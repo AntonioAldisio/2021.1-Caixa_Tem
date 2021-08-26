@@ -1,21 +1,19 @@
 # Observação
 
-## 1. Introdução
+## 1. Sobre a técnica
+[1]A tecnica de observação consiste em ver,perceber e interpretar os resultados que partiram de uma análide do ambiente que está sendo estudado.
+
+## 2. Introdução
 Nosso objetivo na observação, era para ver como dois indivíduos que não tinham experiência no aplicativo, utilizasse suas funções e por fim desse suas opiniôes em relação ao aplicativo CaixaTem.
-## 2. Processo
 
-Observamos dois usuarios utilizando o aplicativo CaixaTem,nosso intuito era observar se o acumulo inadequado de funções sem uma instrução dentro do aplicativo era um problema real.
+## 3. Processo
 
-Ambos os participantes demonstraram não ter o menor interesse nas funções que não usam, foi comentado que se percebe quando uma nova funcionalidade é acrescentada ao aplicativo,isso não costuma se converter a uma melhora para um usuario anterior, mas sim a uma funcionalidade interessante a um novo usuario.
+Observamos dois usuarios que não possuiam experiência utilizando o aplicativo CaixaTem. Nosso intuito era observar se a quantidade de funções escondidas ou pouco utilizadas no aplicativo causava algum problema ou dúvida na hora de manuzear o aplicativo.
 
-## 3. Conclusão
-Em termos de requisitos, pode-se perceber que o CaixaTem se enquadra na categoria de aplicativos que tenta atender personas demais.
-Uma forma de resolver essa questão é criar aplicativos dedicados a determinados grupos de funcionalidades.
+Ambos os participantes demonstraram não ter o menor interesse nas funções que não usam, foi comentado que se percebe quando uma nova funcionalidade é acrescentada ao aplicativo,isso não agrega ao usuário atual, mas sim a um novo usuario que possa vir a usar o aplicativo, fazendo que funções não sejam usadas por uns usuários mas sim por outros usuários com intuitos iguais ou diferentes.
 
-## 4. Bibliografia
-<p style="text-indent: 40px; align = "justify">
-Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
-</p>
+## 4. Conclusão
+[4]Em termos de requisitos, pode-se perceber que o CaixaTem é um aplicativo que satisfaz no quesito de funcionalidade, mas em quesitos como utilidade, rastreabilidade, navegabilidade não são tão bem vistas na perpectiva do usuário. Visto que o objetivo do aplicativo era se tornar um aplicativo perfeitamente funcional e mais prático no uso cotidiano dos brasileiros em geral que utilizam o serviço.
 
 ## 5. Requisitos Funcionais
 
@@ -23,15 +21,15 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 
 | ID | Requisito | 
 |:--:|:--:|
-| RF 00 | O usuário deve ser capaz de realizar cadastro |
-| RF 00 | O usuário deve ser capaz de realizar login | 
-| RF 00 | O usuário pode consultar saldo |
-| RF 00 | O usuário pode consultar o extrato |
-| RF 00 | O usuário pode realizar transferência |                                              
-| RF 00 | Logar no aplicativo |
-| RF 00 | Verificar situação de auxilios |
-| RF 00 | Sacar auxilios | 
-| RF 00 | Realizar transferências ou pagamentos de boletos |
+| O 01 | O usuário deve ser capaz de realizar cadastro |
+| O 02 | O usuário deve ser capaz de realizar login | 
+| O 03 | O usuário pode consultar saldo |
+| O 04 | O usuário pode consultar o extrato |
+| O 05 | O usuário pode realizar transferência |                                              
+| O 06 | Logar no aplicativo |
+| O 07 | Verificar situação de auxilios |
+| O 08 | Sacar auxilios | 
+| O 09 | Realizar transferências ou pagamentos de boletos |
 
 </center>
 
@@ -47,7 +45,12 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 
 </center>
 
+## 7. Bibliografia
+<p style="text-indent: 40px; align = "justify">
+[1] https://pt.wikipedia.org/wiki/Observa%C3%A7%C3%A3o
+[4]Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 
+</p>
 
 ## Versionamento
 
