@@ -127,6 +127,6 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 | 1.0 | 01/08/2021 | Criação do site | Antônio Aldisio |
 | 1.01 | 02/08/2021 | Adicionou o bloco de Metodologia, Aplicativos avaliados individualmente e Ferramentas Utilizadas| Antônio Aldisio |
 | 1.05 | 08/08/2021 | Ajuste de texto<br> Adicionada referência teórica | Fernando Calil |
-| 1.06 | 26/08/2021 | Adicionada ferramenta de criação da apresentação | Fernando Calil |
+| 1.06 | 26/08/2021 | Adicionada ferramenta de criação da apresentação. Adaptação e atualização do cronograma. | Fernando Calil |
 
 </center>
