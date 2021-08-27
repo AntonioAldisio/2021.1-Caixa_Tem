@@ -30,8 +30,8 @@ h3 {
   text-indent: 10px;
 }
 
-table thead {
-  background-color: rgb(215, 210, 219) ;
+thead {
+  background-color: rgb(96,92,100) !important;
 }
 
 .persona {
