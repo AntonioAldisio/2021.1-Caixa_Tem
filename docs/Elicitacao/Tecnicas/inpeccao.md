@@ -59,10 +59,10 @@
 
 </center>
 
-<!--
+
 ## Bibliografia <a id="Bibliografia"></a>
 <p style="text-indent: 20px; align = "justify"> [1] Brum, Bruno; Pena, Leandro. Engenharia de Requisitos – Técnicas. Brasil, 27 abr. 2011. Disponível em <https://brunobrum.wordpress.com/2011/04/27/principais-tecnicas-de-levantamento-de-requisitos-de-sistemas/> Acessado em 17/08/21 </p>
--->
+
 
 ## Versionamento
 
