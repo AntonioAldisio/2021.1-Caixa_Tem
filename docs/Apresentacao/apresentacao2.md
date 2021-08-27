@@ -26,6 +26,6 @@ Apresentações feitas no Canva.
 | 1.0  | 20/08/2021 | Criação do slide | Todos |
 | 1.01 | 20/08/2021 | Gravação do video | Todos |
 | 1.02 | 21/08/2021 | Edição do video | Fernando Calil |
-| 1.03 | 25/08/2021 | Adicionado link dos Slides | Fernando Calil |
+| 1.03 | 25/08/2021 | Corrigido erro com link dos Slides | Fernando Calil |
 
 </center>

@@ -12,7 +12,7 @@
 
 <table>
     <thead>
-        <th colspan="10" style="text-align: center">Persona Primária : Carmen de Souza</th>
+        <th colspan="10" style="text-align: center">Carmen de Souza</th>
     </thead>
     <tbody>
         <tr">
@@ -73,11 +73,11 @@
 <p style="text-indent: 40px; align = "justify" class="PersonaDescprition"> Carmen de Souza tem 26 anos e está desempregada, perdeu o marido recentemente para a COVID-19, Carmen está cuidando sozinha de seu filho de 5 anos, pois seus pais já faleceram e não tem família onde mora.</p>
 <p style="text-indent: 40px; align = "justify">Carmen está recebendo ajuda do governo para poder se sustentar neste momento difícil, já tinha cadastro no aplicativo do governo para receber o auxílio emergencial, agora Carmen também foi beneficiada pelo seguro apoio família, que foi contratado por seu marido, e foi o que permitiu que ele tivesse um enterro digno, já que a família não tem condições para isso. Carmen está conseguindo se sustentar no período de pandemia graças aos auxílios do governo, então ela está sempre atenta para as novidades ligadas ao assunto e à volta das atividades, já que precisa trabalhar para sustentar o filho.</p>
 
-### 2.2 Persona Primária: João Vitor
+### 2.2 Persona Secundária: João Vitor
 
 <table>
     <thead>
-        <th colspan="10" style="text-align: center">Persona Primária : João Vitor</th>
+        <th colspan="10" style="text-align: center">João Vitor</th>
     </thead>
     <tbody>
         <tr">
@@ -113,7 +113,7 @@
         </tr>
         <tr>
             <td class="titulo"><strong>Status:</strong></td>
-            <td class="persona" colspan="1">Persona Primária.</td>
+            <td class="persona" colspan="1">Persona Secundária.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Habilidades:</strong></td>
@@ -145,7 +145,7 @@
 
 <table>
     <thead>
-        <th colspan="10" style="text-align: center">Antipersona : Maria Clara</th>
+        <th colspan="10" style="text-align: center">Maria Clara</th>
     </thead>
     <tbody>
         <tr">
