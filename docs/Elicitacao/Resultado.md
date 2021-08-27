@@ -56,7 +56,6 @@ Legenda
 | RF 31 | O usuário pode checar o estado do seu auxílio emergencial. | 3 | MUST |
 | RF 32 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado. | 3 | MUST |
 | RF 33 | O usuário terá opção de contratar seguro apoio família. | 3 | COULD |
-| RF 34 | O sistema deve ser acessível para Pessoas com Deficiência (PcD) | 2 | MUST |
 
 </center>
 
@@ -77,7 +76,9 @@ Legenda
 | RNF 08 | O aplicativo deve se comunicar com o banco de dados.| 1 | MUST |
 | RNF 09 | O aplicativo deve proteger os dados dos usuários.| 1,3 | MUST |
 | RNF 10 | O aplicativo deve ser desenvolvido em uma linguagem que tenha uma comunidade ativa e/ou que não tenha previsão de descontinuade da linguagem nos próximos 5 anos.| 1 | SOULD |
-| RNF 11 | O usuário não pode ficar mais de 15minutos em fila para acessar o aplicativo. | 3 | SHOULD |
+| RNF 11 | O usuário não pode ficar mais de 15 minutos em fila para acessar o aplicativo. | 3 | SHOULD |
+| RNF 12 | O sistema deve ser acessível para Pessoas com Deficiência (PcD) | 2 | MUST |
+
 
 
 </center>
