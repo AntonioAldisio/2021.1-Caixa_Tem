@@ -7,7 +7,7 @@
 
 ## 2. Cenários
 
-
+### Cadastro
 | **Título**| Cadastro |
 |--|--|
 | **Objetivo**| <ul><li>Criar conta de usuário.</li></ul> |
@@ -18,7 +18,7 @@
 | **Restrição**| <ul><li>Usuário deve ter documentação válida.</li></ul> |
 | <br><br>**Exceção**| <ul><li>Usuário perde acesso a Internet.</li><li>Smartphone está sem bateria.</li><li>Usuário não informa os dados corretos.</li><li>Usuário insere algum dado incorreto.</li><li>Usuário não marca campo captcha.</li></ul> |
 
-
+### Login
 | **Título**| Login |
 |--|--|
 | **Objetivo**| <ul><li>Autenticar o usuário no sistema.</li></ul> |
@@ -30,7 +30,7 @@
 | <br>**Exceção**| <ul><li>Usuário perde acesso a Internet.</li><li>Smartphone está sem bateria.</li><li>Usuário não informa os dados corretos.</li></ul> |
 
 
-
+### Extrato
 | **Título**| Extrato |
 |--|--|
 | **Objetivo**| <ul><li>Verificar as transações realizadas na conta.</li></ul> |
@@ -42,7 +42,7 @@
 | **Exceção**| <ul></ul> |
 
 
-
+### Calendário do auxílio emergencial
 | **Título**| Calendário do auxílio emergencial |
 |--|--|
 | **Objetivo**| <ul><li>Consultar calendário de liberação do auxílio emergencial.</li></ul> |
@@ -53,6 +53,7 @@
 | **Restrição**| <ul><li>Usuário deve possuir cadastro.</li></ul> |
 | **Exceção**| <ul></ul> |
 
+### Informe de Rendimentos
 | **Título**| Informe de Rendimentos |
 |--|--|
 | **Objetivo**| <ul><li>Consultar o rendimentos da conta pra declaração de imposto.</li></ul> |
@@ -63,6 +64,8 @@
 | **Restrição**| <ul><li>Usuário deve possuir cadastro.</li></ul> |
 | **Exceção**| <ul></ul> |
 
+
+### Consultar Programas Sociais
 | **Título**| Consultar Programas Sociais |
 |--|--|
 | **Objetivo**| <ul><li>Consultar situação do programa social desejado.</li></ul> |
@@ -106,6 +109,105 @@
 
 -->
 
+### Consultar saldo
+| **Título**| Consultar saldo |
+|--|--|
+| **Objetivo**| <ul><li>Consultar saldo da conta</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Possuir o app CaixaTem.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Mostrar saldo”.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
+
+### Realizar transferências
+| **Título**| Realizar transferências |
+|--|--|
+| **Objetivo**| <ul><li>Transferir dinheiro para outra conta.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Possuir o app CaixaTem.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li><li>Outra Conta</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Transferir dinheiro”.</li><li>Selecionar como deseja transferir.</li><li>Inserir dados da conta para qual deseja transferir.</li><li>Digitar quanto deseja mandar.</li><li>Conferir os dados e valores.</li><li>Digitar senha do Caixa Tem.</li><li>Visualizar o comprovante.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir dinheiro na conta</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li><li>Não inserir os dados corretos da outra conta.</li></ul> |
+
+### Fazer recarga de transporte
+| **Título**| Fazer recarga de transporte |
+|--|--|
+| **Objetivo**| <ul><li>Realizar recarga de transporte.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições: <ul><li>Possuir o app CaixaTem.</li><li>Possuir cartão de transporte.</li></ul></li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li><li>Cartão de transporte</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Recarga de transporte”.</li><li>Selecionar a Cidade/UF.</li><li>Escolher a empresa de transporte.</li><li>Inserir os dados e o valor que deseja recarregar.</li><li>Conferir se os dados estão corretos.</li><li>Digitar senha do Caixa Tem para concluir o processo.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir dinheiro na conta.</li><li>O usuário deve possuir um cartão de transporte.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
+
+### Contratar Seguro Apoio Família 
+| **Título**| Contratar Seguro Apoio Família |
+|--|--|
+| **Objetivo**| <ul><li>Contratar seguro apoio família pelo Caixa Tem.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Possuir o app CaixaTem.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Seguro Apoio Família”.</li><li>Visualizar mensagens automáticas explicando como funciona o seguro.</li><li>Selecionar a opção “Quero Comprar”.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir dinheiro suficiente para contratar o seguro.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone sem bateria.</li></ul> |
+
+### Gerar código para pagar contas na lotérica
+| **Título**| Gerar código para pagar contas na lotérica |
+|--|--|
+| **Objetivo**| <ul><li>Gerar um código para o usuário pagar contas na lotérica sem cartão.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Possuir o app CaixaTem.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Pagar na Lotérica”.</li><li>O sistema irá gerar um código válido por 24 horas.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone sem bateria.</li></ul> |
+
+### Utilizar cartão de débito virtual
+| **Título**| Utilizar cartão de débito virtual |
+|--|--|
+| **Objetivo**| <ul><li>Gerar um código de segurança para o usuário realizar compras na internet com o cartão de débito virtual.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Possuir o app CaixaTem.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Cartão de Débito Virtual”.</li><li>Visualizar dados do cartão de débito virtual.</li><li>Selecionar a opção de gerar código de segurança.</li><li>O sistema irá gerar um código de segurança válido para 1 compra.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
+
+### Gerar código para saque sem cartão
+| **Título**| Gerar código para saque sem cartão |
+|--|--|
+| **Objetivo**| <ul><li>Sacar dinheiro no caixa eletrônico com o código gerado.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Possuir o app CaixaTem.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Saque sem Cartão”.</li><li>Selecionar a opção “Gerar código para saque”.</li><li>Digitar senha do Caixa Tem.</li><li>O sistema irá gerar um código válido por 1 hora.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
+
+### Realizar pagamentos com boleto
+| **Título**| Realizar pagamentos com boleto |
+|--|--|
+| **Objetivo**| <ul><li>Pagar uma conta pelo Caixa Tem.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Possuir o app CaixaTem.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Realizar pagamentos”.</li><li>Escolher forma de inserção de código de barras.</li><li>Inserir código de barras.</li><li>Conferir os dados do pagamento.</li><li>Selecionar a opção de realizar pagamento.</li><li>Digitar senha do Caixa Tem.</li><li>Salvar ou compartilhar comprovante de pagamento.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir o código de barras da conta.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li><li>Inserir o código de barras de forma incorreta.</li></ul> |
+
+### Realizar pagamentos com PIX
+| **Título**| Realizar pagamentos com PIX |
+|--|--|
+| **Objetivo**| <ul><li>Pagar uma conta pelo Caixa Tem.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Possuir o app CaixaTem.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema</li></ul> |
+| <br>**Recursos**| <ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul> |
+| **Episódios**| <ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “PIX”.</li><li>Selecionar a opção “Pagar”.</li><li>Escolher a chave Pix que será utilizada.</li><li>Inserir o valor da transferência.</li><li>Conferir os dados.</li><li>Digitar senha do Caixa Tem para concluir o processo.</li></ul> |
+| **Restrição**| <ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir uma chave pix cadastrada.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
+
 ## 3. Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] FELICÍSSIMO, C. H.; LEITE, J. C. S. P.; BREITMAN, K. K; SILVA, L. F. C&L: <strong> Um
 Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de Janeiro. Disponível
@@ -119,6 +221,8 @@ Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de
 | 1.0 | 01/08/2021 | Criação da página | Fernando Calil |
 | 1.1 | 27/08/2021 | Adição da introdução | Lucas Gomes |
 | 1.2 | 27/08/2021 | Adição dos primeiros Cenários | Fernando Calil |
+| 1.3 | 28/08/2021 | Adição de Cenários | Lucas Gomes |
+
 
 
 </center>
