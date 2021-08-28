@@ -7,7 +7,7 @@
 ## 2. Personas
 
 
-### 2.1 Persona Primária: Carmen de Souza
+### 2.1 Persona Primária: Carmen de Souza <a id="CarmenSouza"></a>
 
 
 <table>
@@ -44,7 +44,7 @@
         </tr>
         <tr>
             <td class="titulo"><strong>Relacionamentos:</strong></td>
-            <td colspan="1" class="persona">Solteira.<br> Mãe de 1 filho.</td>
+            <td colspan="1" class="persona">Viúva.<br> Mãe de 1 filho.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Status:</strong></td>
@@ -69,11 +69,13 @@
     </tbody>
 </table>
 
-
+<!--
 <p style="text-indent: 40px; align = "justify" class="PersonaDescprition"> Carmen de Souza tem 26 anos e está desempregada, perdeu o marido recentemente para a COVID-19, Carmen está cuidando sozinha de seu filho de 5 anos, pois seus pais já faleceram e não tem família onde mora.</p>
 <p style="text-indent: 40px; align = "justify">Carmen está recebendo ajuda do governo para poder se sustentar neste momento difícil, já tinha cadastro no aplicativo do governo para receber o auxílio emergencial, agora Carmen também foi beneficiada pelo seguro apoio família, que foi contratado por seu marido, e foi o que permitiu que ele tivesse um enterro digno, já que a família não tem condições para isso. Carmen está conseguindo se sustentar no período de pandemia graças aos auxílios do governo, então ela está sempre atenta para as novidades ligadas ao assunto e à volta das atividades, já que precisa trabalhar para sustentar o filho.</p>
+-->
 
-### 2.2 Persona Secundária: João Vitor
+
+### 2.2 Persona Secundária: João Vitor <a id="JoaoVitor"></a>
 
 <table>
     <thead>
@@ -134,16 +136,16 @@
     </tbody>
 </table>
 
-
+<!--
 <p style="text-indent: 40px; align = "justify" class="PersonaDescprition"> João Vitor tem 27 anos, trabalha como auxiliar de construção civil a mais de 10 anos, apesar de ter um trabalho pesado durante o dia todo, João Vitor tem sempre pensamento positivo sobre o futuro, acredita que com esforço e muito trabalho terá sucesso. João Vitor mora com sua esposa e 3 filhos em uma casa alugada e não vê a hora de adquirir sua casa própria.</p>
 <p style="text-indent: 40px; align = "justify">Durante a pandemia de COVID-19 João Vitor viu sua renda diminuir durante o período em que as atividades foram interrompidas na sua cidade, após algumas semanas sem poder trabalhar, assim como sua esposa desempregada já a algum tempo, João Vitor se viu em uma situação difícil, pois tem uma família para sustentar e não tinha previsões do governo para a volta das atividades. Após algum tempo João Vitor viu na televisão que o governo daria auxilio emergencial através de seu aplicativo, com isso João Vitor fez seu cadastro para receber o benefício do governo federal.</p>
-
+-->
 
 
 ### 2.4 Antipersona:  Maria Clara
 
 
-<table>
+<table> <a id="MariaClara"></a>
     <thead>
         <th colspan="10" style="text-align: center">Maria Clara</th>
     </thead>
@@ -202,13 +204,24 @@
     </tbody>
 </table>
 
+<!--
 <p style="text-indent: 40px; align = "justify" class="PersonaDescprition"> Maria Clara tem 22 anos está estudando para ser advogada e trabalha em uma lanchonete para ter seu próprio dinheiro, gosta de sair se encontrar com amigos, e tem perfil bastante aventureiro, sempre que tem folga da faculdade ela organiza trilhas com os amigos, recentemente está muito feliz, já que acabou de se mudar para um apartamento onde mora sozinha.</p>
-<p style="text-indent: 40px; align = "justify">Com o surto de COVID-19 Maria Clara foi pega de surpresa, já que acabou de se mudar e contava com o salário para poder pagar seu aluguel e contas, sem saber o que fazer Maria Clara voltou temporariamente para a casa dos pais, com o prolongamento do estado de emergência, Maria Clara se viu obrigada a sair do apartamento que alugou de forma definitiva, mas ainda tinha pendências com as contas do apartamento, assim que foi anunciado o auxílio emergencial, Maria Clara se cadastrou para poder receber o dinheiro para pagar suas dívidas.</p>
+<p style="text-indent: 40px; align = "justify">Com o surto de COVID-19 Maria Clara foi pega de surpresa, já que acabou de se mudar e contava com o salário para poder pagar seu aluguel e contas, sem saber o que fazer Maria Clara voltou temporariamente para a casa dos pais, com o prolongamento do estado de emergência, Maria Clara se viu obrigada a sair do apartamento que alugou de forma definitiva, mas ainda tinha pendências com as contas do apartamento, assim que foi anunciado o auxílio emergencial, Maria Clara se cadastrou para poder receber o dinheiro para pagar suas dívidas.</p> 
+-->
+
+## 3. Situações
+
+### 3.1 Desemprego
+<p style="text-indent: 40px; align = "justify"><a href="#CarmenSouza">Carmen</a> está recebendo ajuda do governo para poder se sustentar neste momento difícil, já tinha cadastro no aplicativo do governo para receber o auxílio emergencial, agora <a href="#CarmenSouza">Carmen</a> também foi beneficiada pelo seguro apoio família, que foi contratado por seu marido, e foi o que permitiu que ele tivesse um enterro digno, já que a família não tem condições para isso. <a href="#CarmenSouza">Carmen</a> está conseguindo se sustentar no período de pandemia graças aos auxílios do governo, então ela está sempre atenta para as novidades ligadas ao assunto e à volta das atividades, já que precisa trabalhar para sustentar o filho.</p>
+
+### 3.2 Interrompimento de Atividades
+<p style="text-indent: 40px; align = "justify">Durante a pandemia de COVID-19 <a href="#JoaoVitor">João Vitor</a> viu sua renda diminuir durante o período em que as atividades foram interrompidas na sua cidade, após algumas semanas sem poder trabalhar, assim como sua esposa desempregada já a algum tempo, <a href="#JoaoVitor">João Vitor</a> se viu em uma situação difícil, pois tem uma família para sustentar e não tinha previsões do governo para a volta das atividades. Após algum tempo <a href="#JoaoVitor">João Vitor</a> viu na televisão que o governo daria auxilio emergencial através de seu aplicativo, com isso João Vitor fez seu cadastro para receber o benefício do governo federal.</p>
+
+### 3.3 Isolamento Social
+<p style="text-indent: 40px; align = "justify">Com o surto de COVID-19 <a href="#MariaClara">Maria Clara</a> se viu como muitos estudantes, com as aulas suspensas, como <a href="#MariaClara">Maria Clara</a> mora com os pais e seus pais tem boa situação financeira, <a href="#MariaClara">Maria Clara</a> não teve problemas financeiros. <a href="#MariaClara">Maria Clara</a> assim como os amigos de curso viu sua formatura, que estava marcada para o próximo ano, se afastar ainda mais, além de não poder se reunir com os amigos.</p>
 
 
-
-
-## 3. Requisitos Funcionais
+## 4. Requisitos Funcionais
 
 | ID | Requisito | 
 |--|--|
@@ -224,7 +237,7 @@
 | SF 10 | O usuário poderá checar os benefícios que está recebendo. | 
 | SF 11 | O usuário terá opção de contratar seguro apoio família. | 
 
-## 4. Requisitos Não - Funcionais
+## 5. Requisitos Não - Funcionais
 | ID | Requisito | 
 |--|--|
 | SNF 01 | O usuário não pode ficar mais de 15minutos em fila para acessar o aplicativo. |
@@ -234,7 +247,7 @@
 | SNF 05 | Os dados do usuário devem ser protegidos. |
 | SNF 06 | Os dados dos usuários devem ser checados sobre a elegibilidade para os serviços sociais. |
 
-## 5. Bibliografia  <a id="Bibliografia"></a>
+## 6. Bibliografia  <a id="Bibliografia"></a>
 
 [1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016. 
 
@@ -246,6 +259,7 @@
 |--|--|--|--|
 | 1.0 | 17/08/2021 | Criação do página | Antônio Aldisio |
 | 1.1 | 19/08/2021 | Formulação do conteudo | Fernando Calil |
+| 1.2 | 28/08/2021 | Reestruturação do conteúdo | Fernando Calil |
 
 
 </center>
