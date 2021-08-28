@@ -11,12 +11,12 @@
 | **Título**| Cadastro |
 |--|--|
 | **Objetivo**| <ul><li>Criar conta de usuário.</li></ul> |
-| <br><br>**Contexto**|<ul><li>Local - Tela inicial da aplicação</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Ter aplicativo instalado.<br></li> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Ter acesso a internet.</ul>|
+| <br><br>**Contexto**|<ul><li>Local - Tela inicial da aplicação</li><li>Tempo - A qualquer momento.</li><li>Pré-condições:<ul><li>Ter aplicativo instalado.</li><li>Ter acesso a internet</li></ul></li></ul>|
 | **Atores**| <ul><li>Usuário</li></ul> |
 | <br><br><br>**Recursos**| <ul><li>Smartphone</li><li>Acesso a Internet</li><li>CPF</li><li>Email</li><li>Numero de telefone</li><li>CEP</li></ul> |
-| <br><br><br><br><br><br><br><br>**Episódios**| <ul><li>Usuário insere CPF.</li><li>Usuário Confirma ação.</li><li>Usuário escolhe opção de cadastro.</li><li>Usuário insere CPF.</li><li>Usuário insere nome completo</li><li>Usuário insere telefone.</li><li>Usuário confirma telefone</li><li>Usuário insere data de nascimento.</li><li>Usuário insere CEP</li><li>Usuário insere email.</li><li>Usuário confirma email</li><li>Usuário insere senha</li><li>Usuário confirma senha</li><li>Usuário marca o campo captcha.</li><li>Usuário finaliza cadastro.</li></ul> |
+| <br><br><br><br><br><br><br><br>**Episódios**| <ul><li>Usuário insere CPF.</li><li>Usuário Confirma ação.</li><li>Usuário escolhe opção de cadastro.</li><li>Usuário insere CPF.</li><li>Usuário insere nome completo.</li><li>Usuário insere telefone.</li><li>Usuário confirma telefone</li><li>Usuário insere data de nascimento.</li><li>Usuário insere CEP</li><li>Usuário insere email.</li><li>Usuário confirma email</li><li>Usuário insere senha</li><li>Usuário confirma senha</li><li>Usuário marca o campo captcha.</li><li>Usuário finaliza cadastro.</li></ul> |
 | **Restrição**| <ul><li>Usuário deve ter documentação válida.</li></ul> |
-| <br><br>**Exceção**| <ul><li>Usuário perde acesso a Internet.</li><li>Smartphone está sem bateria.</li><li>Usuário não informa os dados corretos.</li><li>Usuário insere algum dado incorreto.</li><li>Usuário não marca campo captcha.</li></ul> |
+| <br><br>**Exceção**| <ul><li>Usuário perde acesso a Internet.</li><li>Smartphone está sem bateria.</li><li>Usuário não informa os dados corretos.</li><li>Usuário não marca campo captcha.</li></ul> |
 
 ### Login
 | **Título**| Login |
@@ -38,76 +38,76 @@
 | **Atores**| <ul><li>Usuário</li></ul> |
 | **Recursos**| <ul><li>Conta no aplicativo.</li></ul> |
 | **Episódios**| <ul><li>Usuário seleciona a funcionalidade de extrato.</li><li>Usuário seleciona o período desejado.</li></ul> |
-| **Restrição**| <ul><li>Usuário deve possuir cadastro.</li></ul> |
-| **Exceção**| <ul></ul> |
+| **Restrição**| <ul><li>Usuário deve possuir cadastro.</li><li>Usuário deve estar logado.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
 
 ### Calendário do auxílio emergencial
 | **Título**| Calendário do auxílio emergencial |
 |--|--|
 | **Objetivo**| <ul><li>Consultar calendário de liberação do auxílio emergencial.</li></ul> |
-| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
 | **Atores**| <ul><li>Usuário</li></ul> |
 | **Recursos**| <ul><li>Conta no aplicativo</li></ul> |
 | **Episódios**| <ul><li>Usuário seleciona a opção de transferência.</li><li>Usuário escolhe a opção Ver calendário.</li></ul> |
-| **Restrição**| <ul><li>Usuário deve possuir cadastro.</li></ul> |
-| **Exceção**| <ul></ul> |
+| **Restrição**| <ul><li>Usuário deve possuir cadastro.</li><li>Usuário deve estar logado.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
 ### Informe de Rendimentos
 | **Título**| Informe de Rendimentos |
 |--|--|
-| **Objetivo**| <ul><li>Consultar o rendimentos da conta pra declaração de imposto.</li></ul> |
-| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| **Objetivo**| <ul><li>Consultar os rendimentos da conta pra declaração de imposto.</li></ul> |
+| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
 | **Atores**| <ul><li>Usuário</li></ul> |
 | **Recursos**| <ul><li>Conta no aplicativo.</li></ul> |
 | **Episódios**| <ul><li>Usuário escole a opção Informe de Rendimentos.</li><li>Usuário seleciona Ver informe de Rendimentos</li></ul> |
-| **Restrição**| <ul><li>Usuário deve possuir cadastro.</li></ul> |
-| **Exceção**| <ul></ul> |
+| **Restrição**| <ul><li>Usuário deve possuir cadastro.</li><li>Usuário deve estar logado.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
 
 ### Consultar Programas Sociais
 | **Título**| Consultar Programas Sociais |
 |--|--|
 | **Objetivo**| <ul><li>Consultar situação do programa social desejado.</li></ul> |
-| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
 | **Atores**| <ul><li>Usuário</li></ul> |
 | <br>**Recursos**| <ul><li>Conta no aplicativo.</li><li>Elegibilidade para programa social.</li><li>NIS</li></ul> |
 | **Episódios**| <ul><li>Usuário escolhe o programa social desejado.</li></ul> |
-| **Restrição**| <ul><li>Usuário deve ser elegível para o benefício social.</li></ul> |
-| **Exceção**| <ul><li>Usuário não possui NIS.</li></ul> |
+| **Restrição**| <ul><li>Usuário deve estar logado.</li><li>Usuário deve ser elegível para o benefício social.</li></ul> |
+| <br>**Exceção**| <ul><li>Usuário não possui NIS.</li><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-<!--
-| **Título**|  |
+
+| **Título**| Consultar Comprovantes |
+|--|--|
+| **Objetivo**| <ul><li>Verificar comprovação de transações realizadas pela conta.</li></ul> |
+| <br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| **Atores**| <ul><li>Usuário</li></ul> |
+| **Recursos**| <ul><li>Conta no aplicativo</li></ul> |
+| <br>**Episódios**| <ul><li>Usuário escolhe a opção de comprovantes</li><li>Usuário seleciona o período em que a operação foi realizada</li><li>Usuário escolhe a transação procurada.</li></ul> |
+| <br>**Restrição**| <ul><li>Usuário deve estar logado.</li><li>Usuário deve ser elegível para o benefício social.</li><li>Usuário deve possuir uma transação executada previamente.</li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
+
+| **Título**| Recarga de celular |
 |--|--|
 | **Objetivo**| <ul><li></li></ul> |
-| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
 | **Atores**| <ul><li>Usuário</li></ul> |
 | <br><br>**Recursos**| <ul><li></li><li></li><li></li><li></li></ul> |
 | <br><br><br>**Episódios**| <ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul> |
 | **Restrição**| <ul><li></li></ul> |
-| **Exceção**| <ul><li></li><li></li><li></li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-| **Título**|  |
+| **Título**| Receber Seguro |
 |--|--|
 | **Objetivo**| <ul><li></li></ul> |
-| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
 | **Atores**| <ul><li>Usuário</li></ul> |
 | <br><br>**Recursos**| <ul><li></li><li></li><li></li><li></li></ul> |
 | <br><br><br>**Episódios**| <ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul> |
 | **Restrição**| <ul><li></li></ul> |
-| **Exceção**| <ul><li></li><li></li><li></li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-| **Título**|  |
-|--|--|
-| **Objetivo**| <ul><li></li></ul> |
-| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
-| **Atores**| <ul><li>Usuário</li></ul> |
-| <br><br>**Recursos**| <ul><li></li><li></li><li></li><li></li></ul> |
-| <br><br><br>**Episódios**| <ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul> |
-| **Restrição**| <ul><li></li></ul> |
-| **Exceção**| <ul><li></li><li></li><li></li></ul> |
 
--->
 
 ### Consultar saldo
 | **Título**| Consultar saldo |
