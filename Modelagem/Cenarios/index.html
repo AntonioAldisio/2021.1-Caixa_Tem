@@ -655,7 +655,7 @@
         
           <li class="md-nav__item">
   <a href="#cadastro" class="md-nav__link">
-    Cadastro
+    Cadastro 
   </a>
   
 </li>
@@ -695,9 +695,29 @@
   
 </li>
         
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#consultar-comprovantes" class="md-nav__link">
+    Consultar Comprovantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recarga-de-celular" class="md-nav__link">
+    Recarga de Celular
+  </a>
+  
+    <nav class="md-nav" aria-label="Recarga de Celular">
+      <ul class="md-nav__list">
+        
           <li class="md-nav__item">
   <a href="#consultar-saldo" class="md-nav__link">
-    Consultar saldo
+    Consultar Saldo 
   </a>
   
 </li>
@@ -718,7 +738,7 @@
         
           <li class="md-nav__item">
   <a href="#contratar-seguro-apoio-familia" class="md-nav__link">
-    Contratar Seguro Apoio Família
+    Contratar Seguro Apoio Família 
   </a>
   
 </li>
@@ -857,7 +877,7 @@
         
           <li class="md-nav__item">
   <a href="#cadastro" class="md-nav__link">
-    Cadastro
+    Cadastro 
   </a>
   
 </li>
@@ -897,9 +917,29 @@
   
 </li>
         
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#consultar-comprovantes" class="md-nav__link">
+    Consultar Comprovantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recarga-de-celular" class="md-nav__link">
+    Recarga de Celular
+  </a>
+  
+    <nav class="md-nav" aria-label="Recarga de Celular">
+      <ul class="md-nav__list">
+        
           <li class="md-nav__item">
   <a href="#consultar-saldo" class="md-nav__link">
-    Consultar saldo
+    Consultar Saldo 
   </a>
   
 </li>
@@ -920,7 +960,7 @@
         
           <li class="md-nav__item">
   <a href="#contratar-seguro-apoio-familia" class="md-nav__link">
-    Contratar Seguro Apoio Família
+    Contratar Seguro Apoio Família 
   </a>
   
 </li>
@@ -998,7 +1038,8 @@
 <p style="text-indent: 40px; align="justify">Cada cenário descreve, através de linguagem natural semi-estruturada, uma situação específica de uma aplicação de software, priorizando seu comportamento.<a href="#Bibliografia">[1]</a><br></p>
 
 <h2 id="2-cenarios">2. Cenários</h2>
-<h3 id="cadastro">Cadastro</h3>
+<p><center></p>
+<h3 id="cadastro">Cadastro <a id="#cadastro"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1017,7 +1058,7 @@
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><ul><li>Usuário</li></ul></td>
+<td><ul><li>Usuário</li><li>Sistema.</li></ul></td>
 </tr>
 <tr>
 <td><br><br><br><strong>Recursos</strong></td>
@@ -1037,7 +1078,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="login">Login</h3>
+<h3 id="login">Login<a id="login"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1060,7 +1101,7 @@
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
-<td><ul><li>Conta no aplicativo</li></ul></td>
+<td><ul><li><a href="#cadastro">Conta no aplicativo</a></li></ul></td>
 </tr>
 <tr>
 <td><br><br><br><strong>Episódios</strong></td>
@@ -1068,7 +1109,7 @@
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>Usuário deve possuir cadastro.</li></ul></td>
+<td><ul><li>Usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul></td>
 </tr>
 <tr>
 <td><br><strong>Exceção</strong></td>
@@ -1076,7 +1117,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="extrato">Extrato</h3>
+<h3 id="extrato">Extrato<a id="extrato"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1091,15 +1132,15 @@
 </tr>
 <tr>
 <td><br><strong>Contexto</strong></td>
-<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><ul><li>Usuário</li></ul></td>
+<td><ul><li>Usuário</li><li>Sistema.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
-<td><ul><li>Conta no aplicativo.</li></ul></td>
+<td><ul><li><a href="#cadastro">Conta no aplicativo</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Episódios</strong></td>
@@ -1107,7 +1148,7 @@
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>Usuário deve possuir cadastro.</li><li>Usuário deve estar logado.</li></ul></td>
+<td><ul><li>Usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1115,7 +1156,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="calendario-do-auxilio-emergencial">Calendário do auxílio emergencial</h3>
+<h3 id="calendario-do-auxilio-emergencial">Calendário do auxílio emergencial<a id="calendario"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1129,16 +1170,16 @@
 <td><ul><li>Consultar calendário de liberação do auxílio emergencial.</li></ul></td>
 </tr>
 <tr>
-<td><br><br><strong>Contexto</strong></td>
-<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+<td><br><strong>Contexto</strong></td>
+<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><ul><li>Usuário</li></ul></td>
+<td><ul><li>Usuário</li><li>Sistema.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
-<td><ul><li>Conta no aplicativo</li></ul></td>
+<td><ul><li><a href="#cadastro">Conta no aplicativo</a></li></ul></td>
 </tr>
 <tr>
 <td><strong>Episódios</strong></td>
@@ -1146,7 +1187,7 @@
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>Usuário deve possuir cadastro.</li><li>Usuário deve estar logado.</li></ul></td>
+<td><ul><li>Usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1154,7 +1195,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="informe-de-rendimentos">Informe de Rendimentos</h3>
+<h3 id="informe-de-rendimentos">Informe de Rendimentos<a id="rendimento"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1169,15 +1210,15 @@
 </tr>
 <tr>
 <td><br><br><strong>Contexto</strong></td>
-<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><ul><li>Usuário</li></ul></td>
+<td><ul><li>Usuário</li><li>Sistema.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
-<td><ul><li>Conta no aplicativo.</li></ul></td>
+<td><ul><li><a href="#cadastro">Conta no aplicativo</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Episódios</strong></td>
@@ -1185,7 +1226,7 @@
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>Usuário deve possuir cadastro.</li><li>Usuário deve estar logado.</li></ul></td>
+<td><ul><li>Usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1193,7 +1234,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="consultar-programas-sociais">Consultar Programas Sociais</h3>
+<h3 id="consultar-programas-sociais">Consultar Programas Sociais<a id="sociais"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1208,15 +1249,15 @@
 </tr>
 <tr>
 <td><br><strong>Contexto</strong></td>
-<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><ul><li>Usuário</li></ul></td>
+<td><ul><li>Usuário</li><li>Sistema.</li></ul></td>
 </tr>
 <tr>
 <td><br><strong>Recursos</strong></td>
-<td><ul><li>Conta no aplicativo.</li><li>Elegibilidade para programa social.</li><li>NIS</li></ul></td>
+<td><ul><li><a href="#cadastro">Conta no aplicativo</a>.</li><li>Elegibilidade para programa social.</li><li>NIS</li></ul></td>
 </tr>
 <tr>
 <td><strong>Episódios</strong></td>
@@ -1224,7 +1265,7 @@
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>Usuário deve estar logado.</li><li>Usuário deve ser elegível para o benefício social.</li></ul></td>
+<td><ul><li>Usuário deve estar <a href="login">logado</a>.</li><li>Usuário deve ser elegível para o benefício social.</li></ul></td>
 </tr>
 <tr>
 <td><br><strong>Exceção</strong></td>
@@ -1232,6 +1273,7 @@
 </tr>
 </tbody>
 </table>
+<h2 id="consultar-comprovantes">Consultar Comprovantes<a id="comprovantes"></a></h2>
 <table>
 <thead>
 <tr>
@@ -1246,23 +1288,23 @@
 </tr>
 <tr>
 <td><br><strong>Contexto</strong></td>
-<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><ul><li>Usuário</li></ul></td>
+<td><ul><li>Usuário</li><li>Sistema.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
-<td><ul><li>Conta no aplicativo</li></ul></td>
+<td><ul><li><a href="#cadastro">Conta no aplicativo</a></li></ul></td>
 </tr>
 <tr>
 <td><br><strong>Episódios</strong></td>
 <td><ul><li>Usuário escolhe a opção de comprovantes</li><li>Usuário seleciona o período em que a operação foi realizada</li><li>Usuário escolhe a transação procurada.</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Restrição</strong></td>
-<td><ul><li>Usuário deve estar logado.</li><li>Usuário deve ser elegível para o benefício social.</li><li>Usuário deve possuir uma transação executada previamente.</li></ul></td>
+<td><strong>Restrição</strong></td>
+<td><ul><li>Usuário deve estar <a href="login">logado</a>.</li><li>Usuário deve possuir uma transação executada previamente.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1270,6 +1312,7 @@
 </tr>
 </tbody>
 </table>
+<h2 id="recarga-de-celular">Recarga de Celular<a id="celular"></a></h2>
 <table>
 <thead>
 <tr>
@@ -1280,78 +1323,53 @@
 <tbody>
 <tr>
 <td><strong>Objetivo</strong></td>
-<td><ul><li></li></ul></td>
+<td><ul><li>Adicionar créditos à uma linha telefônica.</li></ul></td>
 </tr>
 <tr>
-<td><br><br><strong>Contexto</strong></td>
-<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+<td><br><strong>Contexto</strong></td>
+<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar <a href="login">logado</a>.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><ul><li>Usuário</li></ul></td>
+<td><ul><li>Usuário</li><li>Sistema.</li></ul></td>
 </tr>
 <tr>
-<td><br><br><strong>Recursos</strong></td>
-<td><ul><li></li><li></li><li></li><li></li></ul></td>
+<td><br><strong>Recursos</strong></td>
+<td><ul><li><a href="#cadastro">Conta no aplicativo</a></li><li>Linha telefônica Pré-paga.</li><li><a href="#saldo">Saldo</a> disponível na conta do aplicativo.</li></ul></td>
 </tr>
 <tr>
-<td><br><br><br><strong>Episódios</strong></td>
-<td><ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul></td>
+<td><br><br><br><br><strong>Episódios</strong></td>
+<td><ul><li>Usuário deve escolher a opção Recarga de Telefone</li><li>Usuário deve pressionar Digitar número com DDD.</li><li>Usuário deve inserir número da linha telefônica</li><li>Usuário deve confirmar o número da linha telefônica.</li><li>Usuário deve escolher a operadora da linha telefônica.</li><li>Usuário deve confirmar a opção de operadora.</li><li>Usuário deve escolher o valor a ser creditado.</li><li>Usuário deve confirmar a operação de recarga.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li></li></ul></td>
+<td><ul><li>Usuário deve estar <a href="login">logado</a>.</li><li>Usuário deve possuir <a href="#saldo">saldo</a> suficiente para a transação.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Exceção</strong></td>
-<td><ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul></td>
+<td><br><br><strong>Exceção</strong></td>
+<td><ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li><li>Preenchimento de dados incorreta.</li><li><a href="#saldo">Saldo</a> insuficiente.</li></ul></td>
 </tr>
 </tbody>
 </table>
+<!--
+## Receber Seguro<a id="seguro"></a>
+| **Título**| Receber Seguro |
+|--|--|
+| **Objetivo**| <ul><li></li></ul> |
+| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar <a href="login">logado</a>.</li></ul>|
+| **Atores**| <ul><li>Usuário</li><li>Sistema.</li></ul> |
+| <br><br>**Recursos**| <ul><li></li><li></li><li></li><li></li></ul> |
+| <br><br><br>**Episódios**| <ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul> |
+| **Restrição**| <ul><li></li></ul> |
+| **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
+-->
+
+<h3 id="consultar-saldo">Consultar Saldo <a href="#saldo"></a></h3>
 <table>
 <thead>
 <tr>
 <th><strong>Título</strong></th>
-<th>Receber Seguro</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Objetivo</strong></td>
-<td><ul><li></li></ul></td>
-</tr>
-<tr>
-<td><br><br><strong>Contexto</strong></td>
-<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
-</tr>
-<tr>
-<td><strong>Atores</strong></td>
-<td><ul><li>Usuário</li></ul></td>
-</tr>
-<tr>
-<td><br><br><strong>Recursos</strong></td>
-<td><ul><li></li><li></li><li></li><li></li></ul></td>
-</tr>
-<tr>
-<td><br><br><br><strong>Episódios</strong></td>
-<td><ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul></td>
-</tr>
-<tr>
-<td><strong>Restrição</strong></td>
-<td><ul><li></li></ul></td>
-</tr>
-<tr>
-<td><strong>Exceção</strong></td>
-<td><ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul></td>
-</tr>
-</tbody>
-</table>
-<h3 id="consultar-saldo">Consultar saldo</h3>
-<table>
-<thead>
-<tr>
-<th><strong>Título</strong></th>
-<th>Consultar saldo</th>
+<th>Consultar <a href="#saldo">saldo</a></th>
 </tr>
 </thead>
 <tbody>
@@ -1368,7 +1386,7 @@
 <td><ul><li>Usuário</li><li>Sistema</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
@@ -1377,7 +1395,7 @@
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1385,7 +1403,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="realizar-transferencias">Realizar transferências</h3>
+<h3 id="realizar-transferencias">Realizar transferências<a id="transferencia"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1407,16 +1425,16 @@
 <td><ul><li>Usuário</li><li>Sistema</li><li>Outra Conta</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Episódios</strong></td>
+<td><br><br><br><br><strong>Episódios</strong></td>
 <td><ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Transferir dinheiro”.</li><li>Selecionar como deseja transferir.</li><li>Inserir dados da conta para qual deseja transferir.</li><li>Digitar quanto deseja mandar.</li><li>Conferir os dados e valores.</li><li>Digitar senha do Caixa Tem.</li><li>Visualizar o comprovante.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir dinheiro na conta</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir <a href="#saldo">dinheiro na conta</a></li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1424,7 +1442,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="fazer-recarga-de-transporte">Fazer recarga de transporte</h3>
+<h3 id="fazer-recarga-de-transporte">Fazer recarga de transporte<a id="transporte"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1446,16 +1464,16 @@
 <td><ul><li>Usuário</li><li>Sistema</li><li>Cartão de transporte</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Episódios</strong></td>
+<td><br><br><br><br><strong>Episódios</strong></td>
 <td><ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Recarga de transporte”.</li><li>Selecionar a Cidade/UF.</li><li>Escolher a empresa de transporte.</li><li>Inserir os dados e o valor que deseja recarregar.</li><li>Conferir se os dados estão corretos.</li><li>Digitar senha do Caixa Tem para concluir o processo.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir dinheiro na conta.</li><li>O usuário deve possuir um cartão de transporte.</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir <a href="#saldo">dinheiro na conta</a>.</li><li>O usuário deve possuir um cartão de transporte.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1463,7 +1481,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="contratar-seguro-apoio-familia">Contratar Seguro Apoio Família</h3>
+<h3 id="contratar-seguro-apoio-familia">Contratar Seguro Apoio Família <a id="apoio"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1485,16 +1503,16 @@
 <td><ul><li>Usuário</li><li>Sistema</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Episódios</strong></td>
+<td><br><br><strong>Episódios</strong></td>
 <td><ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Seguro Apoio Família”.</li><li>Visualizar mensagens automáticas explicando como funciona o seguro.</li><li>Selecionar a opção “Quero Comprar”.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir dinheiro suficiente para contratar o seguro.</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir <a href="#saldo">dinheiro suficiente</a> para contratar o seguro.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1502,7 +1520,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="gerar-codigo-para-pagar-contas-na-loterica">Gerar código para pagar contas na lotérica</h3>
+<h3 id="gerar-codigo-para-pagar-contas-na-loterica">Gerar código para pagar contas na lotérica<a id="loterica"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1524,16 +1542,16 @@
 <td><ul><li>Usuário</li><li>Sistema</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Episódios</strong></td>
+<td><br><strong>Episódios</strong></td>
 <td><ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Pagar na Lotérica”.</li><li>O sistema irá gerar um código válido por 24 horas.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1541,7 +1559,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="utilizar-cartao-de-debito-virtual">Utilizar cartão de débito virtual</h3>
+<h3 id="utilizar-cartao-de-debito-virtual">Utilizar cartão de débito virtual<a id="cartao"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1563,16 +1581,16 @@
 <td><ul><li>Usuário</li><li>Sistema</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Episódios</strong></td>
+<td><br><br><strong>Episódios</strong></td>
 <td><ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Cartão de Débito Virtual”.</li><li>Visualizar dados do cartão de débito virtual.</li><li>Selecionar a opção de gerar código de segurança.</li><li>O sistema irá gerar um código de segurança válido para 1 compra.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1580,7 +1598,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="gerar-codigo-para-saque-sem-cartao">Gerar código para saque sem cartão</h3>
+<h3 id="gerar-codigo-para-saque-sem-cartao">Gerar código para saque sem cartão<a id="saque"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1602,16 +1620,16 @@
 <td><ul><li>Usuário</li><li>Sistema</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Episódios</strong></td>
+<td><br><br><strong>Episódios</strong></td>
 <td><ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Saque sem Cartão”.</li><li>Selecionar a opção “Gerar código para saque”.</li><li>Digitar senha do Caixa Tem.</li><li>O sistema irá gerar um código válido por 1 hora.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1619,7 +1637,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="realizar-pagamentos-com-boleto">Realizar pagamentos com boleto</h3>
+<h3 id="realizar-pagamentos-com-boleto">Realizar pagamentos com boleto<a id="boleto"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1641,16 +1659,16 @@
 <td><ul><li>Usuário</li><li>Sistema</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Episódios</strong></td>
+<td><br><br><br><br><strong>Episódios</strong></td>
 <td><ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “Realizar pagamentos”.</li><li>Escolher forma de inserção de código de barras.</li><li>Inserir código de barras.</li><li>Conferir os dados do pagamento.</li><li>Selecionar a opção de realizar pagamento.</li><li>Digitar senha do Caixa Tem.</li><li>Salvar ou compartilhar comprovante de pagamento.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir o código de barras da conta.</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir o código de barras da conta.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1658,7 +1676,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="realizar-pagamentos-com-pix">Realizar pagamentos com PIX</h3>
+<h3 id="realizar-pagamentos-com-pix">Realizar pagamentos com PIX<a id="pix"></a></h3>
 <table>
 <thead>
 <tr>
@@ -1680,16 +1698,16 @@
 <td><ul><li>Usuário</li><li>Sistema</li></ul></td>
 </tr>
 <tr>
-<td><br><strong>Recursos</strong></td>
+<td><strong>Recursos</strong></td>
 <td><ul><li>Acesso à internet.</li><li>Aplicativo instalado.</li></ul></td>
 </tr>
 <tr>
-<td><strong>Episódios</strong></td>
+<td><br><br><br><br><strong>Episódios</strong></td>
 <td><ul><li>Abrir o aplicativo Caixa Tem.</li><li>Selecionar a opção “PIX”.</li><li>Selecionar a opção “Pagar”.</li><li>Escolher a chave Pix que será utilizada.</li><li>Inserir o valor da transferência.</li><li>Conferir os dados.</li><li>Digitar senha do Caixa Tem para concluir o processo.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Restrição</strong></td>
-<td><ul><li>O usuário deve possuir cadastro.</li><li>O usuário deve possuir uma chave pix cadastrada.</li></ul></td>
+<td><ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir uma chave pix cadastrada.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
@@ -1697,6 +1715,7 @@
 </tr>
 </tbody>
 </table>
+<p></center></p>
 <h2 id="3-bibliografia">3. Bibliografia <a id="Bibliografia"></a></h2>
 <p align = "justify"> [1] FELICÍSSIMO, C. H.; LEITE, J. C. S. P.; BREITMAN, K. K; SILVA, L. F. C&L: <strong> Um
 Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de Janeiro. Disponível
@@ -1737,6 +1756,12 @@ Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de
 <td>28/08/2021</td>
 <td>Adição de Cenários</td>
 <td>Lucas Gomes</td>
+</tr>
+<tr>
+<td><br>1.4</td>
+<td><br>28/08/2021</td>
+<td>Adição de mais Cenários<br>Revisão de layout<br>Adição de links correspondentes</td>
+<td><br> Fernando Calil</td>
 </tr>
 </tbody>
 </table>
