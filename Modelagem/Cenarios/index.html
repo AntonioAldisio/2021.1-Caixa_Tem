@@ -10,7 +10,7 @@
       
       
       <link rel="icon" href="../../assets/Images/icon2.png">
-      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.4">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.2">
     
     
       
@@ -18,10 +18,10 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.f7f47774.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.1118c9be.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ba0d045b.min.css">
         
       
     
@@ -646,6 +646,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#1" class="md-nav__link">
+    1
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#bibliografia" class="md-nav__link">
     Bibliografia 
   </a>
@@ -730,6 +737,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#1" class="md-nav__link">
+    1
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#bibliografia" class="md-nav__link">
     Bibliografia 
   </a>
@@ -757,7 +771,286 @@
                 
                 
                 <h1 id="cenarios">Cenários</h1>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream</p>
 <h2 id="1-introducao">1. Introdução</h2>
+<p>=======</p>
+<h2 id="1">1</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Título</strong></th>
+<th>Cadastro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo</strong></td>
+<td><ul><li>Criar conta de usuário.</li></ul></td>
+</tr>
+<tr>
+<td><br><br><strong>Contexto</strong></td>
+<td><ul><li>Local - Tela inicial da aplicação</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Ter aplicativo instalado.<br></li> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Ter acesso a internet.</ul></td>
+</tr>
+<tr>
+<td><strong>Atores</strong></td>
+<td><ul><li>Usuário</li></ul></td>
+</tr>
+<tr>
+<td><br><br><br><strong>Recursos</strong></td>
+<td><ul><li>Smartphone</li><li>Acesso a Internet</li><li>CPF</li><li>Email</li><li>Numero de telefone</li><li>CEP</li></ul></td>
+</tr>
+<tr>
+<td><br><br><br><br><br><br><br><br><strong>Episódios</strong></td>
+<td><ul><li>Usuário insere CPF.</li><li>Usuário Confirma ação.</li><li>Usuário escolhe opção de cadastro.</li><li>Usuário insere CPF.</li><li>Usuário insere nome completo</li><li>Usuário insere telefone.</li><li>Usuário confirma telefone</li><li>Usuário insere data de nascimento.</li><li>Usuário insere CEP</li><li>Usuário insere email.</li><li>Usuário confirma email</li><li>Usuário insere senha</li><li>Usuário confirma senha</li><li>Usuário marca o campo captcha.</li><li>Usuário finaliza cadastro.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Restrição</strong></td>
+<td><ul><li>Usuário deve ter documentação válida.</li></ul></td>
+</tr>
+<tr>
+<td><br><br><strong>Exceção</strong></td>
+<td><ul><li>Usuário perde acesso a Internet.</li><li>Smartphone está sem bateria.</li><li>Usuário não informa os dados corretos.</li><li>Usuário insere algum dado incorreto.</li><li>Usuário não marca campo captcha.</li></ul></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong>Título</strong></th>
+<th>Login</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo</strong></td>
+<td><ul><li>Autenticar o usuário no sistema.</li></ul></td>
+</tr>
+<tr>
+<td><br><strong>Contexto</strong></td>
+<td><ul><li>Local - Tela inicial do aplicativo.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário não pode estar Logado do aplicativo.<br></li></ul></td>
+</tr>
+<tr>
+<td><strong>Atores</strong></td>
+<td><ul><li>Usuário.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Recursos</strong></td>
+<td><ul><li>Conta no aplicativo</li></ul></td>
+</tr>
+<tr>
+<td><br><br><br><strong>Episódios</strong></td>
+<td><ul><li>Usuário abre o aplicativo.</li><li>Usuário insere CPF.</li><li>Usuário confirma ação.</li><li>Usuário insere CPF.</li><li>Usuário insere senha.</li><li>Usuário confirma ação.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Restrição</strong></td>
+<td><ul><li>Usuário deve possuir cadastro.</li></ul></td>
+</tr>
+<tr>
+<td><br><strong>Exceção</strong></td>
+<td><ul><li>Usuário perde acesso a Internet.</li><li>Smartphone está sem bateria.</li><li>Usuário não informa os dados corretos.</li></ul></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong>Título</strong></th>
+<th>Extrato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo</strong></td>
+<td><ul><li>Verificar as transações realizadas na conta.</li></ul></td>
+</tr>
+<tr>
+<td><br><strong>Contexto</strong></td>
+<td><ul><li>Local - Tela de lista de funcionalidades.</li><li>Tempo - A qualquer momento.</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Atores</strong></td>
+<td><ul><li>Usuário</li></ul></td>
+</tr>
+<tr>
+<td><strong>Recursos</strong></td>
+<td><ul><li>Conta no aplicativo.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Episódios</strong></td>
+<td><ul><li>Usuário seleciona a funcionalidade de extrato.</li><li>Usuário seleciona o período desejado.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Restrição</strong></td>
+<td><ul><li>Usuário deve possuir cadastro.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Exceção</strong></td>
+<td><ul></ul></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong>Título</strong></th>
+<th>Calendário do auxílio emergencial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo</strong></td>
+<td><ul><li>Consultar calendário de liberação do auxílio emergencial.</li></ul></td>
+</tr>
+<tr>
+<td><br><br><strong>Contexto</strong></td>
+<td><ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Atores</strong></td>
+<td><ul><li>Usuário</li></ul></td>
+</tr>
+<tr>
+<td><strong>Recursos</strong></td>
+<td><ul><li>Conta no aplicativo</li></ul></td>
+</tr>
+<tr>
+<td><strong>Episódios</strong></td>
+<td><ul><li>Usuário seleciona a opção de transferência.</li><li>Usuário escolhe a opção Ver calendário.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Restrição</strong></td>
+<td><ul>Usuário deve possuir cadastro.</ul></td>
+</tr>
+<tr>
+<td><strong>Exceção</strong></td>
+<td><ul></ul></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong>Título</strong></th>
+<th>Informe de Rendimentos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo</strong></td>
+<td><ul><li>Consultar o rendimentos da conta pra declaração de imposto.</li></ul></td>
+</tr>
+<tr>
+<td><br><br><strong>Contexto</strong></td>
+<td><ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Atores</strong></td>
+<td><ul><li>Usuário</li></ul></td>
+</tr>
+<tr>
+<td><strong>Recursos</strong></td>
+<td><ul><li>Conta no aplicativo.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Episódios</strong></td>
+<td><ul><li>Usuário escole a opção Informe de Rendimentos.</li><li>Usuário seleciona Ver informe de Rendimentos</li></ul></td>
+</tr>
+<tr>
+<td><strong>Restrição</strong></td>
+<td><ul><li>Usuário deve possuir cadastro.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Exceção</strong></td>
+<td><ul></ul></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong>Título</strong></th>
+<th>Consultar Programas Sociais</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo</strong></td>
+<td><ul><li>Consultar situação do programa social desejado.</li></ul></td>
+</tr>
+<tr>
+<td><br><strong>Contexto</strong></td>
+<td><ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Atores</strong></td>
+<td><ul><li>Usuário</li></ul></td>
+</tr>
+<tr>
+<td><br><strong>Recursos</strong></td>
+<td><ul><li>Conta no aplicativo.</li><li>Elegibilidade para programa social.</li><li>NIS</li></ul></td>
+</tr>
+<tr>
+<td><strong>Episódios</strong></td>
+<td><ul><li>Usuário escolhe o programa social desejado.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Restrição</strong></td>
+<td><ul><li>Usuário deve ser elegível para o benefício social.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Exceção</strong></td>
+<td><ul><li>Usuário não possui NIS.</li></ul></td>
+</tr>
+</tbody>
+</table>
+<!--
+| **Título**|  |
+|--|--|
+| **Objetivo**| <ul><li></li></ul> |
+| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| **Atores**| <ul><li>Usuário</li></ul> |
+| <br><br>**Recursos**| <ul><li></li><li></li><li></li><li></li></ul> |
+| <br><br><br>**Episódios**| <ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul> |
+| **Restrição**| <ul><li></li></ul> |
+| **Exceção**| <ul><li></li><li></li><li></li></ul> |
+
+| **Título**|  |
+|--|--|
+| **Objetivo**| <ul><li></li></ul> |
+| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| **Atores**| <ul><li>Usuário</li></ul> |
+| <br><br>**Recursos**| <ul><li></li><li></li><li></li><li></li></ul> |
+| <br><br><br>**Episódios**| <ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul> |
+| **Restrição**| <ul><li></li></ul> |
+| **Exceção**| <ul><li></li><li></li><li></li></ul> |
+
+| **Título**|  |
+|--|--|
+| **Objetivo**| <ul><li></li></ul> |
+| <br><br>**Contexto**|<ul><li>Local - Tela de lista de funcionalidades</li><li>Tempo - A qualquer momento</li><li>Pré-condições - Usuário deve estar logado.</li></ul>|
+| **Atores**| <ul><li>Usuário</li></ul> |
+| <br><br>**Recursos**| <ul><li></li><li></li><li></li><li></li></ul> |
+| <br><br><br>**Episódios**| <ul><li></li><li></li><li></li><li></li><li>U</li><li></li></ul> |
+| **Restrição**| <ul><li></li></ul> |
+| **Exceção**| <ul><li></li><li></li><li></li></ul> |
+
+-->
+
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Stashed changes</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
 <p style="text-indent: 40px; align="justify"> Cenários são descrições de situações comuns ao cotidiano e que devem levar em conta os aspectos de usabilidade e permitir o aprofundamento do conhecimento do problema, a unificação de critérios, a obtenção do compromisso de clientes e/ou usuários, a organização de detalhes e o treinamento de pessoas.</p>
 <p style="text-indent: 40px; align="justify">Cada cenário descreve, através de linguagem natural semi-estruturada, uma situação específica de uma aplicação de software, priorizando seu comportamento.<a href="#Bibliografia">[1]</a><br></p>
 
@@ -789,6 +1082,12 @@ Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de
 <td>27/08/2021</td>
 <td>Adição da introdução</td>
 <td>Lucas Gomes</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>27/08/2021</td>
+<td>Adição dos primeiros Cenários</td>
+<td>Fernando Calil</td>
 </tr>
 </tbody>
 </table>
@@ -866,7 +1165,7 @@ Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de
     <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.febc23d1.min.js"></script>
+      <script src="../../assets/javascripts/bundle.2b46852b.min.js"></script>
       
     
   </body>
