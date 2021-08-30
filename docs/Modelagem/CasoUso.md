@@ -17,26 +17,25 @@ Verificamos a existencia de apenas um caso de uso, com diversos fluxos alternati
 
 #### 3.1 Fluxo básico
 
-##### 3.1.1 O caso de uso começa quando o ator informa que deseja acessar o sistema com o CPF pré cadastrado no Caixa Tem. Uma nova tela do sistema solicita o CPF e o campo ‘captcha’ para avaliação.
+O caso de uso começa quando o ator informa que deseja acessar o sistema com o CPF pré cadastrado no Caixa Tem. Uma nova tela do sistema solicita o CPF e o campo ‘captcha’ para avaliação.
+O ator informa a senha ao sistema.
+O ator acessa o programa e escolhe a opção que deseja no aplicativo
 
-##### 3.1.2 O ator informa a senha ao sistema.
-##### 3.1.3 O ator acessa o programa e escolhe a opção que deseja no aplicativo
-
-#### 4 Fluxos alternativos 
-##### 4.1-Extrato
+####  Fluxos alternativos 
+##### 3.2.1-Extrato
 O ator é apresentado ao extrato bancário de sua conta no aplicativo do Caixa Tem, onde poderá visualizar 
 movimentações que foram realizadas.
 
-##### 4.2-Pagar na maquininha
+##### 3.2.2-Pagar na maquininha
 Na tela do celular do ator aparecerá para escanear um QR code informado pela maquina de cartão, assim feito, a compra será feita utilizando o saldo na sua conta bancária.
 
-##### 4.3-Cartão de Débito Virtual
+##### 3.2.3-Cartão de Débito Virtual
 Na tela aparecerá uma espécie de cartão, informando o código do cartão, junto com sua validade,senha,CVC. Para que assim possa realizar compras preferencialmente online, sem precisar de sacar ou transferir o dinheiro.
 
-##### 4.4-Saque sem cartão
+##### 3.2.4-Saque sem cartão
 Na tela o autor será apresentado a apertar um botão “Gerar código para saque”, depois de clicar, o sistema pede a confirmação da operação e logo após a senha do aplicativo para gerar o código. Logo o código será apresentado na tela , onde com ele, o ator se dirige ao caixa eletrônico de preferência e poderá sacar o dinheiro sem a necessidade de um cartão físico.
 
-##### 4.5-Transferir dinheiro
+##### 3.2.5-Transferir dinheiro
 Na tela o autor será apresentado as opções:
 1-”Digitar agência e conta”
 2-”Ler QR code”
@@ -48,7 +47,7 @@ O sistema aparecerá uma página para escanear o QR code fornecido pelo banco qu
 1.3 - Transferir para favorito
 O ator  transfere o dinheiro para uma conta que já havia sido pré-cadastrada pelo ator anteriormente . Realizando os mesmos processos de confirmação e finalização anteriores
 
-##### 4.6-Realizar pagamentos
+##### 3.2.6-Realizar pagamentos
 O ator realiza pagamentos de boleto selecionando uma das opções:
 1- Com código de barras
 2- Sem código de barras
@@ -57,10 +56,22 @@ O ator escaneia o código de barras do boleto para pagamento. Logo ele é aprese
 1.2 - Sem código de barras
 O ator fornece os números do boleto para pagamento.Logo ele é apresentado as informações de pagamento para confirmação utilizando sua senha do Caixa Tem.
 
-##### 4.7-Pix
+##### 3.2.7-Pix
 
 O ator realiza a transferência por meio do pix informando a chave necessária para realizar tal operação. Logo após realizar, o ator informa o valor desejado e confirma a operação e os dados necessários utilizando a senha do Caixa Tem.
 
+### 4 Requisitos Especiais
+Não se aplica
+
+### 5 Pré-condições
+O ator deve estar logado no sistema. Nenhum outro usuário com o mesmo CPF
+deve ter sido cadastrado.
+
+### 6 Pós-condições
+O usuário foi conectado e saiu do sistema ou realizou uma ou mais tarefas disponibilizadas pelo aplicativo.
+
+### 7 Pontos de Extensão
+Não se aplica.
 
 
 ## Bibliografia <a id="Bibliografia"></a>
