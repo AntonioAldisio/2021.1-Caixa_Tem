@@ -82,6 +82,8 @@ Não se aplica.
 
 
 ## Bibliografia <a id="Bibliografia"></a>
+<p style="text-indent: 20px; align = "justify"> [1] Pimentel, Andrey Ricardo; . Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objeto. Disponível em <https://www.inf.ufpr.br/andrey/ci163/apostilaUml.pdf/> Acessado em 29/08/21 </p>
+
 
 
 ## Versionamento
