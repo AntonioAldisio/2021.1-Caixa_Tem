@@ -81,7 +81,7 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 |<center> Verbo </center> 	 |<center>   Transacão envolvendo dinheiro de uma conta para outra. </center> | <center> O usuário deve poder realizar uma tranferência quando desejar. </center>| <center> - </center> |
 
 # Bibliografia 
-REQUISITOS DE SOFTWARE. Módulo IV - Modelagem. Disponível em: https://requisitos-2017-2-nubank.github.io/Nubank/siki/modelagem.html. Acesso em: 19 de março de 2021.
+REQUISITOS DE SOFTWARE. Módulo IV - Modelagem. Disponível em: https://requisitos-2017-2-nubank.github.io/Nubank/siki/modelagem.html. Acesso em: 29 de Agosto de 2021.
 
 ## Versionamento
 <center>
