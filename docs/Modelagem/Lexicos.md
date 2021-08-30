@@ -9,7 +9,8 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 |--|--|--|--|
 | Objeto/Estado/Verbo	 | Denotação | Conotação | Opcional |
 
-# Léxicos 
+# Léxicos
+
 ## Léxico 01 - Conta
 
 | <center>Classificação</center> | <center>Noção</center> | <center>Impacto</center> | <center>Sinônimos</center> |
@@ -78,6 +79,9 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 | <center>Classificação</center> | <center>Noção</center> | <center>Impacto</center> | <center>Sinônimos</center> |
 |--|--|--|--|
 |<center> Verbo </center> 	 |<center>   Transacão envolvendo dinheiro de uma conta para outra. </center> | <center> O usuário deve poder realizar uma tranferência quando desejar. </center>| <center> - </center> |
+
+# Bibliografia 
+REQUISITOS DE SOFTWARE. Módulo IV - Modelagem. Disponível em: https://requisitos-2017-2-nubank.github.io/Nubank/siki/modelagem.html. Acesso em: 19 de março de 2021.
 
 ## Versionamento
 <center>
