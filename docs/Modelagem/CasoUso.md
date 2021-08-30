@@ -1,4 +1,68 @@
 
+## Introdução.
+O diagrama de casos de uso é uma representação visual estabelecida dentro dos protocolos UML(Unified Modeling Language) que ilustra as funções esperadas do sistema e seus atores.
+
+## Atores.
+Os atores são entidades que interagem com o sistema, mas não fazem parte do sistema.
+Para o Aplicativo CaixaTem, há apenas um Ator, o usuario do aplicativo, mesmo que existam opções de transferência entre aplicativos, opções de saque e depositos, somente o usuario logado no aplicativo fornece as informações necessárias para realizar as funções, e somente o usuario logado no sistema recebe informações requisitadas ao aplicativo.
+
+## Casos de Uso.
+Verificamos a existencia de apenas um caso de uso, com diversos fluxos alternativos.
+
+### 1 Nome do Caso de Uso :Acesso ao aplicativo
+
+### 2 Breve descrição:Acesso do usuário no aplicativo, informando todos os dados
+
+### 3 Fluxo de eventos
+
+#### 3.1 Fluxo básico
+
+##### 3.1.1 O caso de uso começa quando o ator informa que deseja acessar o sistema com o CPF pré cadastrado no Caixa Tem. Uma nova tela do sistema solicita o CPF e o campo ‘captcha’ para avaliação.
+
+##### 3.1.2 O ator informa a senha ao sistema.
+##### 3.1.3 O ator acessa o programa e escolhe a opção que deseja no aplicativo
+
+#### 4 Fluxos alternativos 
+##### 4.1-Extrato
+O ator é apresentado ao extrato bancário de sua conta no aplicativo do Caixa Tem, onde poderá visualizar 
+movimentações que foram realizadas.
+
+##### 4.2-Pagar na maquininha
+Na tela do celular do ator aparecerá para escanear um QR code informado pela maquina de cartão, assim feito, a compra será feita utilizando o saldo na sua conta bancária.
+
+##### 4.3-Cartão de Débito Virtual
+Na tela aparecerá uma espécie de cartão, informando o código do cartão, junto com sua validade,senha,CVC. Para que assim possa realizar compras preferencialmente online, sem precisar de sacar ou transferir o dinheiro.
+
+##### 4.4-Saque sem cartão
+Na tela o autor será apresentado a apertar um botão “Gerar código para saque”, depois de clicar, o sistema pede a confirmação da operação e logo após a senha do aplicativo para gerar o código. Logo o código será apresentado na tela , onde com ele, o ator se dirige ao caixa eletrônico de preferência e poderá sacar o dinheiro sem a necessidade de um cartão físico.
+
+##### 4.5-Transferir dinheiro
+Na tela o autor será apresentado as opções:
+1-”Digitar agência e conta”
+2-”Ler QR code”
+3-”Transferir para favorito”
+1.1 - Digitar agência e conta
+O sistema solicitará ao ator o número da agência e conta da pessoa que ele quer transferir o dinheiro.Após informar os dígitos, o sistema pergunta qual o tipo de conta o ator quer transferir o dinheiro. Seleciona o valor para transferência desejado e confirma a operação.Ao final aparecerá uma pagina confirmando os dados e informando a operação.
+1.2 - Ler QR code
+O sistema aparecerá uma página para escanear o QR code fornecido pelo banco que deseja transferir a conta. Logo solicitará a confirmação e finalização da operação.
+1.3 - Transferir para favorito
+O ator  transfere o dinheiro para uma conta que já havia sido pré-cadastrada pelo ator anteriormente . Realizando os mesmos processos de confirmação e finalização anteriores
+
+##### 4.6-Realizar pagamentos
+O ator realiza pagamentos de boleto selecionando uma das opções:
+1- Com código de barras
+2- Sem código de barras
+1.1 - Com código de barras
+O ator escaneia o código de barras do boleto para pagamento. Logo ele é apresentado as informações de pagamento para confirmação utilizando sua senha do Caixa Tem.
+1.2 - Sem código de barras
+O ator fornece os números do boleto para pagamento.Logo ele é apresentado as informações de pagamento para confirmação utilizando sua senha do Caixa Tem.
+
+##### 4.7-Pix
+
+O ator realiza a transferência por meio do pix informando a chave necessária para realizar tal operação. Logo após realizar, o ator informa o valor desejado e confirma a operação e os dados necessários utilizando a senha do Caixa Tem.
+
+
+
 ## Bibliografia <a id="Bibliografia"></a>
 
 
@@ -8,5 +72,5 @@
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação da página | Fernando Calil |
-
+| 2.0 | 29/08/2021 | Descrição dos casos de uso | Ariel Serafim |
 </center>
