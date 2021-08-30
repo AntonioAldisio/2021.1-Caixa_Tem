@@ -6,14 +6,21 @@ O diagrama de casos de uso é uma representação visual estabelecida dentro dos
 Os atores são entidades que interagem com o sistema, mas não fazem parte do sistema.
 Para o Aplicativo CaixaTem, há apenas um Ator, o usuario do aplicativo, mesmo que existam opções de transferência entre aplicativos, opções de saque e depositos, somente o usuario logado no aplicativo fornece as informações necessárias para realizar as funções, e somente o usuario logado no sistema recebe informações requisitadas ao aplicativo.
 
-## Casos de Uso.
+## Diagrama de Caso de Uso.
+<img width="800px" src="../../assets/imgs/CasosdeUso.png" alt="Organização da Entrevista">
+<figcaption>Figura 01 - Organização da entrevista no estilo diamante </figcaption>
+
+## Descrição dos Casos de Uso.
 Verificamos a existencia de apenas um caso de uso, com diversos fluxos alternativos.
 
-### 1 Nome do Caso de Uso :Acesso ao aplicativo
+### 1 Nome do Caso de Uso :
+Acesso ao aplicativo com uso de função.
 
-### 2 Breve descrição:Acesso do usuário no aplicativo, informando todos os dados
+### 2 Breve descrição:
+Acesso do usuário no aplicativo, informe de todos os dados e porteriormente uso de uma ou mais funcionalidades.
 
 ### 3 Fluxo de eventos
+Como citado anteriormente, há um fluxo básico com alguns fluxos alternativos.
 
 #### 3.1 Fluxo básico
 
@@ -84,4 +91,5 @@ Não se aplica.
 |--|--|--|--|
 | 1.0 | 01/08/2021 | Criação da página | Fernando Calil |
 | 2.0 | 29/08/2021 | Descrição dos casos de uso | Ariel Serafim |
+| 2.1 | 30/08/2021 | Diagrama de Caso de uso | Ariel Serafim |
 </center>
