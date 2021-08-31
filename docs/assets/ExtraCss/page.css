@@ -32,7 +32,7 @@ h3 {
 
 thead {
   background-color: rgb(96,92,100) !important;
-  color:rgb(233, 233, 233);
+  color:rgb(233, 233, 233) !important;
 }
 
 .persona {
