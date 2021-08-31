@@ -9,7 +9,7 @@
 
 <center>
 
-### Cadastro <a id="#cadastro"></a>
+### C01: Cadastro <a id="#cadastro"></a>
 | **Título**| Cadastro |
 |--|--|
 | **Objetivo**| <ul><li>Criar conta de usuário.</li></ul> |
@@ -20,7 +20,7 @@
 | **Restrição**| <ul><li>Usuário deve ter documentação válida.</li></ul> |
 | <br><br>**Exceção**| <ul><li>Usuário perde acesso a Internet.</li><li>Smartphone está sem bateria.</li><li>Usuário não informa os dados corretos.</li><li>Usuário não marca campo captcha.</li></ul> |
 
-### Login<a id="login"></a>
+### C02: Login<a id="login"></a>
 | **Título**| Login |
 |--|--|
 | **Objetivo**| <ul><li>Autenticar o usuário no sistema.</li></ul> |
@@ -32,7 +32,7 @@
 | <br>**Exceção**| <ul><li>Usuário perde acesso a Internet.</li><li>Smartphone está sem bateria.</li><li>Usuário não informa os dados corretos.</li></ul> |
 
 
-### Extrato<a id="extrato"></a>
+### C03: Extrato<a id="extrato"></a>
 | **Título**| Extrato |
 |--|--|
 | **Objetivo**| <ul><li>Verificar as transações realizadas na conta.</li></ul> |
@@ -44,7 +44,7 @@
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
 
-### Calendário do auxílio emergencial<a id="calendario"></a>
+### C04: Calendário do auxílio emergencial<a id="calendario"></a>
 | **Título**| Calendário do auxílio emergencial |
 |--|--|
 | **Objetivo**| <ul><li>Consultar calendário de liberação do auxílio emergencial.</li></ul> |
@@ -55,7 +55,7 @@
 | **Restrição**| <ul><li>Usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>Usuário deve estar <a href="login">logado</a>.</li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-### Informe de Rendimentos<a id="rendimento"></a>
+### C05: Informe de Rendimentos<a id="rendimento"></a>
 | **Título**| Informe de Rendimentos |
 |--|--|
 | **Objetivo**| <ul><li>Consultar os rendimentos da conta pra declaração de imposto.</li></ul> |
@@ -67,7 +67,7 @@
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
 
-### Consultar Programas Sociais<a id="sociais"></a>
+### C06: Consultar Programas Sociais<a id="sociais"></a>
 | **Título**| Consultar Programas Sociais |
 |--|--|
 | **Objetivo**| <ul><li>Consultar situação do programa social desejado.</li></ul> |
@@ -78,7 +78,7 @@
 | **Restrição**| <ul><li>Usuário deve estar <a href="login">logado</a>.</li><li>Usuário deve ser elegível para o benefício social.</li></ul> |
 | <br>**Exceção**| <ul><li>Usuário não possui NIS.</li><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-## Consultar Comprovantes<a id="comprovantes"></a>
+### C07: Consultar Comprovantes<a id="comprovantes"></a>
 | **Título**| Consultar Comprovantes |
 |--|--|
 | **Objetivo**| <ul><li>Verificar comprovação de transações realizadas pela conta.</li></ul> |
@@ -89,7 +89,7 @@
 | **Restrição**| <ul><li>Usuário deve estar <a href="login">logado</a>.</li><li>Usuário deve possuir uma transação executada previamente.</li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-## Recarga de Celular<a id="celular"></a>
+### C08: Recarga de Celular<a id="celular"></a>
 | **Título**| Recarga de celular |
 |--|--|
 | **Objetivo**| <ul><li>Adicionar créditos à uma linha telefônica.</li></ul> |
@@ -114,7 +114,7 @@
 -->
 
 
-### Consultar Saldo <a href="#saldo"></a>
+### C09: Consultar Saldo <a href="#saldo"></a>
 | **Título**| Consultar <a href="#saldo">saldo</a> |
 |--|--|
 | **Objetivo**| <ul><li>Consultar saldo da conta</li></ul> |
@@ -125,7 +125,7 @@
 | **Restrição**| <ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-### Realizar transferências<a id="transferencia"></a>
+### C10: Realizar transferências<a id="transferencia"></a>
 | **Título**| Realizar transferências |
 |--|--|
 | **Objetivo**| <ul><li>Transferir dinheiro para outra conta.</li></ul> |
@@ -136,7 +136,7 @@
 | **Restrição**| <ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir <a href="#saldo">dinheiro na conta</a></li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li><li>Não inserir os dados corretos da outra conta.</li></ul> |
 
-### Fazer recarga de transporte<a id="transporte"></a>
+### C11: Fazer recarga de transporte<a id="transporte"></a>
 | **Título**| Fazer recarga de transporte |
 |--|--|
 | **Objetivo**| <ul><li>Realizar recarga de transporte.</li></ul> |
@@ -147,7 +147,7 @@
 | **Restrição**| <ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir <a href="#saldo">dinheiro na conta</a>.</li><li>O usuário deve possuir um cartão de transporte.</li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-### Contratar Seguro Apoio Família <a id="apoio"></a>
+### C12: Contratar Seguro Apoio Família <a id="apoio"></a>
 | **Título**| Contratar Seguro Apoio Família |
 |--|--|
 | **Objetivo**| <ul><li>Contratar seguro apoio família pelo Caixa Tem.</li></ul> |
@@ -158,7 +158,7 @@
 | **Restrição**| <ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir <a href="#saldo">dinheiro suficiente</a> para contratar o seguro.</li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone sem bateria.</li></ul> |
 
-### Gerar código para pagar contas na lotérica<a id="loterica"></a>
+### C13: Gerar código para pagar contas na lotérica<a id="loterica"></a>
 | **Título**| Gerar código para pagar contas na lotérica |
 |--|--|
 | **Objetivo**| <ul><li>Gerar um código para o usuário pagar contas na lotérica sem cartão.</li></ul> |
@@ -169,7 +169,7 @@
 | **Restrição**| <ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone sem bateria.</li></ul> |
 
-### Utilizar cartão de débito virtual<a id="cartao"></a>
+### C14: Utilizar cartão de débito virtual<a id="cartao"></a>
 | **Título**| Utilizar cartão de débito virtual |
 |--|--|
 | **Objetivo**| <ul><li>Gerar um código de segurança para o usuário realizar compras na internet com o cartão de débito virtual.</li></ul> |
@@ -180,7 +180,7 @@
 | **Restrição**| <ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-### Gerar código para saque sem cartão<a id="saque"></a>
+### C15: Gerar código para saque sem cartão<a id="saque"></a>
 | **Título**| Gerar código para saque sem cartão |
 |--|--|
 | **Objetivo**| <ul><li>Sacar dinheiro no caixa eletrônico com o código gerado.</li></ul> |
@@ -191,7 +191,7 @@
 | **Restrição**| <ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
-### Realizar pagamentos com boleto<a id="boleto"></a>
+### C16: Realizar pagamentos com boleto<a id="boleto"></a>
 | **Título**| Realizar pagamentos com boleto |
 |--|--|
 | **Objetivo**| <ul><li>Pagar uma conta pelo Caixa Tem.</li></ul> |
@@ -202,7 +202,7 @@
 | **Restrição**| <ul><li>O usuário deve possuir <a href="#cadastro">cadastro.</a></li><li>O usuário deve possuir o código de barras da conta.</li></ul> |
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li><li>Inserir o código de barras de forma incorreta.</li></ul> |
 
-### Realizar pagamentos com PIX<a id="pix"></a>
+### C17: Realizar pagamentos com PIX<a id="pix"></a>
 | **Título**| Realizar pagamentos com PIX |
 |--|--|
 | **Objetivo**| <ul><li>Pagar uma conta pelo Caixa Tem.</li></ul> |
@@ -214,6 +214,7 @@
 | **Exceção**| <ul><li>Não ter acesso à internet.</li><li>Smartphone descarregado.</li></ul> |
 
 </center>
+
 ## 3. Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] FELICÍSSIMO, C. H.; LEITE, J. C. S. P.; BREITMAN, K. K; SILVA, L. F. C&L: <strong> Um
 Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de Janeiro. Disponível
@@ -229,6 +230,7 @@ Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de
 | 1.2 | 27/08/2021 | Adição dos primeiros Cenários | Fernando Calil |
 | 1.3 | 28/08/2021 | Adição de Cenários | Lucas Gomes |
 | <br>1.4 | <br>28/08/2021 | Adição de mais Cenários<br>Revisão de layout<br>Adição de links correspondentes |<br> Fernando Calil |
+| 1.5 | 31/08/2021 | Melhorias no layout | Lucas Gomes |
 
 
 
