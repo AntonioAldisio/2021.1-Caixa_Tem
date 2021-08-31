@@ -20,9 +20,12 @@ nav:
     - Ata 01: 'Atas/Ata01.md'
     - Ata 02: 'Atas/Ata02.md'
     - Ata 03: 'Atas/Ata03.md'
+    - Ata 03.1: 'Atas/Ata03.1.md'
+    - Ata 04: 'Atas/Ata04.md'
   - Apresentaçōes:
     - Apresentação 1: 'Apresentacao/apresentacao1.md'
     - Apresentação 2: 'Apresentacao/apresentacao2.md'
+    - Apresentação 3: 'Apresentacao/apresentacao3.md'
   - Pré-rastreabilidade:
     - Rich pictures: 'PreRastreabilidade/rich_pictures.md'
   - Elicitação:

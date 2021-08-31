@@ -24,7 +24,7 @@ Apresentações feitas no Google Slides.
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0  | 03/08/2021 | Criação do slide | Todos |
+| 1.0  | 03/08/2021 | Criação dos slides | Todos |
 | 1.01 | 03/08/2021 | Gravação do video | Todos |
 | 1.02 | 03/08/2021 | Edição do video | Fernando Calil |
 
