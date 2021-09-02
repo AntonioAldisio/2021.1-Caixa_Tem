@@ -44,9 +44,9 @@ Na tela o autor será apresentado a apertar um botão “Gerar código para saqu
 
 ##### 3.2.5-Transferir dinheiro
 Na tela o autor será apresentado as opções:
-* Digitar agência e conta.
-* Ler QR code.
-* Transferir para favorito.
+* Digitar agência e conta.\\
+* Ler QR code.\\
+* Transferir para favorito.\\
 
 Descritas a seguir:
 
@@ -61,11 +61,12 @@ O ator  transfere o dinheiro para uma conta que já havia sido pré-cadastrada p
 
 ##### 3.2.6-Realizar pagamentos
 O ator realiza pagamentos de boleto selecionando uma das opções:
-1- Com código de barras
-2- Sem código de barras
-1.1 - Com código de barras
+* Com código de barras.\\
+* Sem código de barras.\\
+###### 3.2.6.1 - Com código de barras
 O ator escaneia o código de barras do boleto para pagamento. Logo ele é apresentado as informações de pagamento para confirmação utilizando sua senha do Caixa Tem.
-1.2 - Sem código de barras
+
+###### 3.2.6.2 - Sem código de barras
 O ator fornece os números do boleto para pagamento.Logo ele é apresentado as informações de pagamento para confirmação utilizando sua senha do Caixa Tem.
 
 ##### 3.2.7-Pix
