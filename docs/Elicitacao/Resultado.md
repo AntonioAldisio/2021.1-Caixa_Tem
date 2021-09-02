@@ -100,5 +100,6 @@ Legenda
 | 1.0 | 13/08/2021 | Criação do página | Antônio Aldisio |
 | 1.1 | 20/08/2021 | União do resultados das técnicas de elicitação e priorização | Antônio Aldisio<br>Fernando Calil |
 | 1.2 | 01/09/2021 | Adicionada rastreabilidade para técnicas que originaram os requisitos | Fernando Calil |
+| 1.2.1 | 02/09/2021 | Melhoria na legenda de rastreabilidade | Fernando Calil |
 
 </center>
