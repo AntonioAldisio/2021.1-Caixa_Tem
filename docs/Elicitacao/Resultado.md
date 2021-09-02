@@ -5,6 +5,12 @@
 O objetivo desse documento é reunir todos os requistos que foram elicitados para o projeto a partir das técnicas:
 </p>
 
+
+<Figure>
+    <img class="legenda" src="../../assets/Images/legenda.png" alt="Legenda dos Requisitos">
+    <figcaption>Figura 01 - Legenda da rastreabilidade. </figcaption>
+</Figure>
+<!--
 Legenda  
 
 1. IF - Introspecção Funcional
@@ -14,7 +20,7 @@ Legenda
 5. EF - Entrevistas Funcional
 6. QF - Questionário Funcional
 7. AF - Analise de Documentos Funcional
-
+-->
 
 <p style="text-indent: 40px; align="justify"> Após discussão com o grupo, decidimos utilizar a técnica de priorização MoSCoW, pois a técnica é mais apropriada para o contexto do aplicativo.<a href="../Priorizacao/moscow/">[1]</a></p> 
 
