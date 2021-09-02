@@ -46,4 +46,8 @@ nav:
     - Léxicos: 'Modelagem/Lexicos.md'
     - Casos de Uso: 'Modelagem/CasoUso.md'
     - Especificação Suplementar: 'Modelagem/Especificacao.md'
+    - Ágil:
+      - Backlog do Produto: 'Modelagem/Agil/backlog.md'
+      - História dos Usuários: 
+        - US01 : Modelagem/Agil/Historia/US01.md'
 
