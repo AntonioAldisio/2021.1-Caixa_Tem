@@ -2,12 +2,12 @@
 
 ## 1. Introdução
 <p style="text-indent: 40px; align = "justify"> 
-A Especificação Suplementar é um documento que contém a descrição de todos os requisitos não funcionais de um sistema.
+A Especificação Suplementar é um documento que contém a descrição de todos os requisitos não funcionais de um sistema. <a href="#Bibliografia">[1]</a><a href="#Bibliografia">[2]</a>
 </p>
 
 ## 1.1 Finalidade
 <p style="text-indent: 40px; align = "justify"> 
-A finalidade é tentar especificar requisitos não funcionaisdo Caixa Tem, descrevendo seu comportamento a partir  do modelo de casos de usos.
+A finalidade é tentar especificar requisitos não funcionaisdo Caixa Tem, descrevendo seu comportamento a partir  do modelo de casos de usos.<a href="#Bibliografia">[1]</a><a href="#Bibliografia">[2]</a>
 </p>
 
 ## 2. Escopo
@@ -74,6 +74,8 @@ Segundo informaçãoes consultadas na Apple store e Google play o aplicatibo est
 
 ## Bibliografia <a id="Bibliografia"></a>
 
+[1] - SERRANO, Maurício; SERRANO, Milene. **Requisitos - Aula 13**. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.  
+[2] - KADER, Saleh; **Especificação Suplementar**; Disponível em https://requisitos-habitica.netlify.com/EspecificacaoSuplementar
 
 ## Versionamento
 <center>

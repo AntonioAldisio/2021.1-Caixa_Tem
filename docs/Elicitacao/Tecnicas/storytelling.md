@@ -221,7 +221,7 @@
 <p style="text-indent: 40px; align = "justify">Com o surto de COVID-19 <a href="#MariaClara">Maria Clara</a> se viu como muitos estudantes, com as aulas suspensas, como <a href="#MariaClara">Maria Clara</a> mora com os pais e seus pais tem boa situação financeira, <a href="#MariaClara">Maria Clara</a> não teve problemas financeiros. <a href="#MariaClara">Maria Clara</a> assim como os amigos de curso viu sua formatura, que estava marcada para o próximo ano, se afastar ainda mais, além de não poder se reunir com os amigos.</p>
 
 
-## 4. Requisitos Funcionais
+## 4. Requisitos Funcionais <a id="StorytellingFuncional"></a>
 
 | ID | Requisito | 
 |--|--|
@@ -237,7 +237,8 @@
 | SF 10 | O usuário poderá checar os benefícios que está recebendo. | 
 | SF 11 | O usuário terá opção de contratar seguro apoio família. | 
 
-## 5. Requisitos Não - Funcionais
+## 5. Requisitos Não - Funcionais <a id="StorytellingNFuncional"></a>
+
 | ID | Requisito | 
 |--|--|
 | SNF 01 | O usuário não pode ficar mais de 15minutos em fila para acessar o aplicativo. |

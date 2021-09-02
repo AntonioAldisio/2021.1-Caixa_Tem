@@ -68,7 +68,7 @@
 
 | Versão | Data | Modificação | Autor |
 |:--:|:--:|:--:|:--:|
-| 1.0  | 31/09/2021 | Criação de página | Fernando Calil |
-| 1.2  | 31/09/2021 | Elaboração da ata | Fernando Calil |
+| 1.0  | 31/08/2021 | Criação de página | Fernando Calil |
+| 1.2  | 31/08/2021 | Elaboração da ata | Fernando Calil |
 
 </center>

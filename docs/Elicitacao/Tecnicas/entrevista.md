@@ -18,33 +18,34 @@ O objetivo é iniciar contextualizando o entrevistado e então buscar informaç�
 Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 </p>
 
-## 4. Requisitos Funcionais
+## 4. Requisitos Funcionais <a id="EntrevistaFuncional"></a>
 
 <center>
 
 | ID | Requisito | 
 |:--:|:--:|
-| RF 1 |Selecionar funções favoritas|
-| RF 02 |O usuario pode verificar situação de auxilios |
-| RF 03 |O usuario pode sacar auxilios | 
-| RF 04 |O usuario pode transferir dinheiro|
-| RF 05 |O usuario pode consultar saldo|
-| RF 06 |O usuario pode pagar contas e boletos|
-| RF 07 |O usuario pode fazer comprar usando maquinas de transfência (maquininha)|
-| RF 08 |O usuario pode utilizar um cartão de debito virtual|
+| EF 01 |Selecionar funções favoritas|
+| EF 02 |O usuario pode verificar situação de auxilios |
+| EF 03 |O usuario pode sacar auxilios | 
+| EF 04 |O usuario pode transferir dinheiro|
+| EF 05 |O usuario pode consultar saldo|
+| EF 06 |O usuario pode pagar contas e boletos|
+| EF 07 |O usuario pode fazer comprar usando maquinas de transfência (maquininha)|
+| EF 08 |O usuario pode utilizar um cartão de debito virtual|
 
 </center>
 
-## 5. Requisitos Não - Funcionais
+## 5. Requisitos Não - Funcionais <a id="EntrevistaNFuncional"></a>
+
+
 
 <center>
 
 | ID | Requisito | 
 |:--:|:--:|
-| NF 01|Menor tempo de espera para entrar em aplicativo durante periodos de grande fluxo|
-| NF 02|Ter acessibilidade com comandos por voz|
-| NF 03|Ter a opção de guia para primeiro acesso|
-| NF 04|Possuir interface intuitiva|
+| ENF 01 |Menor tempo de espera para entrar em aplicativo durante periodos de grande fluxo|
+| ENF 02 |Ter acessibilidade com comandos por voz|
+| ENF 03 |Ter a opção de guia para primeiro acesso|
 
 </center>
 

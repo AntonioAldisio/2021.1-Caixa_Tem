@@ -13,7 +13,8 @@
 ## 3. Conclusão
 <p style="text-indent: 40px; align="justify"> Em termos de requisitos, pode-se perceber que o Caixa Tem é um aplicativo que satisfaz no quesito de funcionalidade, mas em quesitos como utilidade, rastreabilidade, navegabilidade não são tão bem vistas na perpectiva do usuário. Visto que o objetivo do aplicativo era se tornar um aplicativo perfeitamente funcional e mais prático no uso cotidiano dos brasileiros em geral que utilizam o serviço.<a href="#Bibliografia">[2]</a></p>
 -->
-## 3. Requisitos Funcionais
+## 3. Requisitos Funcionais <a id="ObservaçãoFuncional"></a>
+
 
 <center>
 
@@ -23,23 +24,22 @@
 | OF 02 | O usuário deve ser capaz de realizar login | 
 | OF 03 | O usuário pode consultar saldo |
 | OF 04 | O usuário pode consultar o extrato |
-| OF 05 | O usuário pode realizar transferência |                                              
-| OF 06 | Logar no aplicativo |
-| OF 07 | Verificar situação de auxilios |
-| OF 08 | Sacar auxilios | 
-| OF 09 | Realizar transferências ou pagamentos de boletos |
+| OF 05 | O usuário pode realizar transferência |  
+| OF 06 | Verificar situação de auxilios |
+| OF 07 | Sacar auxilios | 
+| OF 08 | Realizar transferências |
+| OF 09 | Realizar pagamentos de boletos |
 
 </center>
 
 
-## 4. Requisitos Não - Funcionais
+## 4. Requisitos Não - Funcionais <a id="ObservaçãoNFuncional"></a>
 
 <center>
 
 | ID | Requisito | 
 |:--:|:--:|
-| ONF 01 | Agrupar funcionalidades especificas em aplicativos dedicados |
-| ONF 02 | Direcionar melhor o usúario nas funcionalidades do aplicativo que possam estar "escondidas" |
+| ONF 01 | Direcionar melhor o usúario nas funcionalidades do aplicativo que possam estar "escondidas" |
 
 </center>
 
