@@ -97,7 +97,7 @@ Não se aplica.
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 01/08/2021 | Criação da página | Fernando Calil |
+| 1.0 | 26/08/2021 | Criação da página | Fernando Calil |
 | 2.0 | 29/08/2021 | Descrição dos casos de uso | Ariel Serafim |
 | 2.1 | 30/08/2021 | Diagrama de Caso de uso | Ariel Serafim |
 | 2.2 | 30/08/2021 | Revisão da descrição dos casos de uso | Ariel Serafim |

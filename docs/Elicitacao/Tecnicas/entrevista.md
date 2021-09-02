@@ -32,6 +32,7 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 | RF 06 |O usuario pode pagar contas e boletos|
 | RF 07 |O usuario pode fazer comprar usando maquinas de transfência (maquininha)|
 | RF 08 |O usuario pode utilizar um cartão de debito virtual|
+
 </center>
 
 ## 5. Requisitos Não - Funcionais
@@ -59,4 +60,5 @@ Engenharia de Requisitos,Carlos Eduardo Vazquez, Guilherme Siqueira Simões.
 | 2.1 | 21/08/2021 | Correção de tabela | Antônio Aldisio |
 | 2.2 | 24/08/2021 | Inserção da Bibliografia, imagem e mais requisitos| Ariel Serafim |
 | 3.0 | 29/08/2021 | Revisão geral, imagens melhores e mais requisitos| Ariel Serafim |
+
 </center>

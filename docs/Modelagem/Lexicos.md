@@ -95,7 +95,7 @@
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 01/08/2021 | Criação da página | Fernando Calil |
+| 1.0 | 26/08/2021 | Criação da página | Fernando Calil |
 | 2.0 | 29/08/2021 | Adicionar Léxicos | Ugor Costa |
 | 3.0 | 31/08/2021 | Arrumar formatação da página | Lucas Gomes |
 

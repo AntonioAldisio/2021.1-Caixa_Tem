@@ -80,7 +80,7 @@ Segundo informaçãoes consultadas na Apple store e Google play o aplicatibo est
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 01/08/2021 | Criação da página | Fernando Calil |
+| 1.0 | 26/08/2021 | Criação da página | Fernando Calil |
 | 1.1 | 27/08/2021 | Adição de conteúdo | Antônio Aldisio |
 
 </center>

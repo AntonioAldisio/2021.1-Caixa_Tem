@@ -225,7 +225,7 @@ Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 01/08/2021 | Criação da página | Fernando Calil |
+| 1.0 | 26/08/2021 | Criação da página | Fernando Calil |
 | 1.1 | 27/08/2021 | Adição da introdução | Lucas Gomes |
 | 1.2 | 27/08/2021 | Adição dos primeiros Cenários | Fernando Calil |
 | 1.3 | 28/08/2021 | Adição de Cenários | Lucas Gomes |
