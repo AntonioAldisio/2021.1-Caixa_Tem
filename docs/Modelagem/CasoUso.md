@@ -28,7 +28,7 @@ O caso de uso começa quando o ator informa que deseja acessar o sistema com o C
 O ator informa a senha ao sistema.
 O ator acessa o programa e escolhe a opção que deseja no aplicativo
 
-####  Fluxos alternativos 
+#### 3.2 Fluxos alternativos 
 ##### 3.2.1-Extrato
 O ator é apresentado ao extrato bancário de sua conta no aplicativo do Caixa Tem, onde poderá visualizar 
 movimentações que foram realizadas.
@@ -44,14 +44,19 @@ Na tela o autor será apresentado a apertar um botão “Gerar código para saqu
 
 ##### 3.2.5-Transferir dinheiro
 Na tela o autor será apresentado as opções:
-1-”Digitar agência e conta”
-2-”Ler QR code”
-3-”Transferir para favorito”
-1.1 - Digitar agência e conta
+* Digitar agência e conta.
+* Ler QR code.
+* Transferir para favorito.
+
+Descritas a seguir:
+
+###### Digitar agência e conta
 O sistema solicitará ao ator o número da agência e conta da pessoa que ele quer transferir o dinheiro.Após informar os dígitos, o sistema pergunta qual o tipo de conta o ator quer transferir o dinheiro. Seleciona o valor para transferência desejado e confirma a operação.Ao final aparecerá uma pagina confirmando os dados e informando a operação.
-1.2 - Ler QR code
+
+###### Ler QR code
 O sistema aparecerá uma página para escanear o QR code fornecido pelo banco que deseja transferir a conta. Logo solicitará a confirmação e finalização da operação.
-1.3 - Transferir para favorito
+
+###### Transferir para favorito
 O ator  transfere o dinheiro para uma conta que já havia sido pré-cadastrada pelo ator anteriormente . Realizando os mesmos processos de confirmação e finalização anteriores
 
 ##### 3.2.6-Realizar pagamentos
@@ -82,7 +87,7 @@ Não se aplica.
 
 
 ## Bibliografia <a id="Bibliografia"></a>
-<p style="text-indent: 20px; align = "justify"> [1] Pimentel, Andrey Ricardo; . Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objeto. Disponível em <https://www.inf.ufpr.br/andrey/ci163/apostilaUml.pdf/> Acessado em 29/08/21 </p>
+[1] Pimentel, Andrey Ricardo; . Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objeto. Disponível em https://www.inf.ufpr.br/andrey/ci163/apostilaUml.pdf Acessado em 29/08/21 
 
 
 
@@ -94,4 +99,5 @@ Não se aplica.
 | 1.0 | 01/08/2021 | Criação da página | Fernando Calil |
 | 2.0 | 29/08/2021 | Descrição dos casos de uso | Ariel Serafim |
 | 2.1 | 30/08/2021 | Diagrama de Caso de uso | Ariel Serafim |
+| 2.2 | 30/08/2021 | Revisão da descrição dos casos de uso | Ariel Serafim |
 </center>
