@@ -7,13 +7,13 @@ O objetivo desse documento é reunir todos os requistos que foram elicitados par
 
 Legenda  
 
-1. Inspecção
-2. Brainstorming
-3. Storytelling
-4. Observação
-5. Entrevistas
-6. Questionário
-7. Analise de Documentos
+1. IF - Introspecção Funcional
+2. BF - Brainstorming Funcional
+3. SF - Storytelling Funcional
+4. OF - Observação Funcional
+5. EF - Entrevistas Funcional
+6. QF - Questionário Funcional
+7. AF - Analise de Documentos Funcional
 
 
 <p style="text-indent: 40px; align="justify"> Após discussão com o grupo, decidimos utilizar a técnica de priorização MoSCoW, pois a técnica é mais apropriada para o contexto do aplicativo.<a href="../Priorizacao/moscow/">[1]</a></p> 
