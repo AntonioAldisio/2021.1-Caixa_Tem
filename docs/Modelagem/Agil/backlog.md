@@ -1,6 +1,11 @@
 # Backlog 
 
 ## 1. Introdução
+  O Backlog é uma coleção de funcionalidades desejáveis para o produto, definidas pelo product owner. Ele é construído incrementalmente, ou seja, não precisa estar pronto no início do projeto, podendo iniciar com um conteúdo mais geral e sendo agregado conforme se obtém mais conhecimento acerca do produto.
+
+O Backlog visa detalhar as tarefas de forma que as histórias de usuários sejam mais facilmente entregáveis, prover uma noção do tempo tomado por cada história, ser escalável conforme se conhece mais o produto e usuário e trazer o maior valor possível para o cliente.
+
+
 
 ## Backlog
 <style type="text/css">
@@ -25,88 +30,116 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1" rowspan="4">Acesso ao aplicativo</td>
+    <td class="tg-cly1" rowspan="5">Acesso ao aplicativo</td>
     <td class="tg-0lax">Cadastro</td>
     <td class="tg-0lax">USO1</td>
     <td class="tg-baqh">Eu como novo usuário do aplicativo desejo realizar o cadastro </td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="3">Login</td>
+    <td class="tg-cly1" rowspan="4">Login</td>
     <td class="tg-0lax">US02</td>
     <td class="tg-0lax">Eu como usuário do aplicativo desejo realizar o login</td>
   </tr>
   <tr>
-    <td class="tg-0lax">US03</td>
+      <td class="tg-0lax">US03</td>
     <td class="tg-0lax">Eu como usuário do aplicativo desejo recuperar a senha de acesso</td>
   </tr>
   <tr>
     <td class="tg-0lax">US04</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo sair da minha conta</span></td>
+    <td class="tg-0lax">Eu como usuário do aplicativo desejo liberar meu acesso aos servicos.</td>
   </tr>
+   <tr>
+      <td class="tg-0lax">US05</td>
+    <td class="tg-0lax">Eu como usuário do aplicativo desejo sair da minha conta.</td>
+  </tr>
+
+
   <tr>
-    <td class="tg-nrix" rowspan="14">Área do usuário</td>
+    <td class="tg-nrix" rowspan="19">Área do usuário</td>
     <td class="tg-cly1" rowspan="4">Consultas de <span style="font-weight:400;font-style:normal">benefício</span> </td>
-    <td class="tg-0lax">US05</td>
+    <td class="tg-0lax">US06</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o benefício </span>do auxílio emergencial</td>
   </tr>
   <tr>
-    <td class="tg-0lax">US06</td>
+    <td class="tg-0lax">US07</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o benefício </span>BEm</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US07</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US08</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o benefício </span>FGTS Emergencial<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US08</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o benefício </span><br><span style="font-weight:400;font-style:normal">FGTS Emergencial</span><br></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US09</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o benefício </span><br><span style="font-weight:400;font-style:normal">Meu Nis</span><br></td>
   </tr>
   <tr>
-    <td class="tg-nrix" rowspan="2">Consultas de valores</td>
-    <td class="tg-0lax">US09</td>
+    <td class="tg-nrix" rowspan="5">Consultas de valores e  Informações</td>
+    <td class="tg-0lax">US10</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o extrato da minha conta</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US10</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US11</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o saldo da minha conta</span></td>
   </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="6">Pagamentos</td>
-    <td class="tg-0lax">US11</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via&nbsp;&nbsp;PIX</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">US12</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  TED/DOC</span></td>
+    <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US12</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar comprovantes de transacoes da minha conta em um determinado período.</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US13</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  cartão de débito virtual</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo solicitar dicas financeiras.</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US14</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  boleto</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo solicitar informes dobre rendimentos.</span></td>
   </tr>
   <tr>
+    <td class="tg-nrix" rowspan="8">Transações</td>
     <td class="tg-0lax">US15</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento em qualquer Unidades Lotéricas</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via&nbsp;&nbsp;PIX</span></td>
   </tr>
   <tr>
     <td class="tg-0lax">US16</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  TED/DOC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US17</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  cartão de débito virtual</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">US18</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  boleto</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">US19</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento em qualquer Unidades Lotéricas</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">US20</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento </span>maquininha com QR Code</td>
+  </tr>
+   <tr>
+    <td class="tg-0lax">US21</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar tranferência de até 600R$ para outra conta.
+  </tr>
+   <tr>
+    <td class="tg-0lax">US22</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo gerar um código para saque sem cartão.
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2">Recargas</td>
-    <td class="tg-0lax">US17</td>
+    <td class="tg-0lax">US23</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar recarga de cartão de transporte</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">US18</td>
+    <td class="tg-0lax">US24</td>
     <td class="tg-0lax">Eu como usuário do aplicativo desejo realizar recarga de telefone</td>
   </tr>
 </tbody>
 </table>
 
+## Bibliografia
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.
 
 
 
