@@ -46,6 +46,7 @@ nav:
     - Léxicos: 'Modelagem/Lexicos.md'
     - Casos de Uso: 'Modelagem/CasoUso.md'
     - Especificação Suplementar: 'Modelagem/Especificacao.md'
+    - NFR Framework: 'Modelagem/NFR_Framework.md'
     - Ágil:
       - Backlog do Produto: 'Modelagem/Agil/backlog.md'
       - História dos Usuários: 

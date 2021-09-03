@@ -1,4 +1,3 @@
-
 ## Introdução.
 O diagrama de casos de uso é uma representação visual estabelecida dentro dos protocolos UML(Unified Modeling Language) que ilustra as funções esperadas do sistema e seus atores.
 
