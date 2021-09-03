@@ -9,11 +9,11 @@ No artigo escrito pelos cientistas da computação Lawrence Chung e Julio Cesar 
 in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. Disponível em http://www-di.inf.puc-rio.br/~julio/nfr-chung-leite.pdf Acessado em 03/09/21 
 
 ## Versionamento
+
 <center>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-
 | 1.0 | 3/09/2021 | Criação da págia e Introdução | Ariel Serafim |
 
 </center>
