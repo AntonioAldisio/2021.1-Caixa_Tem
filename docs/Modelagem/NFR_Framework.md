@@ -21,6 +21,21 @@ um softgoal em outro.<a href="../NFR_Framework#Bibliografia">[2]</a><br></p>
 <figcaption> Figura 01 - Tipos de Softgoals <a href="../NFR_Framework#Bibliografia">[2]</a></figcaption>
 </center>
 
+<p style="text-indent: 40px; align="justify">É possível utilizar, no NFR Framwork, diversos tipos de contribuições para descrever como a satisfação ou não de um softgoal descendente irá contribuir para a satisfação do softgoal ascendente.<a href="../NFR_Framework#Bibliografia">[2]</a> Os tipos de contribuição são:<br></p>
+
+Contribuição | Descrição
+-|-
+AND | Estabelece que os softgoals ascendentes serão satisfeitos se os softgoals descendentes forem satisfeitos.
+OR | Se algum softgoal descendente for satisfeito, então o ascendente também será.
+MAKE(++) | Fornece uma contribuição suficientemente positiva entre um softgoal descendente e um ascendente.
+BREAK(--) | Fornece uma contribuição suficientemente negativa entre um softgoal descendente e um ascendente.
+HELP(+) | Fornece uma contribuição parcialmente positiva entre um softgoal descendente e um ascendente.
+HURT(-) | Fornece uma contribuição parcialmente negativa entre um softgoal descendente e um ascendente.
+UNKNOWN(?) | Fornece uma contribuição desconhecida entre um softgoal descendente e um ascendente.
+EQUALS | O softgoal descendente será satisfeito somente se o softgoal ascendente for satisfeito e o softgoal descendente será negado se o ascendente for negado.
+SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a extensão não é.
+
+
 ## Bibliografia <a id="Bibliografia"></a>
 [1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements
 in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. Disponível <a href="http://www-di.inf.puc-rio.br/~julio/nfr-chung-leite.pdf">aqui.</a> Acessado em 03/09/21. 
@@ -35,5 +50,7 @@ in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. 
 |--|--|--|--|
 | 1.0 | 03/09/2021 | Criação da págia e Introdução | Ariel Serafim |
 | 2.0 | 04/09/2021 | Melhoria no layout e adição dos tipos de softgoals | Lucas Gomes |
+| 3.0 | 04/09/2021 | Adição dos tipos de contribuição | Lucas Gomes |
+
 
 </center>
