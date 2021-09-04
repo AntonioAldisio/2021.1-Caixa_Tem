@@ -21,6 +21,8 @@ um softgoal em outro.<a href="../NFR_Framework#Bibliografia">[2]</a><br></p>
 <figcaption> Figura 01 - Tipos de Softgoals <a href="../NFR_Framework#Bibliografia">[2]</a></figcaption>
 </center>
 
+
+
 ## Bibliografia <a id="Bibliografia"></a>
 [1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements
 in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. Disponível <a href="http://www-di.inf.puc-rio.br/~julio/nfr-chung-leite.pdf">aqui.</a> Acessado em 03/09/21. 
