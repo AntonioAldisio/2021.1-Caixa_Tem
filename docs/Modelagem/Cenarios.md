@@ -231,6 +231,7 @@ Ambiente para Edição e Visualização de Cenários e Léxicos.</strong> Rio de
 | 1.3 | 28/08/2021 | Adição de Cenários | Lucas Gomes |
 | <br>1.4 | <br>28/08/2021 | Adição de mais Cenários<br>Revisão de layout<br>Adição de links correspondentes |<br> Fernando Calil |
 | 1.5 | 31/08/2021 | Melhorias no layout | Lucas Gomes |
+| 1.6 | 04/09/2021 | Rastreabilidade Cenarios-> Léxicos | Fernando Calil |
 
 
 
