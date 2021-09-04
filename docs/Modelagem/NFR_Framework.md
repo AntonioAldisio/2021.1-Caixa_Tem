@@ -35,6 +35,12 @@ UNKNOWN(?) | Fornece uma contribuição desconhecida entre um softgoal descenden
 EQUALS | O softgoal descendente será satisfeito somente se o softgoal ascendente for satisfeito e o softgoal descendente será negado se o ascendente for negado.
 SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a extensão não é.
 
+<p style="text-indent: 40px; align="justify">O procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Para isso, são atribuídos rótulos para os softgoals.<a href="../NFR_Framework#Bibliografia">[2]</a><br></p>
+
+<center>
+<img src="../../assets/imgs/rotulosSoftgoals.png" alt="Rótulos de Softgoals">
+<figcaption> Figura 02 - Tipos de rótulos utilizados pelos Softgoals <a href="../NFR_Framework#Bibliografia">[2]</a></figcaption>
+</center>
 
 ## Bibliografia <a id="Bibliografia"></a>
 [1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements
@@ -50,7 +56,7 @@ in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. 
 |--|--|--|--|
 | 1.0 | 03/09/2021 | Criação da págia e Introdução | Ariel Serafim |
 | 2.0 | 04/09/2021 | Melhoria no layout e adição dos tipos de softgoals | Lucas Gomes |
-| 3.0 | 04/09/2021 | Adição dos tipos de contribuição | Lucas Gomes |
+| 3.0 | 04/09/2021 | Adição dos tipos de contribuição e tipos de rótulos | Lucas Gomes |
 
 
 </center>
