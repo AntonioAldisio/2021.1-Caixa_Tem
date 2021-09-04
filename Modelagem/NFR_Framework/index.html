@@ -10,7 +10,7 @@
       
       
       <link rel="icon" href="../../assets/Images/icon2.png">
-      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.2">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.4">
     
     
       
@@ -18,10 +18,10 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.1118c9be.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.f7f47774.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.ba0d045b.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
         
       
     
@@ -63,7 +63,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#introducao" class="md-skip">
+        <a href="#nfr-framework" class="md-skip">
           Ir para o conteúdo
         </a>
       
@@ -684,6 +684,8 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
+        
+      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           NFR Framework
@@ -699,6 +701,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -707,15 +711,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#introducao" class="md-nav__link">
-    Introdução.
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#o-que-sao-softgoals" class="md-nav__link">
-    O que são Softgoals
+  <a href="#2-softgoals" class="md-nav__link">
+    2. Softgoals
   </a>
   
 </li>
@@ -842,6 +846,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -850,15 +856,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#introducao" class="md-nav__link">
-    Introdução.
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#o-que-sao-softgoals" class="md-nav__link">
-    O que são Softgoals
+  <a href="#2-softgoals" class="md-nav__link">
+    2. Softgoals
   </a>
   
 </li>
@@ -890,15 +896,30 @@
               
                 
                 
-                  <h1>NFR Framework</h1>
-                
-                <h2 id="introducao">Introdução.</h2>
-<p>Existem muitas formas de se representar e analisar requisitos não funcionais (NFR), dentre elas vale citar as árvores de qualidade de software, a técnica FURPS +, e a classificação feita pela “standard ISO/IEC 9126”. Essas classificações são úteis para a questão de análise de NFR, entretanto, há uma falta de consistência entre elas.
-No artigo escrito pelos cientistas da computação Lawrence Chung e Julio Cesar Sampaio do Prado, em que é descrito o NFR Framework, eles argumentam sobre como alguns aspectos são tratados de forma diferente entre essas técnicas clássicas, mas sem uma concordância entre elas. O principal diferencial do NFR Framework é descrever um procedimento consistente para modelar os NFR elicitados em uma unidade denominada “Softgoal”, e analisar esses softgoals e suas relações de maneira que a equipe de desenvolvimento pode determinar se os softgoals foram satisfeitos ou não</p>
-<h2 id="o-que-sao-softgoals">O que são Softgoals</h2>
+                <h1 id="nfr-framework">NFR Framework</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<p style="text-indent: 40px; align="justify">Existem muitas formas de se representar e analisar requisitos não funcionais (NFR), dentre elas vale citar as árvores de qualidade de software, a técnica FURPS +, e a classificação feita pela “standard ISO/IEC 9126”. Essas classificações são úteis para a questão de análise de NFR, entretanto, há uma falta de consistência entre elas.</p>
+<p style="text-indent: 40px; align="justify">No artigo escrito pelos cientistas da computação Lawrence Chung e Julio Cesar Sampaio do Prado, em que é descrito o NFR Framework, eles argumentam sobre como alguns aspectos são tratados de forma diferente entre essas técnicas clássicas, mas sem uma concordância entre elas. O principal diferencial do NFR Framework é descrever um procedimento consistente para modelar os NFR elicitados em uma unidade denominada “Softgoal”, e analisar esses softgoals e suas relações de maneira que a equipe de desenvolvimento pode determinar se os softgoals foram satisfeitos ou não.<a href="../NFR_Framework#Bibliografia">[1]</a><br></p>
+
+<h2 id="2-softgoals">2. Softgoals</h2>
+<p style="text-indent: 40px; align="justify">Utilizado pelo NFR Framework, um softgoal é um objetivo que não possui uma clara definição nem critérios de satisfação precisos. Os softgoals são utilizados para representar Requisitos Não-Funcionais e podem estar inter-relacionados, expressando a influência de
+um softgoal em outro.<a href="../NFR_Framework#Bibliografia">[2]</a><br></p>
+<p style="text-indent: 40px; align="justify">Existem 3 tipos de softgoals. São eles:</p>
+<ul style="margin-left:50px">
+    <li><strong>Softgoals NFR :</strong> representam os Requisitos Não- Funcionais e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto (CHUNG et al., 2000).</li>
+    <li><strong>Softgoals de Operacionalização :</strong> representam soluções de implementação para
+    satisfazer softgoals NFR ou outros softgoals de operacionalização (CHUNG et al., 2000).</li>
+    <li><strong>Softgoals de Afirmação :</strong> permitem que as características do domínio (como prioridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo de tomada de decisão.  (CHUNG et al., 2000).</li>
+</ul>
+
+<p><center>
+<img src="../../assets/imgs/tiposSoftgoals.png" alt="Tipos de Softgoals"></p>
+<figcaption> Figura 01 - Tipos de Softgoals <a href="../NFR_Framework#Bibliografia">[2]</a></figcaption>
+<p></center></p>
 <h2 id="bibliografia">Bibliografia <a id="Bibliografia"></a></h2>
 <p>[1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements
-in software engineering. Springer Science &amp; Business Media: [s.n.], 2000. v. 5. Disponível em http://www-di.inf.puc-rio.br/~julio/nfr-chung-leite.pdf Acessado em 03/09/21 </p>
+in software engineering. Springer Science &amp; Business Media: [s.n.], 2000. v. 5. Disponível <a href="http://www-di.inf.puc-rio.br/~julio/nfr-chung-leite.pdf">aqui.</a> Acessado em 03/09/21. </p>
+<p>[2] DA SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Pernambuco, Recife, 2019.</p>
 <h2 id="versionamento">Versionamento</h2>
 <p><center></p>
 <table>
@@ -913,9 +934,15 @@ in software engineering. Springer Science &amp; Business Media: [s.n.], 2000. v.
 <tbody>
 <tr>
 <td>1.0</td>
-<td>3/09/2021</td>
+<td>03/09/2021</td>
 <td>Criação da págia e Introdução</td>
 <td>Ariel Serafim</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>04/09/2021</td>
+<td>Melhoria no layout e adição dos tipos de softgoals</td>
+<td>Lucas Gomes</td>
 </tr>
 </tbody>
 </table>
@@ -993,7 +1020,7 @@ in software engineering. Springer Science &amp; Business Media: [s.n.], 2000. v.
     <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.2b46852b.min.js"></script>
+      <script src="../../assets/javascripts/bundle.febc23d1.min.js"></script>
       
     
   </body>
