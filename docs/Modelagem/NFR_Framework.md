@@ -47,22 +47,22 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 
 <p style="text-indent: 40px; align="justify">Segue abaixo uma relação dos softgoals referentes aos requisitos não funcionais elicitados para o projeto.</p>
 
-| ID | Requisito | Softgoal equivalente | 
-|:--:|:--:|:--:|
-| RNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | Portabilidade |
-| RNF 02 | O sistema deve recusar o acesso de pessoas não autorizadas | Segurança |
-| RNF 03 | As funcionalidades devem se parecer com uma conversa (chatbot) | Acessibilidade |
-| RNF 04 | O aplicativo não pode ter grande espaço de armazenamento. | Desempenho |
-| RNF 05 | O aplicativo não pode ficar indisponível por mais que 10 minutos por dia. | Disponibilidade |
-| RNF 06 | O aplicativo não pode apresentar dados de cunho privativo que não seja do próprio usuário. | Segurança |
-| RNF 07 | O usuários devem conseguir encontrar a funcionalidade desejada em menos que três clicks. | Usabilidade |
-| RNF 08 | O aplicativo deve se comunicar com o banco de dados.| Usabilidade e Segurança |
-| RNF 09 | O aplicativo deve proteger os dados dos usuários.| Segurança |
-| RNF 10 | O aplicativo deve ser desenvolvido em uma linguagem que tenha uma comunidade ativa e/ou que não tenha previsão de descontinuade da linguagem nos próximos 5 anos.| Portabilidade e Disponibilidade |
-| RNF 11 | O usuário não pode ficar mais de 15 minutos em fila para acessar o aplicativo. | Desempenho |
-| RNF 12 | O sistema deve ser acessível para Pessoas com Deficiência (PcD) | Acessibilidade |
-| RNF 13 |  O código de segurança gerado para realizar compras com cartão de débito virtual deve ser válido para apenas uma compra | Segurança |
-| RNF 14 |  Ter a opção de guia para primeiro acesso | Acessibilidade |
+| ID | Requisito |  Técnica | Softgoals | 
+|:--:|:--:|:--:|:--:|
+| RNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | <a href="..Elicitacao/Tecnicas/brainstorm#BrainstormingNFuncional">BNF01</a> | Portabilidade |
+| RNF 02 | O sistema deve recusar o acesso de pessoas não autorizadas | <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF04</a>, <a href="..Elicitacao/Tecnicas/brainstorm#BrainstormingNFuncional">BNF02</a>  | Segurança |
+| RNF 03 | As funcionalidades devem se parecer com uma conversa (chatbot) | <a href="..Elicitacao/Tecnicas/questionario#QuestionarioNFuncional">QNF03</a>, <a href="..Elicitacao/Tecnicas/storytelling#StorytellingNFuncional">SNF02</a>, <a href="..Elicitacao/Tecnicas/brainstorm#BrainstormingNFuncional">BNF04</a>  | Acessibilidade |
+| RNF 04 | O aplicativo não pode ter grande espaço de armazenamento. | <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF01</a> | Desempenho |
+| RNF 05 | O aplicativo não pode ficar indisponível por mais que 10 minutos por dia. | <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF02</a>, <a href="..Elicitacao/Tecnicas/storytelling#StorytellingNFuncional">SNF03</a>   | Disponibilidade |
+| RNF 06 | O aplicativo não pode apresentar dados de cunho privativo que não seja do próprio usuário. | <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF03</a>  | Segurança |
+| RNF 07 | O usuários devem conseguir encontrar a funcionalidade desejada em menos que três clicks. | <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF05</a>  | Usabilidade |
+| RNF 08 | O aplicativo deve se comunicar com o banco de dados.| <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF06</a>  | Usabilidade e Segurança |
+| RNF 09 | O aplicativo deve proteger os dados dos usuários.| <a href="..Elicitacao/Tecnicas/questionario#QuestionarioNFuncional">QNF01</a>, <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF07</a>, <a href="..Elicitacao/Tecnicas/storytelling#StorytellingNFuncional">SNF05</a>  | Segurança |
+| RNF 10 | O aplicativo deve ser desenvolvido em uma linguagem que tenha uma comunidade ativa e/ou que não tenha previsão de descontinuade da linguagem nos próximos 5 anos.| <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF08</a>  | Portabilidade e Disponibilidade |
+| RNF 11 | O usuário não pode ficar mais de 15 minutos em fila para acessar o aplicativo. | <a href="..Elicitacao/Tecnicas/storytelling#StorytellingNFuncional">SNF01</a> | Desempenho |
+| RNF 12 | O sistema deve ser acessível para Pessoas com Deficiência (PcD) | <a href="..Elicitacao/Tecnicas/questionario#QuestionarioNFuncional">QNF02</a>, <a href="..Elicitacao/Tecnicas/entrevista#EntrevistaNFuncional">ENF02</a>, <a href="..Elicitacao/Tecnicas/brainstorm#BrainstormingNFuncional">BNF03</a> | Acessibilidade |
+| RNF 13 |  O código de segurança gerado para realizar compras com cartão de débito virtual deve ser válido para apenas uma compra | <a href="..Elicitacao/Tecnicas/questionario#QuestionarioNFuncional">QNF04</a> | Segurança |
+| RNF 14 |  Ter a opção de guia para primeiro acesso | <a href="..Elicitacao/Tecnicas/entrevista#EntrevistaNFuncional">ENF03</a>, <a href="..Elicitacao/Tecnicas/observacao#ObservaçãoNFuncional">ONF01</a>| Acessibilidade |
 
 </center>
 
