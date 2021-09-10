@@ -48,7 +48,7 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 <p style="text-indent: 40px; align="justify">Segue abaixo uma relação dos softgoals referentes aos requisitos não funcionais elicitados para o projeto.</p>
 
 | ID | Requisito | Softgoal equivalente | 
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | RNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | Portabilidade |
 | RNF 02 | O sistema deve recusar o acesso de pessoas não autorizadas | Segurança |
 | RNF 03 | As funcionalidades devem se parecer com uma conversa (chatbot) | Acessibilidade |
