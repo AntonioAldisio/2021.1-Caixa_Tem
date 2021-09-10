@@ -42,6 +42,30 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 <figcaption> Figura 02 - Tipos de rótulos utilizados pelos Softgoals <a href="../NFR_Framework#Bibliografia">[2]</a></figcaption>
 </center>
 
+## 3. NFR e os Softgoals
+<center>
+
+<p style="text-indent: 40px; align="justify">Segue abaixo uma relação dos softgoals referentes aos requisitos não funcionais elicitados para o projeto.</p>
+
+| ID | Requisito | Softgoal equivalente | 
+|:--:|:--:|:--:|:--:|
+| RNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | Portabilidade |
+| RNF 02 | O sistema deve recusar o acesso de pessoas não autorizadas | Segurança |
+| RNF 03 | As funcionalidades devem se parecer com uma conversa (chatbot) | Acessibilidade |
+| RNF 04 | O aplicativo não pode ter grande espaço de armazenamento. | Desempenho |
+| RNF 05 | O aplicativo não pode ficar indisponível por mais que 10 minutos por dia. | Disponibilidade |
+| RNF 06 | O aplicativo não pode apresentar dados de cunho privativo que não seja do próprio usuário. | Segurança |
+| RNF 07 | O usuários devem conseguir encontrar a funcionalidade desejada em menos que três clicks. | Usabilidade |
+| RNF 08 | O aplicativo deve se comunicar com o banco de dados.| Usabilidade e Segurança |
+| RNF 09 | O aplicativo deve proteger os dados dos usuários.| Segurança |
+| RNF 10 | O aplicativo deve ser desenvolvido em uma linguagem que tenha uma comunidade ativa e/ou que não tenha previsão de descontinuade da linguagem nos próximos 5 anos.| Portabilidade e Disponibilidade |
+| RNF 11 | O usuário não pode ficar mais de 15 minutos em fila para acessar o aplicativo. | Desempenho |
+| RNF 12 | O sistema deve ser acessível para Pessoas com Deficiência (PcD) | Acessibilidade |
+| RNF 13 |  O código de segurança gerado para realizar compras com cartão de débito virtual deve ser válido para apenas uma compra | Segurança |
+| RNF 14 |  Ter a opção de guia para primeiro acesso | Acessibilidade |
+
+</center>
+
 ## Bibliografia <a id="Bibliografia"></a>
 [1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements
 in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. Disponível <a href="http://www-di.inf.puc-rio.br/~julio/nfr-chung-leite.pdf">aqui.</a> Acessado em 03/09/21. 
@@ -57,6 +81,6 @@ in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. 
 | 1.0 | 03/09/2021 | Criação da págia e Introdução | Ariel Serafim |
 | 2.0 | 04/09/2021 | Melhoria no layout e adição dos tipos de softgoals | Lucas Gomes |
 | 3.0 | 04/09/2021 | Adição dos tipos de contribuição e tipos de rótulos | Lucas Gomes |
-
+| 4.0 | 09/09/2021 | Adição da tabela relacionando NFR e softgoals | Ariel Serafim |
 
 </center>
