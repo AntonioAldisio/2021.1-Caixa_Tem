@@ -44,13 +44,13 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 | Sprint | Inicio| Termino | Backlog da sprint | 
 |:------:|:-------------:|:--------------------:|:---------------------:|
 | 0 | 29/07 | 01/08 | Escolha do Aplicativo, ferramentas e metodologia |  
-| 1 | 02/08 | 08/08 | Montagem de wiki, Gravação da apresentação 1|  
+| 1 | 02/08 | 08/08 | Montagem de wiki |  
 | 2 | 10/08 | 16/08 | Questionário, Análise de Documentos, definição de técnicas de priorização (MoSCoW, Gráfico Tempo x Esforço), Tabela de argumentação e nova versão do Rich Picture |  
-| 3 | 17/08 | 21/08 | Entrevista, Observação, Storytelling, Introspecção, Brainstorming, Priorização dos requisitos, Gravação e edição da Apresentação 2 | 
+| 3 | 17/08 | 21/08 | Entrevista, Observação, Storytelling, Introspecção, Brainstorming, Priorização dos requisitos | 
 | 4 | 22/08 | 27/08 | Revisão e Melhoria das técnias de Elicitação e Priorização. Léxico, Use Case, Especificação Suplementar, Cenários. |
-| 5 | 28/08 | 03/09 | ---------- | 
-| 6 | 04/09 | 10/09 | ---------- | 
-| 7 | 11/09 | 17/09 | ---------- | 
+| 5 | 28/08 | 03/09 | Desenvolvimento inicial das Histórias de Usuário, Backlog e NFR Framework | 
+| 6 | 04/09 | 10/09 | Finalização dos artefatos de História de Usuário, Backlog  e NFR Framework | 
+| 7 | 11/09 | 17/09 | Verificação e Validação dos artefados construidos pela equipe | 
 | 8 | 18/09 | 24/09 | ---------- | 
 | 9 | 25/09 | 01/10 | ---------- | 
 | 10 | 02/10 | 08/10 | ---------- | 
@@ -128,5 +128,6 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 | 1.01 | 02/08/2021 | Adicionou o bloco de Metodologia, Aplicativos avaliados individualmente e Ferramentas Utilizadas| Antônio Aldisio |
 | 1.05 | 08/08/2021 | Ajuste de texto<br> Adicionada referência teórica | Fernando Calil |
 | 1.06 | 26/08/2021 | Adicionada ferramenta de criação da apresentação. Adaptação e atualização do cronograma. | Fernando Calil |
+| 1.07 | 11/09/2021 | Atualização do Cronograma de sprints de acordo com o andamento do projeto. | Fernando Calil |
 
 </center>

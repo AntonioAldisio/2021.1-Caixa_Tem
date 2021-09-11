@@ -1,6 +1,4 @@
-# Ata de Reunião 4/09/2021
-
-<p style="text-indent: 40px; align="justify"> O Grupo se reuniu no sábado, dia acordado para ser o novo inicio de sprint, para que o fim da sprint fique alinhado com as datas de entregas do projeto da disciplina.</p>
+# Ata de Reunião 04/09/2021
 
 ## 1. Local
 <p style="text-indent: 40px; align="justify"> Chamada de voz realizada no Discord </p>

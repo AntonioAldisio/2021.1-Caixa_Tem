@@ -47,7 +47,7 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 
 <p style="text-indent: 40px; align="justify">Segue abaixo uma relação dos softgoals referentes aos requisitos não funcionais elicitados para o projeto.</p>
 
-| ID | Requisito |  Técnica | Softgoals | 
+| ID | Requisito |  Origem | Softgoals | 
 |:--:|:--:|:--:|:--:|
 | RNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | <a href="../../Elicitacao/Tecnicas/brainstorm#BrainstormingNFuncional">BNF01</a> | Portabilidade |
 | RNF 02 | O sistema deve recusar o acesso de pessoas não autorizadas | <a href="..Elicitacao/Tecnicas/inpeccao#IntrospecçãoNFuncional">INF04</a>, <a href="../..Elicitacao/Tecnicas/brainstorm#BrainstormingNFuncional">BNF02</a>  | Segurança |
@@ -66,6 +66,44 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 
 </center>
 
+### 3.1 Diagrama NFR Geral
+
+<img src="../../assets/Images/GeralNFR.png" alt="Diagrama NFR Geral do Aplicativo">
+
+#### 3.1.1 Diagrama NFR Usabilidade
+
+<img src="../../assets/Images/Usabilidade.png" alt="Diagrama NFR da Usabilidade">
+
+#### 3.1.2 Diagrama NFR Eficácia
+
+<img src="../../assets/Images/Eficácia.png" alt="Diagrama NFR da Eficácia">
+
+#### 3.1.3 Diagrama NFR Eficiência
+
+<img src="../../assets/Images/Eficiência.png" alt="Diagrama NFR da Eficiência">
+
+
+#### 3.1.4 Diagrama NFR Satisfação
+
+<img src="../../assets/Images/Satisfacao.png" alt="Diagrama NFR da Satisfação">
+
+
+### 3.2 Diagrama NFR com propagação
+
+<img src="../../assets/Images/GeralNFRProparacao.png" alt="Diagrama NFR Geral com Propagação">
+
+#### 3.2.1 Diagrama NFR com propagação da Eficácia
+
+<img src="../../assets/Images/EficaciaPropagacao.png" alt="Diagrama NFR Geral com Propagação da Eficácia">
+
+#### 3.2.2 Diagrama NFR com propagação da Eficiência
+
+<img src="../../assets/Images/EficienciaPropagacao.png" alt="Diagrama NFR Geral com Propagação da Eficiência">
+
+#### 3.2.2 Diagrama NFR com propagação da Satisfação
+
+<img src="../../assets/Images/SatisfacaoPropagacao.png" alt="Diagrama NFR Geral com Propagação da Satisfação">
+
 ## Bibliografia <a id="Bibliografia"></a>
 [1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements
 in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. Disponível <a href="http://www-di.inf.puc-rio.br/~julio/nfr-chung-leite.pdf">aqui.</a> Acessado em 03/09/21. 
@@ -82,5 +120,6 @@ in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. 
 | 2.0 | 04/09/2021 | Melhoria no layout e adição dos tipos de softgoals | Lucas Gomes |
 | 3.0 | 04/09/2021 | Adição dos tipos de contribuição e tipos de rótulos | Lucas Gomes |
 | 4.0 | 09/09/2021 | Adição da tabela relacionando NFR e softgoals | Ariel Serafim |
+| 5.0 | 11/09/2021 | Adicionados diagramas NFR com e sem propagação | Fernando Calil |
 
 </center>
