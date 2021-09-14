@@ -7,6 +7,8 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 
 ## 2. Planejamento 
 
+<center>
+
 | ID| Tópico |
 |:--:|:--:|
 | 01 | O documento está gramaticalmente correto? |
@@ -18,7 +20,11 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 | 07 | Teve a maior todo os membros na reunião ? |
 | 08 | Teve um responsável pelo Brainstorming ? |
 
+</center>
+
 ## 3. Verificação
+
+<center>
 
 | ID| Tópico |  Análise |
 |:--:|:--:| :--:|
@@ -30,6 +36,8 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 | 06 | Tem tabela de requisitos não-funcionais? | (&#10004) | 
 | 07 | Teve a maior todo os membros na reunião ? |(&#10004) | 
 | 08 | Teve um responsável pelo Brainstorming ? |(&#10004) | 
+
+</center>
 
 ## 4. Conclusão
 <p style="text-indent: 40px; align="justify">

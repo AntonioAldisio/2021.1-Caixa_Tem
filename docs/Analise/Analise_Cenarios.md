@@ -7,6 +7,8 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 
 ## 2. Planejamento 
 
+<center>
+
 | ID| Tópico |
 |:--:|:--:|
 | 01 | O documento está gramaticalmente correto? |
@@ -133,7 +135,11 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 | 122 | O cenário 17 tem restrição? |
 | 123 | O cenário 17 tem exceção? | 
 
+</center>
+
 ## 2. Verificação 
+
+<center>
 
 | ID| Tópico |Análise |
 |:--:|:--:| :--: |
@@ -260,6 +266,8 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 | 121 | O cenário 17 tem episódios? | (&#10004) | 
 | 122 | O cenário 17 tem restrição? |(&#10004) | 
 | 123 | O cenário 17 tem exceção? | (&#10004) | 
+
+</center>
 
 ## 4. Conclusão
 <p style="text-indent: 40px; align="justify">
