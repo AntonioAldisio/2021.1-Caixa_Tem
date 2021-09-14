@@ -77,7 +77,7 @@ nav:
         - US022 : 'Modelagem/Agil/Historia/US022.md'
         - US023 : 'Modelagem/Agil/Historia/US023.md'
         - US024 : 'Modelagem/Agil/Historia/US024.md'
-
+  - Análise:
     - Verificação:
       - Introdução: 'Analise/Analise_modelo.md'
       - Backlog: 'Analise/Analise_backlog.md'
