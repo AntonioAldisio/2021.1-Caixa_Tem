@@ -2,14 +2,14 @@
 
 ## 1. Introdução
 <p style="text-indent: 40px; align="justify">
-O processo de validação de software, é a confirmação de que o produto atende às necessidades do cliente. Nesse processo, verifica-se tudo o que foi produzido e elicitado com o objetivo de confirmar se as necessidades foram atendidas e identificar as que não foram.
+O processo de validação de software, é a confirmação de que o produto atende às necessidades do cliente. Nesse processo, verifica-se tudo o que foi produzido e elicitado com o objetivo de confirmar se as necessidades foram atendidas e identificar as que não foram [1].
 </p>
 
 
 
 ## 2. Metodologia 
 <p style="text-indent: 40px; align="justify">
-O processo de validação escolhido pelo grupo foi a inspeçōes. Inspeçōes é  revisões estruturada, revisão minuciosa por pessoas competentes, geralmente dirigidas por checklists de verificação de erros.
+O processo de validação escolhido pelo grupo foi a inspeçōes. Inspeçōes é  revisões estruturada, revisão minuciosa por pessoas competentes, geralmente dirigidas por checklists de verificação de erros [1].
 Uma inspeção foi realizada sobre a documento sinalizando se determinado tópico estava sendo atendido (&#10004) ou não (&#10006) na documentação referente.
 </p>
 
@@ -57,7 +57,7 @@ Nesse processo foi separado para 4 integrantes, que atuaram como inspetores, as 
 </center>
 
 ## Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> Slide da professora </a> .</p>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 16. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
 
 ## Versionamento
 <center>

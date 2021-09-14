@@ -60,7 +60,7 @@ O Caixa tem é um aplicativo desenvolvido para as pessoas consultar o seu auxilo
 ### 3.4 Suportabilidade
 
 <p style="text-indent: 40px; align = "justify"> 
-Segundo informaçãoes consultadas na Apple store e Google play o aplicatibo esta disponivel nas plataformas IOS (11.0 ou posterior) e Android (4.0  ou superior).
+Segundo informaçãoes consultadas na Apple store e Google play o aplicativo esta disponivel nas plataformas IOS (11.0 ou posterior) e Android (4.0  ou superior).
 </p>
 - Disponível para as plataformas IOS e Android.
 - Suportar vários acessos simultâneos.
