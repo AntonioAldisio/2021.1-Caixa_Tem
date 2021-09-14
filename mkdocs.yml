@@ -80,20 +80,31 @@ nav:
   - Análise:
     - Verificação:
       - Introdução: 'Analise/Analise_modelo.md'
-      - Backlog: 'Analise/Analise_backlog.md'
-      - Brainstorming: 'Analise/Analise_Brainstorming.md'
-      - Caso de Uso: 'Analise/Analise_Caso_de_Uso.md'
-      - Cenários: 'Analise/Analise_Cenarios.md'
-      - Entrvista: 'Analise/Analise_Entrvista.md'
-      - Especificação Suplementar: 'Analise/Analise_Suplementar.md'
-      - Gráfico esforço tempo: 'Analise/Analise_esforco_tempo.md'
-      - Instrospecção: 'Analise/Analise_Instrospeccao.md'
-      - Lexicos: 'Analise/Analise_Lexicos.md'
-      - Moscow: 'Analise/Analise_Moscow.md'
-      - NFR: 'Analise/Analise_NFR.md'
-      - Observação: 'Analise/Analise_Observacao.md'
-      - Questionário: 'Analise/Analise_Questionario.md'
-      - RichPicture: 'Analise/Analise_RichPicture.md'
-      - StoryTelling: 'Analise/Analise_StoryTelling.md'
+      - Pré-rastreabilidade:
+        - RichPicture: 'Analise/Analise_RichPicture.md'
+      - Elicitação:
+        - Técnicas de Elicitação:
+          - Brainstorming: 'Analise/Analise_Brainstorming.md'
+          - Entrvista: 'Analise/Analise_Entrvista.md'
+          - StoryTelling: 'Analise/Analise_StoryTelling.md'
+          - Observação: 'Analise/Analise_Observacao.md'
+          - Questionário: 'Analise/Analise_Questionario.md'
+          - Instrospecção: 'Analise/Analise_Instrospeccao.md'
+        - Técnicas de Priorização:
+          - Moscow: 'Analise/Analise_Moscow.md'
+          - Gráfico esforço tempo: 'Analise/Analise_esforco_tempo.md'
+      - Modelagem:
+        - Caso de Uso: 'Analise/Analise_Caso_de_Uso.md'
+        - Cenários: 'Analise/Analise_Cenarios.md'
+        - Especificação Suplementar: 'Analise/Analise_Suplementar.md' 
+        - Lexicos: 'Analise/Analise_Lexicos.md'
+        - NFR: 'Analise/Analise_NFR.md'
+        - Ágil:
+          - Backlog: 'Analise/Analise_backlog.md'
     - Validação:
-      - Figma: 'Analise/Analise_modelo.md'
+      - Figma: 'Analise/Analise_modelo.md'      
+      
+     
+    
+      
+
