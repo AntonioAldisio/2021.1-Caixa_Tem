@@ -102,6 +102,7 @@ nav:
         - Ágil:
           - Backlog: 'Analise/Analise_backlog.md'
     - Validação:
+      - Introdução: 'Analise/Analise_modelo_validacao.md'
       - Figma: 'Analise/Analise_modelo.md'      
       
      
