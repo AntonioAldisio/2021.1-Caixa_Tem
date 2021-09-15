@@ -67,6 +67,15 @@
 <figcaption>Figura 11 - Questão perguntando se o entrevistado já ouviu falar do app</figcaption>
 
 #### Questão 11
+<p style="text-indent: 40px; align="justify">
+Explicação apresentada ao leitor do questionário:
+
+O CAIXA Tem é um aplicativo da CAIXA criado para facilitar o acesso de todos os brasileiros a serviços e transações bancárias de sua conta Poupança Digital Social.
+
+O CAIXA Tem é um dos aplicativos de finanças mais leves do mercado. Simples e intuitivo, o App é compatível com praticamente todas as redes e aparelhos celulares. A tecnologia também é acessível para o público de Pessoas com Deficiência (PcD).
+
+Com o app é possível consultar saldos e extratos, fazer pagamentos de contas e boletos, transferências e compras na internet utilizando o Cartão de Débito Virtual, gerado gratuitamente no próprio aplicativo. Ele também permite compras no comércio por meio de um QR Code gerado pelo lojista na própria maquininha do estabelecimento comercial.</p>
+
 <img  src="../../../assets/imgs/questoes/questao11.png" alt="questao 11">
 <figcaption>Figura 12 - Questão sobre o que o entrevistado achou da ideia do app</figcaption>
 
@@ -127,7 +136,7 @@
 | 1.1 | 15/08/2021 | Adição da introdução e conteúdo do questionário | Lucas Gomes |
 | 1.2 | 20/08/2021 | Adição dos resultados do questionário | Lucas Gomes |
 | 1.3 | 26/08/2021 | Adição das legendas nas figuras | Lucas Gomes |
-
+| 2.0 | 15/09/2021 | Pequena Correção, após verificação por inspeção | Ariel Serafim |
 
 
 </center>

@@ -17,7 +17,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 | 04 | Tem bibliografia? |
 | 05 | Tem tabela de requisitos funcionais? | 
 | 06 | Tem tabela de requisitos não-funcionais? | 
-| 07 | Teve a maior todo os membros na reunião ? |
+| 07 | Teve a presença de todo os membros na reunião ? |
 | 08 | Teve um responsável pelo Brainstorming ? |
 
 </center>
