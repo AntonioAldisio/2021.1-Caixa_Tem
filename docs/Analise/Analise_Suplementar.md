@@ -28,8 +28,8 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 
 <center>
 
-| ID| Tópico |
-|:--:|:--:|
+| ID| Tópico | Check|
+|:--:|:--:|:--:|
 | 01 | O documento está gramaticalmente correto? |(&#10006) | 
 | 02 | A página está no padrão da wiki? |(&#10004) | 
 | 03 | Tem tabela de versionamento? |(&#10004) | 
