@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 
-<p style="text-indent: 40px; align = "justify"> Durante esta técnica de elicitação, tentamos nos imaginar no lugar do um usuário para identificar quais as necessidades que o projeto deve possuir. </p>
+<p style="text-indent: 40px; align = "justify"> Durante esta técnica de elicitação, tentamos nos imaginar no lugar do um usuário para identificar quais as necessidades que o projeto deve possuir [1]. </p>
 
 ## 2. Requisitos Funcionais <a id="IntrospecçãoFuncional"></a>
 
