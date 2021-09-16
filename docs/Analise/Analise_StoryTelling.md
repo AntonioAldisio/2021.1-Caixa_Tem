@@ -62,7 +62,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 
 | ID| Tópico | Check|
 |:--:|:--:|:--:|
-| 01 | O documento está gramaticalmente correto? |
+| 01 | O documento está gramaticalmente correto? | (&#10004) |
 | 02 | A página está no padrão da wiki? | (&#10004) |
 | 03 | Tem tabela de versionamento? |(&#10004) |
 | 04 | Tem bibliografia? | (&#10004) |
