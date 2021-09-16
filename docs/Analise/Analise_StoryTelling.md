@@ -105,6 +105,10 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 
 </center>
 
+## 4. Conclusão
+<p style="text-indent: 40px; align="justify">
+De acordo, com o planejamento o artefato não apresentou nenhuma necessidade de alteração.
+</p>>
 
 
 ## Versionamento
