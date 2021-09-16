@@ -2,11 +2,11 @@
 
 ## 1. Introdução
 <p style="text-indent: 40px; align="justify">
-O presente documento visa verificar o artefato de <a href = "/2021.1-Caixa_Tem/PreRastreabilidade/rich_pictures/">Rich Picture</a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos atraves da técnica de Inspeção.
+O presente documento visa verificar o artefato de <a href = "/2021.1-Caixa_Tem/PreRastreabilidade/rich_pictures/">Rich Picture</a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos atraves da técnica de Inspeção. <a href="#Bibliografia">[1]</a></p>
 </p>
 
 ## 2. Planejamento 
-<p style="text-indent: 40px; align="justify">Foi utilizado um checklist para a realização da Inspeção <a href="#Bibliografia">[1]</a> :</p>
+<p style="text-indent: 40px; align="justify">Foi utilizado um checklist para a realização da Inspeção:</p>
 
 <center>
 
