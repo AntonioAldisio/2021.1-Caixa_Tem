@@ -47,7 +47,7 @@ Após a realização da inspeção, percebeu-se que, apesar da técnica ter sido
 </p>
 
 ## 5. Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 16</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 23</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
 
 ## Versionamento
 <center>

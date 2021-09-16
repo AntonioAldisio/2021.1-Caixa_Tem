@@ -12,7 +12,7 @@ O presente documento visa verificar o artefato de <a href = "/2021.1-Caixa_Tem/E
 
 | ID| Tópico |
 |:--:|:--:|
-| 01 | O documento possui introdução detalhada?? |
+| 01 | O documento possui introdução detalhada? |
 | 02 | Possui metodologia? |
 | 03 | A técnica foi aplicada corretamente? |
 | 04 | Contempla todos os requisitos elicitados? |
@@ -51,7 +51,7 @@ Após a realização da inspeção, foi possível chegar a conclusão de que o d
 </p>
 
 ## 5. Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 16</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 23</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
 
 ## Versionamento
 <center>
