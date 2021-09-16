@@ -15,16 +15,16 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 <p style="text-indent: 40px; align="justify"> Antes que fosse decidida definitivamente a escolha  do aplicativo alvo do projeto, cada integrante fez um Rich Picture de, ao menos, uma aplicação que considerava adequado para o escopo do projeto. <a href="#Bibliografia">[1][2]</a></p>
 
 
-### 1.1 Antonio Aldísio
+### 1.1 RP01 - Antonio Aldísio <a id="RP01"></a>
 
 <img width="600px"  class="center" src="../../assets/RichPicture/prototipo1_antonio.jpeg" alt="PropostaAntonio01">
 <figcaption>Figura 01 - Proposta de aplicativo - Carteira Digital de Trânsito. </figcaption>
 
-### 1.2 Ariel Serafim
+### 1.2 RP02 - Ariel Serafim <a id="RP02"></a>
 <img width="600px"  class="center" src="../../assets/RichPicture/prototipo1_ArielSerafim.png" alt="PropostaAriel01">
 <figcaption>Figura 02 - Proposta de aplicativo - CaixaTem. </figcaption>
 
-### 1.3 Fernando Calil
+### 1.3 RP03 & RP04 -Fernando Calil <a id="RP034"></a>
 <img width="800px" src="../../assets/RichPicture/prototipo1_fernando.png" alt="PropostaFernandov01">
 <figcaption>Figura 03 - Proposta de aplicativo - Youtube. </figcaption>
 
@@ -32,17 +32,17 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 <img width="800px" src="../../assets/RichPicture/prototipo2_fernando.png" alt="PropostaFernandov01">
 <figcaption>Figura 04 - Proposta de aplicativo - Meu Imposto de Renda.  </figcaption>
 
-### 1.4 Lucas Gomes
+### 1.4 RP05 - Lucas Gomes <a id="RP05"></a>
 
 <img width="800px" src="../../assets/RichPicture/richpicture_lucas.png" alt="PropostaLucasv01">
 <figcaption>Figura 05 - Proposta de aplicativo - Hemovida.  </figcaption>
 
-### 1.5 Matheus Salim
+### 1.5 RP06 - Matheus Salim <a id="RP06"></a>
 
 <img width="800px" src="../../assets/RichPicture/richpicture_pagmeia.png" alt="PropostaMatheusv01">
 <figcaption>Figura 06 - Proposta de aplicativo - PagMeia.  </figcaption>
 
-### 1.6 Ugor Costa
+### 1.6 RP07 - Ugor Costa <a id="RP07"></a>
 <img width="800px" src="../../assets/RichPicture/richpicturHemovida.png" alt="PropostaUgorv01">
 <figcaption>Figura 07 - Proposta de aplicativo - Hemovida.  </figcaption>
 
@@ -52,9 +52,12 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 
 ## 3. Rich Picture colaborativo
 
+### 3.1 RP08 - Versão 01 do Rich Picture Colaborativo <a id="RP08"></a>
 
 <img width="800px" src="../../assets/RichPicture/v01.png" alt="ColaborativoV01">
 <figcaption>Figura 08 - Rich Picture colaborativo versão 1.  </figcaption>
+
+### 3.2 RP09 - Versão 02 do Rich Picture Colaborativo <a id="RP09"></a>
 
 <img width="800px" src="../../assets/RichPicture/Richpicture_02.png" alt="ColaborativoV02">
 <figcaption>Figura 09 - Rich Picture colaborativo versão 2.  </figcaption>
@@ -78,4 +81,6 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 | 1.13 | 20/08/2021 | Inserir imagem do meu rich picture, fazer a discussão sobre o tema | Matheus Salim de Oliveira |
 | 1.14 | 21/08/2021 | Inserir imagem do meu rich picture, proposta inicial do CaixaTem | Ariel Vieria Lima Serafim |
 | 1.15 | 21/08/2021 | Inserir imagem do meu rich picture | Lucas Gomes | 
+| 1.16 | 16/09/2021 | Adição dos IDs dos Rich Pictures | Lucas Gomes | 
+
 </center>

@@ -2,21 +2,21 @@
 
 ## 1. Introdução
 <p style="text-indent: 40px; align="justify">
-O processo de Verificação confirma que o produto de software funciona de forma a refletir adequadamente os requisitos elicitados para ele. Nesse processo buscamos garantir que os artefatos feitos seguem adequadamente a proposta do modelo, ou seja, se por exemplo, os casos de uso feitos seguem a teoria proposta para o diagrama de casos de uso [1].
+O processo de Verificação confirma que o produto de software funciona de forma a refletir adequadamente os requisitos elicitados para ele. Nesse processo, buscamos garantir que os artefatos feitos seguem adequadamente a proposta do modelo, ou seja, se por exemplo, os casos de uso feitos seguem a teoria proposta para o diagrama de casos de uso [1].
 </p>
 
 
 
 ## 2. Metodologia 
 <p style="text-indent: 40px; align="justify">
-O processo de Verificação escolhido pelo grupo foi a inspeçōes. Inspeçōes é  revisões estruturada, revisão minuciosa por pessoas competentes, geralmente dirigidas por checklists de verificação de erros [1].
-Uma inspeção foi realizada sobre a documento sinalizando se determinado tópico estava sendo atendido (&#10004) ou não (&#10006) na documentação referente.
+O processo de Verificação escolhido pelo grupo foi a Inspeção. Inspeção consiste em revisões estruturadas e minuciosas por pessoas competentes, geralmente dirigidas por checklists de verificação de erros [1].
+Uma inspeção foi realizada sobre um documento sinalizando se determinado tópico estava sendo atendido (&#10004) ou não (&#10006) na documentação referente.
 </p>
 
 ## 2.1 Planejamento
 
 <p style="text-indent: 40px; align="justify">
-Nesse processo foi separado para 4 integrantes, que atuaram como inspetores, as tarefas em que fizemos o processo de verificação
+Nesse processo foi separado para 4 integrantes, que atuaram como inspetores, as tarefas em que fizemos o processo de verificação.
 </p>
 
 <center>
