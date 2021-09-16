@@ -72,8 +72,8 @@ A mudança é aplicar o padrão, O usuário deve ser capaz de , a partir do ID O
 | OF 03 | O usuário pode consultar saldo |
 | OF 04 | O usuário pode consultar o extrato |
 | OF 05 | O usuário pode realizar transferência |  
-| OF 06 | O usuário deve ser capaz de realizar verificar a situação de auxilios |
-| OF 07 | O usuário deve ser capaz de realizar sacar auxilios | 
+| OF 06 | O usuário deve ser capaz de verificar a situação de auxilios |
+| OF 07 | O usuário deve ser capaz de sacar auxilios | 
 | OF 08 | O usuário deve ser capaz de realizar  transferências |
 | OF 09 | O usuário deve ser capaz de realizar pagamentos de boletos |
 
