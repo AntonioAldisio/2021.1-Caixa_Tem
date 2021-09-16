@@ -36,7 +36,7 @@ O presente documento visa verificar o artefato de <a href = "/2021.1-Caixa_Tem/P
 |06| As setas indicam o fluxo corretamente? | (&#10004) | (&#10006) | (&#10004) | (&#10004) | (&#10004) | (&#10004) | (&#10004) | 
 |07| A fronteira do sistema está especificada? | (&#10004) | (&#10006) | (&#10004) | (&#10006) | (&#10004) | (&#10006) | (&#10004) | 
 
-### 3.1 Rich Pictures Colaborativos
+### 3.2 Rich Pictures Colaborativos
 
 <center>
 
@@ -58,7 +58,7 @@ O presente documento visa verificar o artefato de <a href = "/2021.1-Caixa_Tem/P
 Após a realização da inspeção, foram encontrados alguns erros, como a falta da fronteira de sistemas e problemas nas especificações de atores e operações, nos Rich Pictures iniciais. Porém, tais erros foram consertados na versão mais atual do Rich Picture colaborativo, após feedbacks do professor e dos monitores.
 </p>
 
-## Bibliografia <a id="Bibliografia"></a>
+## 5. Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 16</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
 
 ## Versionamento

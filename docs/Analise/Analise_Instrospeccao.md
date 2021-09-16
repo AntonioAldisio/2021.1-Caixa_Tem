@@ -27,7 +27,7 @@ O presente documento visa verificar o artefato de <a href = "/2021.1-Caixa_Tem/E
 
 <center>
 
-| ID| Tópico | Análise
+| ID| Tópico | Análise |
 |:-:|--|:-:|
 | 01 | O documento possui introdução detalhada?? |(&#10006) | 
 | 02 | O documento explica como a técnica foi executada? |(&#10006) | 
