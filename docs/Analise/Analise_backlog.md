@@ -1,4 +1,4 @@
-# Verificação do Backlog
+# Verificação do Backlog e História de Usuário
 
 
 ## 1. Introdução
@@ -57,5 +57,5 @@ Após a realização da verificação, percebeu-se que, a tecnica foi utilizada 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 13/09/2021 | Criação da página | Antônio Aldisio |
-| 2.0 | 17/09/2021 | Verificação do Backlog | Matheus Salim |
+| 2.0 | 17/09/2021 | Verificação do Backlog e História de Usuário | Matheus Salim |
 </center>
