@@ -42,6 +42,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 | 10 | Os resultados estão bem explicados ao leitor da Wiki ? | (&#10006) |
 | 11 | Os resultados encontrados pela tecnica, são claramente ligados aos requisitos elicitados ? | (&#10004) |
 </center>
+
 ## 4. Pequena correção
 
 <center>
