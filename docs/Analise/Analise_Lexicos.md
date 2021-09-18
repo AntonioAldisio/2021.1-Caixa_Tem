@@ -9,7 +9,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 
 <center>
 
-| ID| Tópico | Análise |
+| ID| Tópico | 
 |:--:|:--:|
 | 01 | O documento está gramaticalmente correto? |
 | 02 | A página está no padrão da wiki? |
@@ -64,7 +64,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 ## 3. Verificação 
 <center>
 
-| ID| Tópico |
+| ID| Tópico | Análise |
 |:--:|:--:|:--:|
 | 01 | O documento está gramaticalmente correto?| (&#10004) | 
 | 02 | A página está no padrão da wiki? | (&#10004) | 
@@ -114,6 +114,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 | 46 | O Lexico L11 tem a sua Noção ?| (&#10004) | 
 | 47 | O Lexico L11 tem o Impacto ?| (&#10004) | 
 | 48 | O Lexico L11 tem a Classificação ?| (&#10004) | 
+
 </center>
 
 ## 4. Conclusão

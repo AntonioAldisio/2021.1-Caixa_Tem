@@ -23,6 +23,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 | 10 | O diagrama tem o fluxo principal ? |
 | 11 | O diagrama tem os fluxos alternativos ? |
 | 12 | O diagrama tem os fluxos de exceção? |
+
 </center>
 
 ## 3. Analise 
@@ -53,7 +54,7 @@ Isso foi corrigido e foi acrescentado uma nova versão do diagrama de casos de u
 
 <center>
 
-| ID| Tópico |
+| ID| Tópico | Análise |
 |:--:|:--:|:--:|
 | 01 | O documento está gramaticalmente correto? | (&#10004) | 
 | 02 | A página está no padrão da wiki? | (&#10004) | 
