@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 <p style="text-indent: 40px; align="justify">
-O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/Modelagem/CasoUso/">brainstorm </a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos atraves da técnica de inspeçōes.
+O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/Modelagem/CasoUso/">Casos de Uso </a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos atraves da técnica de inspeçōes.
 </p>
 
 ## 2. Planejamento 
