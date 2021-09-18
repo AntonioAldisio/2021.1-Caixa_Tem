@@ -29,7 +29,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 
 <center>
 
-| ID| Tópico |
+| ID| Tópico | Análise |
 |:--:|:--:|:--:|
 | 01 | O documento está gramaticalmente correto? | (&#10004) | 
 | 02 | A página está no padrão da wiki? | (&#10004) | 
