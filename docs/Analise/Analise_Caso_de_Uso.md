@@ -48,7 +48,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 
 ## 4. Correções
 <p style="text-indent: 40px; align="justify">
-A inspeção mostrou um erro, o item 09, referente às especificações, não foi cumprido corretamente pois ocorreu inversões nos sentidos das setas de <<include>> e <<extend>>.
+A inspeção mostrou um erro, o item 09, referente às especificações, não foi cumprido corretamente pois ocorreu inversões nos sentidos das setas de << include >> e << extend >>.
 Isso foi corrigido e foi acrescentado uma nova versão do diagrama de casos de uso.
 </p>
 
