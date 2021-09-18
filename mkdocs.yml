@@ -85,7 +85,7 @@ nav:
       - Elicitação:
         - Técnicas de Elicitação:
           - Brainstorming: 'Analise/Analise_Brainstorming.md'
-          - Entrvista: 'Analise/Analise_Entrvista.md'
+          - Entrevista: 'Analise/Analise_Entrvista.md'
           - StoryTelling: 'Analise/Analise_StoryTelling.md'
           - Observação: 'Analise/Analise_Observacao.md'
           - Questionário: 'Analise/Analise_Questionario.md'
@@ -102,7 +102,7 @@ nav:
         - Ágil:
           - Backlog: 'Analise/Analise_backlog.md'
     - Validação:
-      - Introdução: 'Analise/Analise_modelo_validacao.md'
+      - Validação Informal: 'Analise/Analise_Validacao_informal.md'
       - Prototipagem: 'Analise/Analise_prototipagem.md'      
       
      

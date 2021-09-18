@@ -68,7 +68,10 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 
 ### 3.1 Diagrama NFR Geral
 
-<img src="../../assets/Images/GeralNFR.png" alt="Diagrama NFR Geral do Aplicativo">
+<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=10Ar059kp4twLkZS1wsqccC7gF2nnj-NU&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D10Ar059kp4twLkZS1wsqccC7gF2nnj-NU%26export%3Ddownload"></script>
+</body>
+
 
 #### 3.1.1 Diagrama NFR Usabilidade
 
@@ -90,7 +93,9 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 
 ### 3.2 Diagrama NFR com propagação
 
-<img src="../../assets/Images/GeralNFRProparacao.png" alt="Diagrama NFR Geral com Propagação">
+<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1F3YoQ53RVfEjkFG5GN2hRr_echq7PDQg&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1F3YoQ53RVfEjkFG5GN2hRr_echq7PDQg%26export%3Ddownload"></script>
+</body>
 
 #### 3.2.1 Diagrama NFR com propagação da Eficácia
 
