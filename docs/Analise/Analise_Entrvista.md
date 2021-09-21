@@ -44,7 +44,7 @@ O presente documento visa verificar o artefato de <a href = "/2021.1-Caixa_Tem/d
 ## 4. Conclusão
 
 <p style="text-indent: 40px; align="justify">
-Após a realização da verificação, percebeu-se que, a tecnica foi utilizada corretamente e apresentado os devidos requitos para tal. Referências textuais não cometem para tal técnica.
+Após a realização da verificação, percebeu-se quea técnica foi utilizada corretamente e apresentado os devidos requitos para tal. Referências textuais não cometem para tal técnica.
 </p>
 
 ## 5. Bibliografia <a id="Bibliografia"></a>

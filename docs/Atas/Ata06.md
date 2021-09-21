@@ -42,11 +42,11 @@
 
 | Sprint | Atividade | Data entrega | Responsavél | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-| 06 | Verificação: RichPictures, Introspecção, MoSCoW, NFR  | 17/09 |  Lucas Gomes | --- |
-| 06 | Verificação: Observação, StoryTelling, Cenários, Especificação Suplementar | 17/09 | Antônio Aldisio | --- |
-| 06 | Verificação: Questionário, Brainstorming, Léxicos, Caso de Uso | 17/09 | Ariel Serafim | --- |
-| 06 | Verificação: Entrevista, Análise de Documentos, Backlog e Histórias de Usuário, Gráfico de Esforço Tempo | 17/09 | Matheus Salim | --- |
-| 06 | Validação: Validação Informal, Protótipo de Média fidelidade | 17/09 | Ugor Costa, Fernando Calil | --- |
+| 06 | Verificação: RichPictures, Introspecção, MoSCoW, NFR  | 17/09 |  Lucas Gomes | Fernando Calil |
+| 06 | Verificação: Observação, StoryTelling, Cenários, Especificação Suplementar | 17/09 | Antônio Aldisio | Ariel Serafim |
+| 06 | Verificação: Questionário, Brainstorming, Léxicos, Caso de Uso | 17/09 | Ariel Serafim | Lucas Gomes |
+| 06 | Verificação: Entrevista, Análise de Documentos, Backlog e Histórias de Usuário, Gráfico de Esforço Tempo | 17/09 | Matheus Salim | Lucas Gomes |
+| 06 | Validação: Validação Informal, Protótipo de Média fidelidade | 17/09 | Ugor Costa, Fernando Calil | Antônio Aldisio |
 
 </center>
 
