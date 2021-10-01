@@ -22,11 +22,11 @@
 
 ## 5 Discussões
 
-### 5.1 Feedback da sprint 05.
+### 5.1 Feedback da sprint 06.
 <p style="text-indent: 40px; align="justify"> Os membros presentes apresentaram feedback positivo sobre a execução da Sprint anterior. Foram identificados alguns pontos de melhoria no projeto, levantados pelo professor e monitores, em alguns artefatos, como o NFR Framework e o Backlog do Produto.</p>
 
 
-### 5.2 Divisão de atividades do ponto de controle 5.
+### 5.2 Divisão de atividades do ponto de controle 6.
 <p style="text-indent: 40px; align="justify"> Os integrantes decidiram que os artefatos a serem realizados na sexta entrega seriam as matrizes Forward-From e Backward-From. 4 membros ficaram responsáveis pela matriz Forward-From e 2 membros pela matriz Backward-From.</p>  
 
 ## 6. Backlog da Sprint
