@@ -5,7 +5,7 @@
 Para a Entrevista, organizei as perguntas no formato 'diamante', em que se incia com perguntas fechadas, passa para uma etapa de perguntas abertas, e termina com perguntas fechadas. 
 O objetivo é iniciar contextualizando o entrevistado e então buscar informações mais subjetivas, com o intuito de se encontrar requisitos não funcionais.
 
-## 2. Esqueme Diamante
+## 2. Esquema Diamante
 
 <img width="800px" src="../../../assets/imgs/ObjetivosEntrevista.png" alt="Organização da Entrevista">
 <figcaption>Figura 01 - Organização da entrevista no estilo diamante </figcaption>
