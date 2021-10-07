@@ -57,7 +57,7 @@
 </center>
 
 
-## 4. Requisitos Não - Funcionais
+## 3. Requisitos Não - Funcionais
 
 <center>
 
@@ -81,7 +81,7 @@
 </center>
 
 
-## Bibliografia <a id="Bibliografia"></a>
+## 4. Bibliografia <a id="Bibliografia"></a>
 
 [Davis, 93] - Davis, A. M., **Software Requirements: Objects, Functions and States**. Englewood Cliffs, New Jersey: Prentice Hall. 1993.  
 [Leite, 2005] - LEITE, J. C. S. D. P; SAYÃO, Miriam. **Rastreabilidade de Requisitos**. Rio de Janeiro. Maio/2005.
