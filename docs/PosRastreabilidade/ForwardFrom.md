@@ -57,20 +57,22 @@ e implementação.<a href="#Bibliografia">[1]</a><br></p>
 
 | ID | Requisito | Léxicos | NFR | Especificação Suplementar |
 |:-:|--|:-:|:-:|:-:|
-| RNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional |-|-|-| 
-| RNF 02 | O sistema deve recusar o acesso de pessoas não autorizadas |-|-|-| 
-| RNF 03 | As funcionalidades devem se parecer com uma conversa (chatbot) |-|-|-| 
-| RNF 04 | O aplicativo não pode ter grande espaço de armazenamento. |-|-|-|
-| RNF 05 | O aplicativo não pode ficar indisponível por mais que 10 minutos por dia. |-|-|-| 
-| RNF 06 | O aplicativo não pode apresentar dados de cunho privativo que não seja do próprio usuário. |-|-|-| 
-| RNF 07 | O usuários devem conseguir encontrar a funcionalidade desejada em menos que três clicks. |-|-|-|
-| RNF 08 | O aplicativo deve se comunicar com o banco de dados.|-|-|-| 
-| RNF 09 | O aplicativo deve proteger os dados dos usuários.|-|-|-| 
-| RNF 10 | O aplicativo deve ser desenvolvido em uma linguagem que tenha uma comunidade ativa e/ou que não tenha previsão de descontinuade da linguagem nos próximos 5 anos.|-|-|-| 
-| RNF 11 | O usuário não pode ficar mais de 15 minutos em fila para acessar o aplicativo. |-|-|-|
-| RNF 12 | O sistema deve ser acessível para Pessoas com Deficiência (PcD) |-|-|-| 
-| RNF 13 | 	O código de segurança gerado para realizar compras com cartão de débito virtual deve ser válido para apenas uma compra |-|-|-| 
-| RNF 14 | 	Ter a opção de guia para primeiro acesso |-|-|-| 
+| RNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional |-|[Eficiência](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-eficiencia)|[Suportabilidade](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#34-suportabilidade)| 
+| RNF 02 | O sistema deve recusar o acesso de pessoas não autorizadas |[L09](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l09-login)|[Eficiência](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-eficiencia)|-| 
+| RNF 03 | As funcionalidades devem se parecer com uma conversa (chatbot) |-|[Eficácia](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#321-diagrama-nfr-com-propagacao-da-eficacia) |[Usabilidade](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#31-usabilidade)| 
+| RNF 04 | O aplicativo não pode ter grande espaço de armazenamento. |-|-|[Desempenho](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#33-desempenho)|
+| RNF 05 | O aplicativo não pode ficar indisponível por mais que 10 minutos por dia. |-|[Satisfação](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-satisfacao)|[Disponibilidade](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#321-disponibilidade)| 
+| RNF 06 | O aplicativo não pode apresentar dados de cunho privativo que não seja do próprio usuário. |[L01](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l01-conta)|[Eficiência](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-eficiencia)|[Privacidade dos Dados](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#322-privacidade-dos-dados)| 
+| RNF 07 | O usuários devem conseguir encontrar a funcionalidade desejada em menos que três clicks. |-|[Satisfação](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-satisfacao)|[Usabilidade](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#31-usabilidade)|
+| RNF 08 | O aplicativo deve se comunicar com o banco de dados.|-|[Segurança](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-eficiencia)|-| 
+| RNF 09 | O aplicativo deve proteger os dados dos usuários.|[L01](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l01-conta)|[Eficiência](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-eficiencia)|[Privacidade dos Dados](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#322-privacidade-dos-dados)| 
+| RNF 10 | O aplicativo deve ser desenvolvido em uma linguagem que tenha uma comunidade ativa e/ou que não tenha previsão de descontinuade da linguagem nos próximos 5 anos.|-|[Disponibilidade](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-satisfacao)|-| 
+| RNF 11 | O usuário não pode ficar mais de 15 minutos em fila para acessar o aplicativo. |-|[Satisfação](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-satisfacao)|-|
+| RNF 12 | O sistema deve ser acessível para Pessoas com Deficiência (PcD) |-|[Acessibilidade](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#321-diagrama-nfr-com-propagacao-da-eficacia)|[Usabilidade](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#31-usabilidade)| 
+| RNF 13 | 	O código de segurança gerado para realizar compras com cartão de débito virtual deve ser válido para apenas uma compra |-|[Segurança](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#322-diagrama-nfr-com-propagacao-da-eficiencia)|-| 
+| RNF 14 | 	Ter a opção de guia para primeiro acesso |-|[Eficácia](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/NFR_Framework/#321-diagrama-nfr-com-propagacao-da-eficacia)|[Usabilidade](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Especificacao/#31-usabilidade)| 
+
+</center>
 
 ## 4. Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 26</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.</p>
@@ -82,6 +84,7 @@ e implementação.<a href="#Bibliografia">[1]</a><br></p>
 |--|--|--|--|
 | 1.0 | 05/10/2021 | Criação do página | Lucas Gomes |
 | 2.0 | 07/10/2021 | Adição da Matriz | Lucas Gomes |
+| 3.0 | 07/10/2021 | Adição co conteúdo da matriz de requisitos não-funcionais | Lucas Gomes |
 
 
 </center>
