@@ -10,7 +10,7 @@
       
       
       <link rel="icon" href="../../assets/Images/icon2.png">
-      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.4">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.2">
     
     
       
@@ -18,10 +18,10 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.f7f47774.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.1118c9be.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ba0d045b.min.css">
         
       
     
@@ -1648,6 +1648,27 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#2-requisitos-funcionais" class="md-nav__link">
+    2. Requisitos Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-requisitos-nao-funcionais" class="md-nav__link">
+    4. Requisitos Não - Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia 
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#versionamento" class="md-nav__link">
     Versionamento
   </a>
@@ -1701,6 +1722,27 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#2-requisitos-funcionais" class="md-nav__link">
+    2. Requisitos Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-requisitos-nao-funcionais" class="md-nav__link">
+    4. Requisitos Não - Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia 
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#versionamento" class="md-nav__link">
     Versionamento
   </a>
@@ -1722,6 +1764,333 @@
                 
                 <h1 id="matriz-backward-from">Matriz Backward-From</h1>
 <h2 id="1-introducao">1. Introdução</h2>
+<p style="text-indent: 40px; align="justify"> A rastreabilidade de requisitos pode ser vista como a habilidade de acompanhar e descrever a vida de um requisito <a href="#Bibliografia">(Davis, 93)</a>. Assim a rastreabilidade de um requisito pode ser representada em duas direções, para frente, onde se ligam os documentos obtidos na elicitação aos requisitos relevantes, e para trás, que liga os requisitos às suas fontes.<a href="#Bibliografia">(Leite, 2005)</a>
+</p>
+<p style="text-indent: 40px; align="justify"> Nesta página trataremos da ratreabilidade backwars-from(para trás), onde representamos todos os requisitos elencados para o produto de software analisado, e ligamos esses resultados às técnicas que deram origem a eles. </p>
+
+<p style="text-indent: 40px; align="justify"> A tabela que representa a rastreabilidade contém três colunas, ID que lista os códigos associados aos requisitos, sendo RF para Requisitos Funcionais, e RNF para Requisitos Não-Funcionais, a coluna de requisito, onde são listados os requisitos do produto, e por fim a coluna de origem, onde são listadas as técnicas que deram origem aquele requisito, nesta são atribuídos códigos que correspondem a cada categoria, estas representações são descritas na <a href="#Legenda">Figura 01</a>.</p>
+
+<p><a id="Legenda"></a></p>
+<Figure>
+    <img class="legenda" src="../../assets/Images/legenda.png" alt="Legenda dos Requisitos">
+    <figcaption>Figura 01 - Legenda da rastreabilidade. </figcaption>
+</Figure>
+
+<h2 id="2-requisitos-funcionais">2. Requisitos Funcionais</h2>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th align="center">ID</th>
+<th align="center">Requisito</th>
+<th align="center">Origem</th>
+<th align="center"><a href="../Priorizacao/moscow/">Priorização</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">RF 01</td>
+<td align="center">O usuário deve ser capaz de realizar cadastro</td>
+<td align="center"><a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF01</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF1</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF01</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 02</td>
+<td align="center">O usuário deve ser capaz de realizar login</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF01</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF02</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF02</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF02</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 03</td>
+<td align="center">O usuário pode realizar pagamentos</td>
+<td align="center"><a href="../Tecnicas/storytelling#StorytellingFuncional">SF08</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF03</a></td>
+<td align="center">SHOULD</td>
+</tr>
+<tr>
+<td align="center">RF 04</td>
+<td align="center">O usuário pode realizar pagamentos via boletos</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioFuncional">QF06</a>, <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF06</a>, <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF04</a></td>
+<td align="center">SHOULD</td>
+</tr>
+<tr>
+<td align="center">RF 05</td>
+<td align="center">O usuário pode realizar pagamentos via PIX</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF05</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF09</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 06</td>
+<td align="center">O usuário tem que ser capaz de pagar praticamente qualquer tipo de conta nas Unidades Lotéricas</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF16</a></td>
+<td align="center">SHOULD</td>
+</tr>
+<tr>
+<td align="center">RF 07</td>
+<td align="center">O usuário pode consultar saldo</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioFuncional">QF02</a>, <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF05</a>, <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF03</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF06</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF04</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF03</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 08</td>
+<td align="center">O usuário pode consultar o extrato</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioFuncional">QF03</a>, <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF02</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF07</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF05</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF04</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 09</td>
+<td align="center">O sistema deve gerar cartão de débito virtual</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioFuncional">QF08</a>, <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF08</a>, <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF19</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF06</a></td>
+<td align="center">SHOULD</td>
+</tr>
+<tr>
+<td align="center">RF 10</td>
+<td align="center">O usuário poderá sacar dinheiro em qualquer caixa eletrônico da caixa.</td>
+<td align="center"><a href="../Tecnicas/entrevista#EntrevistaFuncional">EF03</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF09</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF07</a></td>
+<td align="center">WOULD</td>
+</tr>
+<tr>
+<td align="center">RF 11</td>
+<td align="center">O sistema deve gerar código para saque</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioFuncional">QF05</a>, <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF08</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF07</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 12</td>
+<td align="center">O usuário deve ser capaz de comprar na maquininha com QR code</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioFuncional">QF07</a>, <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF07</a>, <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF09</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF08</a></td>
+<td align="center">WOULD</td>
+</tr>
+<tr>
+<td align="center">RF 13</td>
+<td align="center">O usuário pode consultar informe de rendimentos</td>
+<td align="center"><a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF09</a></td>
+<td align="center">WOULD</td>
+</tr>
+<tr>
+<td align="center">RF 14</td>
+<td align="center">O usuário pode realizar transferências</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioFuncional">QF01</a>, <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF04</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF10</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF05</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF08</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 15</td>
+<td align="center">O usuário tem que ser capaz de realizar transferência via TED/DOC</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF06</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 16</td>
+<td align="center">O usuário tem que ser capaz de realizar transferência via pix</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF07</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 17</td>
+<td align="center">O usuário pode consultar comprovantes</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF20</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF11</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 18</td>
+<td align="center">O usuário pode receber o seguro desemprego pelo app</td>
+<td align="center"><a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF12</a></td>
+<td align="center">SHOULD</td>
+</tr>
+<tr>
+<td align="center">RF 19</td>
+<td align="center">O usuário tem que ser capaz de validar o dispositivo</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF11</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 20</td>
+<td align="center">O usuário tem que ser capaz de consultar Auxílio Emergencial</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF12</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 21</td>
+<td align="center">O usuário tem que ser capaz de consultar BEm</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF13</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 22</td>
+<td align="center">O usuário tem que ser capaz de consultar FGTS Emergencial</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF14</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 23</td>
+<td align="center">O usuário tem que ser capaz de consultar Bolsa Família</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF15</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 24</td>
+<td align="center">O usuário pode realizar recarga de celular</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF17</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF13</a></td>
+<td align="center">WOULD</td>
+</tr>
+<tr>
+<td align="center">RF 25</td>
+<td align="center">O usuário pode fazer recarga de transporte</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF23</a>, <a href="../Tecnicas/brainstorm#BrainstormingFuncional">BF14</a></td>
+<td align="center">WOULD</td>
+</tr>
+<tr>
+<td align="center">RF 26</td>
+<td align="center">O usuário tem que ser capaz de fazer recarga no aplicativo</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF22</a></td>
+<td align="center">WOULD</td>
+</tr>
+<tr>
+<td align="center">RF 27</td>
+<td align="center">O usuário tem que ser capaz de acessar as informaçōes do NIS</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF21</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 28</td>
+<td align="center">O usuário tem que ser capaz de movimentar sua conta poupança social digital na CAIXA</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF18</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 30</td>
+<td align="center">O usuário poderá checar se está elegível a receber auxílio emergencial.</td>
+<td align="center"><a href="../Tecnicas/storytelling#StorytellingFuncional">SF03</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF10</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 31</td>
+<td align="center">O usuário pode checar o estado do seu auxílio emergencial.</td>
+<td align="center"><a href="../Tecnicas/entrevista#EntrevistaFuncional">EF02</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF04</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF06</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 32</td>
+<td align="center">O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado.</td>
+<td align="center"><a href="../Tecnicas/storytelling#StorytellingFuncional">SF05</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RF 33</td>
+<td align="center">O usuário terá opção de contratar seguro apoio família.</td>
+<td align="center"><a href="../Tecnicas/storytelling#StorytellingFuncional">SF11</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RF 34</td>
+<td align="center">O usuário terá opção de Selecionar funções favoritas.</td>
+<td align="center"><a href="../Tecnicas/entrevista#EntrevistaFuncional">EF01</a></td>
+<td align="center">WOULD</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<h2 id="4-requisitos-nao-funcionais">4. Requisitos Não - Funcionais</h2>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th align="center">ID</th>
+<th align="center">Requisito</th>
+<th align="center">Origem</th>
+<th align="center">Priorização</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">RNF 01</td>
+<td align="center">O aplicativo deve ter compatibilidade com qualquer sistema operacional</td>
+<td align="center"><a href="../Tecnicas/brainstorm#BrainstormingNFuncional">BNF01</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RNF 02</td>
+<td align="center">O sistema deve recusar o acesso de pessoas não autorizadas</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoNFuncional">INF04</a>, <a href="../Tecnicas/brainstorm#BrainstormingNFuncional">BNF02</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RNF 03</td>
+<td align="center">As funcionalidades devem se parecer com uma conversa (chatbot)</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioNFuncional">QNF03</a>, <a href="../Tecnicas/storytelling#StorytellingNFuncional">SNF02</a>, <a href="../Tecnicas/brainstorm#BrainstormingNFuncional">BNF04</a></td>
+<td align="center">COULD</td>
+</tr>
+<tr>
+<td align="center">RNF 04</td>
+<td align="center">O aplicativo não pode ter grande espaço de armazenamento.</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoNFuncional">INF01</a></td>
+<td align="center">SHOULD</td>
+</tr>
+<tr>
+<td align="center">RNF 05</td>
+<td align="center">O aplicativo não pode ficar indisponível por mais que 10 minutos por dia.</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoNFuncional">INF02</a>, <a href="../Tecnicas/storytelling#StorytellingNFuncional">SNF03</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RNF 06</td>
+<td align="center">O aplicativo não pode apresentar dados de cunho privativo que não seja do próprio usuário.</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoNFuncional">INF03</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RNF 07</td>
+<td align="center">O usuários devem conseguir encontrar a funcionalidade desejada em menos que três clicks.</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoNFuncional">INF05</a></td>
+<td align="center">SHOULD</td>
+</tr>
+<tr>
+<td align="center">RNF 08</td>
+<td align="center">O aplicativo deve se comunicar com o banco de dados.</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoNFuncional">INF06</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RNF 09</td>
+<td align="center">O aplicativo deve proteger os dados dos usuários.</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioNFuncional">QNF01</a>, <a href="../Tecnicas/inpeccao#IntrospecçãoNFuncional">INF07</a>, <a href="../Tecnicas/storytelling#StorytellingNFuncional">SNF05</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RNF 10</td>
+<td align="center">O aplicativo deve ser desenvolvido em uma linguagem que tenha uma comunidade ativa e/ou que não tenha previsão de descontinuade da linguagem nos próximos 5 anos.</td>
+<td align="center"><a href="../Tecnicas/inpeccao#IntrospecçãoNFuncional">INF08</a></td>
+<td align="center">SOULD</td>
+</tr>
+<tr>
+<td align="center">RNF 11</td>
+<td align="center">O usuário não pode ficar mais de 15 minutos em fila para acessar o aplicativo.</td>
+<td align="center"><a href="../Tecnicas/storytelling#StorytellingNFuncional">SNF01</a></td>
+<td align="center">SHOULD</td>
+</tr>
+<tr>
+<td align="center">RNF 12</td>
+<td align="center">O sistema deve ser acessível para Pessoas com Deficiência (PcD)</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioNFuncional">QNF02</a>, <a href="../Tecnicas/entrevista#EntrevistaNFuncional">ENF02</a>, <a href="../Tecnicas/brainstorm#BrainstormingNFuncional">BNF03</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RNF 13</td>
+<td align="center">O código de segurança gerado para realizar compras com cartão de débito virtual deve ser válido para apenas uma compra</td>
+<td align="center"><a href="../Tecnicas/questionario#QuestionarioNFuncional">QNF04</a></td>
+<td align="center">MUST</td>
+</tr>
+<tr>
+<td align="center">RNF 14</td>
+<td align="center">Ter a opção de guia para primeiro acesso</td>
+<td align="center"><a href="../Tecnicas/entrevista#EntrevistaNFuncional">ENF03</a>, <a href="../Tecnicas/observacao#ObservaçãoNFuncional">ONF01</a></td>
+<td align="center">COULD</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<h2 id="bibliografia">Bibliografia <a id="Bibliografia"></a></h2>
+<p>[Davis, 93] - Davis, A. M., <strong>Software Requirements: Objects, Functions and States</strong>. Englewood Cliffs, New Jersey: Prentice Hall. 1993.<br />
+[Leite, 2005] - LEITE, J. C. S. D. P; SAYÃO, Miriam. <strong>Rastreabilidade de Requisitos</strong>. Rio de Janeiro. Maio/2005.</p>
 <h2 id="versionamento">Versionamento</h2>
 <p><center></p>
 <table>
@@ -1739,6 +2108,12 @@
 <td>05/10/2021</td>
 <td>Criação do página</td>
 <td>Lucas Gomes</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>07/10/2021</td>
+<td>Construção de Conteúdo</td>
+<td>Fernando Calil</td>
 </tr>
 </tbody>
 </table>
@@ -1801,7 +2176,7 @@
     <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.febc23d1.min.js"></script>
+      <script src="../../assets/javascripts/bundle.2b46852b.min.js"></script>
       
     
   </body>
