@@ -26,26 +26,26 @@ e implementação.<a href="#Bibliografia">[1]</a><br></p>
 | RF 10 | O usuário poderá sacar dinheiro em qualquer caixa eletrônico da caixa |-|-|-|-|
 | RF 11 | O sistema deve gerar código para saque |-|-|-|-|
 | RF 12 | O usuário deve ser capaz de comprar na maquininha com QR code |-|-|-|-|
-| RF 13 | O usuário pode consultar informe de rendimentos |-|-|-|-|
-| RF 14 | O usuário pode realizar transferências |-|-|-|-|
-| RF 15 | O usuário tem que ser capaz de realizar transferência via TED/DOC  |-|-|-|-|
-| RF 16 | O usuário tem que ser capaz de realizar transferência via pix |-|-|-|-| 
-| RF 17 | O usuário pode consultar comprovantes |-|-|-|-|
-| RF 18 | O usuário pode receber o seguro desemprego pelo app |-|-|-|-|
-| RF 19 | O usuário tem que ser capaz de validar o dispositivo |-|-|-|-|
-| RF 20 | O usuário tem que ser capaz de consultar Auxílio Emergencial |-|-|-|-|
-| RF 21 | O usuário tem que ser capaz de consultar BEm |-|-|-|-|
-| RF 22 | O usuário tem que ser capaz de consultar FGTS Emergencial |-|-|-|-|
-| RF 23 | O usuário tem que ser capaz de consultar Bolsa Família |-|-|-|-|
-| RF 24 | O usuário pode realizar recarga de celular |-|-|-|-|
-| RF 25 | O usuário pode fazer recarga de transporte |-|-|-|-|
+| RF 13 | O usuário pode consultar informe de rendimentos |[C05](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c06-consultar-programas-sociais)|[L08](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l08-rendimento)|-|[US014](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US014/)|
+| RF 14 | O usuário pode realizar transferências |[C10](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c10-realizar-transferencias)|[L11](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l11-transferir)|[3.2.5](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/CasoUso/#325-transferir-dinheiro)|[US016](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US016/)[US015](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US015/)|
+| RF 15 | O usuário tem que ser capaz de realizar transferência via TED/DOC  |-|[L11](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l11-transferir)|[3.2.5](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/CasoUso/#325-transferir-dinheiro)|[US016](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US016/)|
+| RF 16 | O usuário tem que ser capaz de realizar transferência via pix |[C17](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c17-realizar-pagamentos-com-pix)|[L06](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l06-pix)|[3.2.7](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/CasoUso/#327-pix)|[US015](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US015/)| 
+| RF 17 | O usuário pode consultar comprovantes |[C07](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c07-consultar-comprovantes)|[L02](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l02-comprovante)|-|[US012](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US012/)|
+| RF 18 | O usuário pode receber o seguro desemprego pelo app |[L03](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l03-seguro)|-|-|-|
+| RF 19 | O usuário tem que ser capaz de validar o dispositivo |-|-|-|[US04](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US04/)|
+| RF 20 | O usuário tem que ser capaz de consultar Auxílio Emergencial |[C06](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c06-consultar-programas-sociais)|-|-|[US06](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US06/)|
+| RF 21 | O usuário tem que ser capaz de consultar BEm |[C06](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c06-consultar-programas-sociais)|-|-|[US07](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US07/)|
+| RF 22 | O usuário tem que ser capaz de consultar FGTS Emergencial |-|-|-|[US08](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US08/)|
+| RF 23 | O usuário tem que ser capaz de consultar Bolsa Família |[C06](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c06-consultar-programas-sociais)|-|-|-|
+| RF 24 | O usuário pode realizar recarga de celular |[C08](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c08-recarga-de-celular)|-|-|[US024](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US024/)|
+| RF 25 | O usuário pode fazer recarga de transporte |[C11](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c11-fazer-recarga-de-transporte)|-|-|-|
 | RF 26 | O usuário tem que ser capaz de fazer recarga no aplicativo |-|-|-|-|
-| RF 27 | O usuário tem que ser capaz de acessar as informaçōes do NIS |-|-|-|-|
-| RF 28 | O usuário tem que ser capaz de movimentar sua conta poupança social digital na CAIXA |-|-|-|-|
+| RF 27 | O usuário tem que ser capaz de acessar as informaçōes do NIS |[C06](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c06-consultar-programas-sociais)|-|-|-|
+| RF 28 | O usuário tem que ser capaz de movimentar sua conta poupança social digital na CAIXA |[L01](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Lexicos/#l01-conta)|-|-|-|
 | RF 30 | O usuário poderá checar se está elegível a receber auxílio emergencial. |-|-|-|-| 
-| RF 31 | O usuário pode checar o estado do seu auxílio emergencial. |-|-|-|-|
-| RF 32 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado |-|-|-|-|
-| RF 33 | O usuário terá opção de contratar seguro apoio família |-|-|-|-|
+| RF 31 | O usuário pode checar o estado do seu auxílio emergencial. |[C06](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c06-consultar-programas-sociais)|-|-|-|
+| RF 32 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado |[C06](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c06-consultar-programas-sociais)|-|-|-|
+| RF 33 | O usuário terá opção de contratar seguro apoio família |[C12](https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Modelagem/Cenarios/#c12-contratar-seguro-apoio-familia)|-|-|-|
 | RF 34 | O usuário terá opção de Selecionar funções favoritas |-|-|-|-|
 
 </center>
