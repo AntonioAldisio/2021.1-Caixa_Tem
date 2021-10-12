@@ -52,10 +52,10 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 | 6 | 04/09 | 10/09 | Finalização dos artefatos de História de Usuário, Backlog  e NFR Framework | 
 | 7 | 11/09 | 17/09 | Verificação e Validação dos artefados construidos pela equipe | 
 | 8 | 18/09 | 24/09 | ---------- | 
-| 9 | 25/09 | 01/10 | ---------- | 
-| 10 | 02/10 | 08/10 | ---------- | 
-| 11 | 09/10 | 15/10 | ---------- | 
-| 12 | 16/10 | 20/10 | ---------- | 
+| 9 | 25/09 | 01/10 | Pós-Rastreabilidade 1 | 
+| 10 | 02/10 | 08/10 | Pós-Rastreabilidade 2 | 
+| 11 | 09/10 | 15/10 | Revisão do Conteúdo da wiki | 
+| 12 | 16/10 | 20/10 | Melhorias e preparação da apresentação final | 
 
 <figcaption>Tabela 2 - Cronograma das sprints </figcaption>
 </center>
@@ -129,5 +129,6 @@ Apos breve discussão o grupo optou pelo aplicativo <strong>Caixa Tem</strong>.
 | 1.05 | 08/08/2021 | Ajuste de texto<br> Adicionada referência teórica | Fernando Calil |
 | 1.06 | 26/08/2021 | Adicionada ferramenta de criação da apresentação. Adaptação e atualização do cronograma. | Fernando Calil |
 | 1.07 | 11/09/2021 | Atualização do Cronograma de sprints de acordo com o andamento do projeto. | Fernando Calil |
+| 1.08 | 11/10/2021 | Atualização do Cronograma de sprints de acordo com o andamento do projeto. | Fernando Calil |
 
 </center>
