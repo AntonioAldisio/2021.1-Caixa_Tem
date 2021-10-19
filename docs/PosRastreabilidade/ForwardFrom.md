@@ -3,12 +3,38 @@
 ## 1. Introdução
 
 <p style="text-indent: 40px; align="justify">Rastreabilidade é uma característica de sistemas, nos quais requisitos são claramente ligados às
-suas fontes bem como aos artefatos criados durante o ciclo de vida de desenvolvimento do sistema. Pode ser dividida em Pré-Rastreabilidade e Pós-Rastreabilidade.</p>
+suas fontes bem como aos artefatos criados durante o ciclo de vida de desenvolvimento do sistema. Um elo é estabelecido entre as mudanças realizadas diante das necessidades dos usuários.Pode ser dividida em Pré-Rastreabilidade e Pós-Rastreabilidade.</p>
 <p style="text-indent: 40px; align="justify">A Pós-Rastreabilidade consiste em requisitos sendo ligados a artefatos que são criados durante o ciclo de vida de
 desenvolvimento do sistema.</p>
 <p style="text-indent: 40px; align="justify">A técnica de Pós-Rastreabilidade Forward-Form visa ligar requisitos a artefatos de desenho 
 e implementação.<a href="#Bibliografia">[1]</a><br></p>
 
+### 1.1 Elos de Rastreabilidade
+
+<p style="text-indent: 40px; align="justify">Os elos de rastreabilidade deixam evidentes as correlações entre código e demais
+artefatos, sejam de desenho e/ou de requisitos.</p>
+<p style="text-indent: 40px; align="justify">O Meta-modelo de Toranzo permite debater sobre os elos de rastreabilidade. Nesse modelo, as informações a serem rastreadas devem ser classificadas em quatro níveis: <a href="#Bibliografia">[1]</a></p>
+<p style="text-indent: 40px; align="justify">
+<ul>
+    <li><strong>Ambiental:</strong> informações oriundas do contexto no qual a organização está inserida;</li>
+    <li><strong>Organizacional:</strong> informações pertencentes à organização (missão, objetivos e estratégias);</li>
+    <li><strong>Gerencial:</strong> informações que auxiliam a gerência do projeto;</li>
+    <li><strong>Desenvolvimento:</strong> informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros).</li>
+</ul>
+</p>
+
+<p style="text-indent: 40px; align="justify">E os principais elos de rastreabilidade são: <a href="#Bibliografia">[1]</a></p>
+<p style="text-indent: 40px; align="justify">
+<ul>
+    <li><strong>Satisfação::</strong> classe origem tem dependência de satisfação com a classe destino.</li>
+    <li><strong>Recurso:</strong> classe origem tem dependência de recurso com a classe destino.</li>
+    <li><strong>Responsabilidade:</strong> registra a participação, responsabilidade e ação de pessoas sobre artefatos.</li>
+    <li><strong>Representação:</strong> captura a representação ou modelagem dos requisitos em outras linguagens.</li>
+    <li><strong>Alocado:</strong> classe origem está relacionada à classe destino, que representa um subsistema.</li>
+    <li><strong>Agregação:</strong>  indica “composição” de elementos.</li>
+
+</ul>
+</p>
 ## 2. Requisitos Funcionais
 <center>
 
