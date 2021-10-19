@@ -48,11 +48,11 @@
 | RF 26 | O usuário tem que ser capaz de fazer recarga no aplicativo | <a href="../../Elicitacao/Tecnicas/inpeccao#IntrospecçãoFuncional">IF22</a> | 
 | RF 27 | O usuário tem que ser capaz de acessar as informaçōes do NIS | <a href="../../Elicitacao/Tecnicas/inpeccao#IntrospecçãoFuncional">IF21</a> | 
 | RF 28 | O usuário tem que ser capaz de movimentar sua conta poupança social digital na CAIXA | <a href="../../Elicitacao/Tecnicas/inpeccao#IntrospecçãoFuncional">IF18</a> | 
-| RF 30 | O usuário poderá checar se está elegível a receber auxílio emergencial. | <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF03</a>, <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF10</a> | 
-| RF 31 | O usuário pode checar o estado do seu auxílio emergencial. | <a href="../../Elicitacao/Tecnicas/entrevista#EntrevistaFuncional">EF02</a>, <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF04</a>, <a href="../../Elicitacao/Tecnicas/observacao#ObservaçãoFuncional">OF06</a>  | 
-| RF 32 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado. | <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF05</a> | 
-| RF 33 | O usuário terá opção de contratar seguro apoio família. | <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF11</a> | 
-| RF 34 | O usuário terá opção de Selecionar funções favoritas. | <a href="../../Elicitacao/Tecnicas/entrevista#EntrevistaFuncional">EF01</a> | 
+| RF 29 | O usuário poderá checar se está elegível a receber auxílio emergencial. | <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF03</a>, <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF10</a> | 
+| RF 30 | O usuário pode checar o estado do seu auxílio emergencial. | <a href="../../Elicitacao/Tecnicas/entrevista#EntrevistaFuncional">EF02</a>, <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF04</a>, <a href="../../Elicitacao/Tecnicas/observacao#ObservaçãoFuncional">OF06</a>  | 
+| RF 31 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado. | <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF05</a> | 
+| RF 32 | O usuário terá opção de contratar seguro apoio família. | <a href="../../Elicitacao/Tecnicas/storytelling#StorytellingFuncional">SF11</a> | 
+| RF 33 | O usuário terá opção de Selecionar funções favoritas. | <a href="../../Elicitacao/Tecnicas/entrevista#EntrevistaFuncional">EF01</a> | 
 
 </center>
 

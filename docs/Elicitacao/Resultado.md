@@ -57,11 +57,11 @@ Legenda
 | RF 26 | O usuário tem que ser capaz de fazer recarga no aplicativo | <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF22</a> | WOULD |
 | RF 27 | O usuário tem que ser capaz de acessar as informaçōes do NIS | <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF21</a> | COULD |
 | RF 28 | O usuário tem que ser capaz de movimentar sua conta poupança social digital na CAIXA | <a href="../Tecnicas/inpeccao#IntrospecçãoFuncional">IF18</a> | COULD |
-| RF 30 | O usuário poderá checar se está elegível a receber auxílio emergencial. | <a href="../Tecnicas/storytelling#StorytellingFuncional">SF03</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF10</a> | MUST |
-| RF 31 | O usuário pode checar o estado do seu auxílio emergencial. | <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF02</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF04</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF06</a>  | MUST |
-| RF 32 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado. | <a href="../Tecnicas/storytelling#StorytellingFuncional">SF05</a> | MUST |
-| RF 33 | O usuário terá opção de contratar seguro apoio família. | <a href="../Tecnicas/storytelling#StorytellingFuncional">SF11</a> | COULD |
-| RF 34 | O usuário terá opção de Selecionar funções favoritas. | <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF01</a> | WOULD |
+| RF 29 | O usuário poderá checar se está elegível a receber auxílio emergencial. | <a href="../Tecnicas/storytelling#StorytellingFuncional">SF03</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF10</a> | MUST |
+| RF 30 | O usuário pode checar o estado do seu auxílio emergencial. | <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF02</a>, <a href="../Tecnicas/storytelling#StorytellingFuncional">SF04</a>, <a href="../Tecnicas/observacao#ObservaçãoFuncional">OF06</a>  | MUST |
+| RF 31 | O usuário deverá ter acesso ao calendário que marca o dia que o seu auxílio será disponibilizado. | <a href="../Tecnicas/storytelling#StorytellingFuncional">SF05</a> | MUST |
+| RF 32 | O usuário terá opção de contratar seguro apoio família. | <a href="../Tecnicas/storytelling#StorytellingFuncional">SF11</a> | COULD |
+| RF 33 | O usuário terá opção de Selecionar funções favoritas. | <a href="../Tecnicas/entrevista#EntrevistaFuncional">EF01</a> | WOULD |
 
 </center>
 
