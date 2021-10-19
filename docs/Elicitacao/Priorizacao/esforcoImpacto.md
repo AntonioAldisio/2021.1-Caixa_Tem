@@ -5,19 +5,27 @@ A Matriz de Esforço X Impacto(tempo) é uma ferramenta para priorização de ta
 </p>
 
 <p style="text-indent: 40px; align="justify"> 
-Na figura 01 temos a matriz é dividida em dois eixos, vertical e horizontal. O primeiro bloco, que trata do impacto, leva em conta fatores financeiros e satisfação do cliente. Já o segundo bloco, esforço, considera o tempo, energia, recursos humanos que serão empregados na tarefa.
+Na <a href="#Figura1">figura 01</a> temos a matriz é dividida em dois eixos, vertical e horizontal. O primeiro bloco, que trata do impacto, leva em conta fatores financeiros e satisfação do cliente. Já o segundo bloco, esforço, considera o tempo, energia, recursos humanos que serão empregados na tarefa.
 </p>
 
 <center>
+
+<a id="Figura1"></a>
+
+
 <img width="600px" src="../../../assets/imgs/matrixdeEsforco.jpeg" alt="matrixdeEsforco">
 <figcaption>Figura 01 - Matriz  Esforço X Impacto. Fonte:[1] </figcaption>
 </center>
 
 <p style="text-indent: 40px; align="justify"> 
-Podemos aplicar a técnica de MoSCoW a matriz de Esforço X Impacto (tempo) assim obtendo uma prioziação em relação ao tempo, o que não é possivel com o MosCow. Na figura 02 temos represtando os termos do MoSCoW - must, should, could, want - na matriz esfoço tempo.
+Podemos aplicar a técnica de MoSCoW a matriz de Esforço X Impacto (tempo) assim obtendo uma prioziação em relação ao tempo, o que não é possivel com o MosCow. Na <a href="#Figura2">Figura 02</a> temos represtando os termos do MoSCoW - must, should, could, want - na matriz esfoço tempo.
 </p>
 
 <center>
+
+<a id="Figura2"></a>
+
+
 <img width="600px" src="../../../assets/imgs/esforcoXtempo.png" alt="esforcoXtempo">
 <figcaption>Figura 02 - Matriz  Esforço X Tempo com a visão do MoSCoW. <br> Fonte: [2]</figcaption>
 </center>

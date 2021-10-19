@@ -105,4 +105,5 @@ Não se aplica.
 | 2.1 | 30/08/2021 | Diagrama de Caso de uso | Ariel Serafim |
 | 2.2 | 30/08/2021 | Revisão da descrição dos casos de uso | Ariel Serafim |
 | 3.0 | 18/09/2021 | Revisão por inspeção | Ariel Serafim |
+
 </center>

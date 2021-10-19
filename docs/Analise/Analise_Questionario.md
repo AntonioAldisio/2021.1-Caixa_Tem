@@ -22,6 +22,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 | 09 | As perguntas são bem explicadas ao leitor ? |
 | 10 | Os resultados estão bem explicados ao leitor da Wiki ? |
 | 11 | Os resultados encontrados pela tecnica, são claramente ligados aos requisitos elicitados ? |
+
 </center>
 
 ## 3. Verificação
@@ -41,6 +42,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/E
 | 09 | As perguntas são bem explicadas ao leitor do questionario ? | (&#10004) |
 | 10 | Os resultados estão bem explicados ao leitor da Wiki ? | (&#10006) |
 | 11 | Os resultados encontrados pela tecnica, são claramente ligados aos requisitos elicitados ? | (&#10004) |
+
 </center>
 
 ## 4. Pequena correção
@@ -62,6 +64,7 @@ O item 10 foi inicialmente marcado como não cumprido, pois uma das perguntas n�
 | 09 | As perguntas são bem explicadas ao leitor do questionario ? | (&#10004) |
 | 10 | Os resultados estão bem explicados ao leitor da Wiki ? | (&#10004) |
 | 11 | Os resultados encontrados pela tecnica, são claramente ligados aos requisitos elicitados ? | (&#10004) |
+
 </center>
 
 ## 5. Conclusão
@@ -77,4 +80,5 @@ Depois da pequena alteração feita,a inspeção garante que o documento não ap
 |--|--|--|--|
 | 1.0 | 13/09/2021 | Criação da página | Antônio Aldisio |
 | 2.0 | 15/09/2021 | Realização da Verificação | Ariel Serafim |
+
 </center>

@@ -59,6 +59,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 | 46 | O Lexico L11 tem a sua Noção ?|
 | 47 | O Lexico L11 tem o Impacto ?|
 | 48 | O Lexico L11 tem a Classificação ?|
+
 </center>
 
 ## 3. Verificação 
@@ -129,4 +130,5 @@ Todos os itens planejados foram cumpridos pelo artefato analisado. Não há erro
 |--|--|--|--|
 | 1.0 | 13/09/2021 | Criação da página | Antônio Aldisio |
 | 2.0 | 17/09/2021 | Adição de Conteudo | Ariel Serafim |
+
 </center>

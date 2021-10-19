@@ -6,7 +6,7 @@
 
 ## MoSCoW
 
-<p style="text-indent: 40px; align="justify"> MoSCoW é uma técnica de análise de de requisitos, que tem como objetivo de atribuir valores que indicam qual a importância de cada funcionalidade, de acordo com o valor agregado a ela em relação ao produto final.  
+<p style="text-indent: 40px; align="justify"> MoSCoW é uma técnica de análise de de requisitos, que tem como objetivo de atribuir valores, como representado na <a href="#Figura1">Figura 1</a>, que indicam qual a importância de cada funcionalidade, de acordo com o valor agregado a ela em relação ao produto final.  
   
 Durante o processo de priorização, cada funcionalidade é avaliada com relação a sua importância e recebe uma atribuição que pode ser:</p>
 
@@ -14,9 +14,11 @@ Durante o processo de priorização, cada funcionalidade é avaliada com relaç�
 - **S**hould: Requisito que tem importância mas não é essencial, caso não seja implementado impactará a satisfação do cliente.
 - **C**ould: Requisito que é apenas desejável para o produto, requisito que deve ser implementado somente se ouver tempo e os recursos permitam.
 - **W**ould ou **W**on't: Requisito dispensável, que pode ser adicionado em outro momento ou até mesmo em outros projetos, mesmo que seja marcado como não importante a atribuição ainda indica que a funcionalidade foi avaliada.<a href="#Bibliografia">[1]</a>  
-    
+
+<a id="Figura1">></a>
+
 <img width="550" src="../../../assets/Images/moscow.png" class="center" alt="Método de priorização MoSCoW">
-<figcaption class="center"><center> Figura 1 - Descrição de cada prioridade.Fonte:[2] </center> </figcaption>
+<figcaption class="center"><center> Figura 1 - Descrição de cada prioridade.<br>Fonte:[2] </center> </figcaption>
 
 ## Bibliografia  <a id="Bibliografia"></a>
 

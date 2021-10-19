@@ -58,4 +58,5 @@ Após a realização da verificação, percebeu-se quea técnica foi utilizada c
 |--|--|--|--|
 | 1.0 | 13/09/2021 | Criação da página | Antônio Aldisio |
 | 2.0 | 17/09/2021 | Verificação da Entrevista | Matheus Salim |
+
 </center>

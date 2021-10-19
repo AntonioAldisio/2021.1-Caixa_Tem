@@ -8,7 +8,7 @@
 
 <p style="text-indent: 40px; align="justify">Utilizado pelo NFR Framework, um softgoal é um objetivo que não possui uma clara definição nem critérios de satisfação precisos. Os softgoals são utilizados para representar Requisitos Não-Funcionais e podem estar inter-relacionados, expressando a influência de
 um softgoal em outro.<a href="../NFR_Framework#Bibliografia">[2]</a><br></p>
-<p style="text-indent: 40px; align="justify">Existem 3 tipos de softgoals. São eles:</p>
+<p style="text-indent: 40px; align="justify">Existem 3 tipos de softgoals que podem ser vizualizados na <a href="#Figura1">Figura 1</a>, são eles:</p>
 <ul style="margin-left:50px">
     <li><strong>Softgoals NFR :</strong> representam os Requisitos Não- Funcionais e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto (CHUNG et al., 2000).</li>
     <li><strong>Softgoals de Operacionalização :</strong> representam soluções de implementação para
@@ -17,6 +17,10 @@ um softgoal em outro.<a href="../NFR_Framework#Bibliografia">[2]</a><br></p>
 </ul>
 
 <center>
+
+<a id="Figura1"></a>
+
+
 <img src="../../assets/imgs/tiposSoftgoals.png" alt="Tipos de Softgoals">
 <figcaption> Figura 01 - Tipos de Softgoals <a href="../NFR_Framework#Bibliografia">[2]</a></figcaption>
 </center>
@@ -35,9 +39,13 @@ UNKNOWN(?) | Fornece uma contribuição desconhecida entre um softgoal descenden
 EQUALS | O softgoal descendente será satisfeito somente se o softgoal ascendente for satisfeito e o softgoal descendente será negado se o ascendente for negado.
 SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a extensão não é.
 
-<p style="text-indent: 40px; align="justify">O procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Para isso, são atribuídos rótulos para os softgoals.<a href="../NFR_Framework#Bibliografia">[2]</a><br></p>
+<p style="text-indent: 40px; align="justify">O procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Para isso, são atribuídos rótulos para os softgoals, representados nas formas indicadas na <a href="#Figura2">Figura 2</a>.<a href="../NFR_Framework#Bibliografia">[2]</a><br></p>
 
 <center>
+
+<a id="Figura2"></a>
+
+
 <img src="../../assets/imgs/rotulosSoftgoals.png" alt="Rótulos de Softgoals">
 <figcaption> Figura 02 - Tipos de rótulos utilizados pelos Softgoals <a href="../NFR_Framework#Bibliografia">[2]</a></figcaption>
 </center>

@@ -44,6 +44,7 @@ O presente documento visa verificar o artefato de <a herf = "/2021.1-Caixa_Tem/M
 | 10 | O diagrama tem o fluxo principal ? | (&#10004) | 
 | 11 | O diagrama tem os fluxos alternativos ? | (&#10004) | 
 | 12 | O diagrama tem os fluxos de exceção? | (&#10004) | 
+
 </center>
 
 ## 4. Correções
@@ -68,6 +69,7 @@ Isso foi corrigido e foi acrescentado uma nova versão do diagrama de casos de u
 | 10 | O diagrama tem o fluxo principal ? | (&#10004) | 
 | 11 | O diagrama tem os fluxos alternativos ? | (&#10004) | 
 | 12 | O diagrama tem os fluxos de exceção? | (&#10004) | 
+
 </center>
 
 ## 5. Conclusão
@@ -82,4 +84,5 @@ Após a correção feita,todos os itens da inspeção foram cumpridos, e não h�
 |--|--|--|--|
 | 1.0 | 13/09/2021 | Criação da página | Antônio Aldisio |
 | 2.0 | 13/09/2021 |Adição de Conteudo | Ariel Serafim |
+
 </center>
