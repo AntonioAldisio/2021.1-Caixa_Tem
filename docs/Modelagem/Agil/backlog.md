@@ -74,65 +74,65 @@ O Backlog visa detalhar as tarefas de forma que as histórias de usuários sejam
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="5">Consultas de valores e  Informações</td>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US010/" >US010</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US010/" >US10</a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o extrato da minha conta</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US011/" >US011</a></span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US011/" >US11</a></span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar o saldo da minha conta</span></td>
   </tr>
     <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US012/" >US012</a></span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US012/" >US12</a></span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo consultar comprovantes de transacoes da minha conta em um determinado período.</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US013/" >US013</a></span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US013/" >US13</a></span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo solicitar dicas financeiras.</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US014/" >US014</a></span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US014/" >US14</a></span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo solicitar informes dobre rendimentos.</span></td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="8">Transações</td>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US015/" >US015</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US015/" >US15</a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via&nbsp;&nbsp;PIX</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US016/" >US016</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US016/" >US16</a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  TED/DOC</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US017/" >US017</a></span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US017/" >US17</a></span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  cartão de débito virtual</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US018/" >US018</a></span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US018/" >US18</a></span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento via  boleto</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US019/" >US019</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US019/" >US19</a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento em qualquer Unidades Lotéricas</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US020/" >US020</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US020/" >US20</a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar pagamento </span>maquininha com QR Code</td>
   </tr>
    <tr>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US021/" >US021</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US021/" >US21</a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar tranferência de até 600R$ para outra conta.
   </tr>
    <tr>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US022/" >US022</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US022/" >US22</a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo gerar um código para saque sem cartão.
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2">Recargas</td>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US023/" >US023</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US023/" >US23</a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Eu como usuário do aplicativo desejo realizar recarga de cartão de transporte</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US024/" >US024</a></td>
+    <td class="tg-0lax"><a href="/2021.1-Caixa_Tem/Modelagem/Agil/Historia/US024/" >US24</a></td>
     <td class="tg-0lax">Eu como usuário do aplicativo desejo realizar recarga de telefone</td>
   </tr>
 </tbody>

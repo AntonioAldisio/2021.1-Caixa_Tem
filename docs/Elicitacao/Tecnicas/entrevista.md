@@ -8,10 +8,10 @@ O objetivo é iniciar contextualizando o entrevistado e então buscar informaç�
 ## 2. Esquema Diamante
 
 <img width="800px" src="../../../assets/imgs/ObjetivosEntrevista.png" alt="Organização da Entrevista">
-<figcaption>Figura 01 - Organização da entrevista no estilo diamante </figcaption>
+<figcaption><center>Figura 01 - Organização da entrevista no estilo diamante.<br> Fonte: Autoria própria. </center></figcaption>
 
 <img width="800px" src="../../../assets/imgs/PerguntasERespostas.png" alt="Organização da Entrevista">
-<figcaption>Figura 01 - Organização da entrevista no estilo diamante </figcaption>
+<figcaption><center>Figura 01 - Organização da entrevista no estilo diamante.<br> Fonte: Autoria própria. </center></figcaption>
 
 ## 3. Bibliografia
 <p style="text-indent: 40px; align = "justify">

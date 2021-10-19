@@ -2,13 +2,12 @@
 
 ## 1. Metodologia
 <p style="text-indent: 40px; align="justify"> 
-O objetivo desse documento é reunir todos os requistos que foram elicitados para o projeto a partir das técnicas:
+O objetivo desse documento é reunir todos os requistos que foram elicitados para o projeto a partir das técnicas. Na tabela foram identificados os metodos que originaram os requisitos, esses metodos são listados na coluna Técnica, e identificados por um código como demonstrado na <a href="#figura1">Figura 1.</a>
 </p>
-
-
+<a id="figura1"></a>
 <Figure>
     <img class="legenda" src="../../assets/Images/legenda.png" alt="Legenda dos Requisitos">
-    <figcaption>Figura 01 - Legenda da rastreabilidade. </figcaption>
+    <figcaption>Figura 01 - Legenda da rastreabilidade. Fonte: Autoria própria.</figcaption>
 </Figure>
 <!--
 Legenda  

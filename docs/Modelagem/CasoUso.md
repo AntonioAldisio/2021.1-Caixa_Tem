@@ -5,13 +5,13 @@ O diagrama de casos de uso é uma representação visual estabelecida dentro dos
 Os atores são entidades que interagem com o sistema, mas não fazem parte do sistema.
 Para o Aplicativo CaixaTem, há apenas um Ator, o usuario do aplicativo, mesmo que existam opções de transferência entre aplicativos, opções de saque e depositos, somente o usuario logado no aplicativo fornece as informações necessárias para realizar as funções, e somente o usuario logado no sistema recebe informações requisitadas ao aplicativo.
 
-## Diagrama de Caso de Uso (ANTES da inspeção).
+## Diagrama de Caso de Uso - Pré inspeção.
 <img width="800px" src="../../assets/imgs/CasosdeUso.png" alt="Casos de uso CaixaTem">
-<figcaption>Figura 01 - Caos de Uso do Aplicativo Caixa Tem </figcaption>
+<figcaption><center>Figura 01 - Caos de Uso do Aplicativo Caixa Tem.<br>Fonte: Autoria própria.</center></figcaption>
 
-## Novo Diagrama de Caso de Uso (DEPOIS da inspeção).
+## Novo Diagrama de Caso de Uso - Pós inspeção.
 <img width="800px" src="../../assets/imgs/CasosdeUso2.png" alt="Casos de uso CaixaTem">
-<figcaption>Figura 01 - Caos de Uso do Aplicativo Caixa Tem </figcaption>
+<figcaption><center>Figura 02 - Caos de Uso do Aplicativo Caixa Tem.<br>Fonte: Autoria própria.</center></figcaption>
 
 ## Descrição dos Casos de Uso.
 Verificamos a existencia de apenas um caso de uso, com diversos fluxos alternativos.

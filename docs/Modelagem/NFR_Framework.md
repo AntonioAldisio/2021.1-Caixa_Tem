@@ -68,28 +68,31 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 
 ### 3.1 Diagrama NFR Geral
 
-<body>
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=10Ar059kp4twLkZS1wsqccC7gF2nnj-NU&amp;export=download&quot;}"></div>
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=10Ar059kp4twLkZS1wsqccC7gF2nnj-NU&amp;export=download&quot;}"></div>
 <script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D10Ar059kp4twLkZS1wsqccC7gF2nnj-NU%26export%3Ddownload"></script>
-</body>
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 
 #### 3.1.1 Diagrama NFR Usabilidade
 
 <img src="../../assets/Images/Usabilidade.png" alt="Diagrama NFR da Usabilidade">
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 #### 3.1.2 Diagrama NFR Eficácia
 
 <img src="../../assets/Images/Eficácia.png" alt="Diagrama NFR da Eficácia">
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 #### 3.1.3 Diagrama NFR Eficiência
 
 <img src="../../assets/Images/Eficiência.png" alt="Diagrama NFR da Eficiência">
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 
 #### 3.1.4 Diagrama NFR Satisfação
 
 <img src="../../assets/Images/Satisfacao.png" alt="Diagrama NFR da Satisfação">
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 
 ### 3.2 Diagrama NFR com propagação
@@ -97,18 +100,22 @@ SOME (+\|-) | Utilizada quando o sinal de contribuição é conhecido,mas a exte
 <body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1F3YoQ53RVfEjkFG5GN2hRr_echq7PDQg&amp;export=download&quot;}"></div>
 <script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1F3YoQ53RVfEjkFG5GN2hRr_echq7PDQg%26export%3Ddownload"></script>
 </body>
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 #### 3.2.1 Diagrama NFR com propagação da Eficácia
 
 <img src="../../assets/Images/EficaciaPropagacao.png" alt="Diagrama NFR Geral com Propagação da Eficácia">
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 #### 3.2.2 Diagrama NFR com propagação da Eficiência
 
 <img src="../../assets/Images/EficienciaPropagacao.png" alt="Diagrama NFR Geral com Propagação da Eficiência">
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 #### 3.2.2 Diagrama NFR com propagação da Satisfação
 
 <img src="../../assets/Images/SatisfacaoPropagacao.png" alt="Diagrama NFR Geral com Propagação da Satisfação">
+<figcaption><center>Fonte: Autoria própria. </center></figcaption>
 
 ## Bibliografia <a id="Bibliografia"></a>
 [1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements

@@ -18,33 +18,33 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 ### 1.1 RP01 - Antonio Aldísio <a id="RP01"></a>
 
 <img width="600px"  class="center" src="../../assets/RichPicture/prototipo1_antonio.jpeg" alt="PropostaAntonio01">
-<figcaption>Figura 01 - Proposta de aplicativo - Carteira Digital de Trânsito. </figcaption>
+<figcaption><center>Figura 01 - Proposta de aplicativo - Carteira Digital de Trânsito.<br>Fonte: Autoria própria.</center></figcaption>
 
 ### 1.2 RP02 - Ariel Serafim <a id="RP02"></a>
 <img width="600px"  class="center" src="../../assets/RichPicture/prototipo1_ArielSerafim.png" alt="PropostaAriel01">
-<figcaption>Figura 02 - Proposta de aplicativo - CaixaTem. </figcaption>
+<figcaption><center>Figura 02 - Proposta de aplicativo - CaixaTem. <br>Fonte: Autoria própria.</center></figcaption>
 
 ### 1.3 RP03 & RP04 -Fernando Calil <a id="RP034"></a>
 <img width="800px" src="../../assets/RichPicture/prototipo1_fernando.png" alt="PropostaFernandov01">
-<figcaption>Figura 03 - Proposta de aplicativo - Youtube. </figcaption>
+<figcaption><center>Figura 03 - Proposta de aplicativo - Youtube. <br>Fonte: Autoria própria.</center> </figcaption>
 
 
 <img width="800px" src="../../assets/RichPicture/prototipo2_fernando.png" alt="PropostaFernandov01">
-<figcaption>Figura 04 - Proposta de aplicativo - Meu Imposto de Renda.  </figcaption>
+<figcaption><center>Figura 04 - Proposta de aplicativo - Meu Imposto de Renda.<br>Fonte: Autoria própria.</center></figcaption>
 
 ### 1.4 RP05 - Lucas Gomes <a id="RP05"></a>
 
 <img width="800px" src="../../assets/RichPicture/richpicture_lucas.png" alt="PropostaLucasv01">
-<figcaption>Figura 05 - Proposta de aplicativo - Hemovida.  </figcaption>
+<figcaption><center>Figura 05 - Proposta de aplicativo - Hemovida.<br>Fonte: Autoria própria.</center></figcaption>
 
 ### 1.5 RP06 - Matheus Salim <a id="RP06"></a>
 
 <img width="800px" src="../../assets/RichPicture/richpicture_pagmeia.png" alt="PropostaMatheusv01">
-<figcaption>Figura 06 - Proposta de aplicativo - PagMeia.  </figcaption>
+<figcaption><center>Figura 06 - Proposta de aplicativo - PagMeia.<br>Fonte: Autoria própria.</center></figcaption>
 
 ### 1.6 RP07 - Ugor Costa <a id="RP07"></a>
 <img width="800px" src="../../assets/RichPicture/richpicturHemovida.png" alt="PropostaUgorv01">
-<figcaption>Figura 07 - Proposta de aplicativo - Hemovida.  </figcaption>
+<figcaption><center>Figura 07 - Proposta de aplicativo - Hemovida.<br>Fonte: Autoria própria.</center></figcaption>
 
 ## 2. Discussão para escolha do tema
 <p style="text-indent: 40px; align="justify"> Nós, como grupo, tinhamos que escolher dentro dos aplicativos que foram realizados os rich pictures, aquele que possuia os requisitos para poder ser o nosso tema principal. Os requisitos eram: um aplicativo que ao mesmo tempo que poderiamos trabalhar bem "em cima dele", não fosse tão complexo; um aplicativo do governo. Dentro das opções escolhemos por votação unânime o aplicativo do governo Caixa Tem.
@@ -55,12 +55,12 @@ O grupo seguiu o seguinte fluxo de trabalho em relação aos Rich Pictures:<br>
 ### 3.1 RP08 - Versão 01 do Rich Picture Colaborativo <a id="RP08"></a>
 
 <img width="800px" src="../../assets/RichPicture/v01.png" alt="ColaborativoV01">
-<figcaption>Figura 08 - Rich Picture colaborativo versão 1.  </figcaption>
+<figcaption><center>Figura 08 - Rich Picture colaborativo versão 1.<br>Fonte: Autoria própria.</center>  </figcaption>
 
 ### 3.2 RP09 - Versão 02 do Rich Picture Colaborativo <a id="RP09"></a>
 
 <img width="800px" src="../../assets/RichPicture/Richpicture_02.png" alt="ColaborativoV02">
-<figcaption>Figura 09 - Rich Picture colaborativo versão 2.  </figcaption>
+<figcaption><center>Figura 09 - Rich Picture colaborativo versão 2.<br>Fonte: Autoria própria.</center>  </figcaption>
 
 ## Bibliografia <a id="Bibliografia"></a>
 <p align = "justify"> [1] - MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for resoning about work context. <strong>Interactions</strong>, York v.5, n.2, march./1998 </p>

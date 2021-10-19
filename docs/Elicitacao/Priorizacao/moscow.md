@@ -16,12 +16,12 @@ Durante o processo de priorização, cada funcionalidade é avaliada com relaç�
 - **W**ould ou **W**on't: Requisito dispensável, que pode ser adicionado em outro momento ou até mesmo em outros projetos, mesmo que seja marcado como não importante a atribuição ainda indica que a funcionalidade foi avaliada.<a href="#Bibliografia">[1]</a>  
     
 <img width="550" src="../../../assets/Images/moscow.png" class="center" alt="Método de priorização MoSCoW">
-<figcaption class="center"> Figura 1 - Descrição de cada prioridade. </figcaption>
+<figcaption class="center"><center> Figura 1 - Descrição de cada prioridade.Fonte:[2] </center> </figcaption>
 
 ## Bibliografia  <a id="Bibliografia"></a>
 
-[1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016. 
-
+[1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.  
+[2] - CRRUX, @CrruxHQ. **he MoSCoW method is a prioritization technique used in management, business analysis, project management, and software development.** 17 out, 2019. Tweet.
 ## Versionamento
 
 <center>
