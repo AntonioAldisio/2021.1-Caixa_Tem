@@ -23,9 +23,9 @@ Apresentações feitas no Canva.
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0  | 07/10/2021 | Criação dos slides | Todos |
-| 1.1 | 08/10/2021 | Gravação do video | Todos |
-| 1.2 | 08/10/2021 | Edição do video | Fernando Calil |
+| 1.0  | 18/10/2021 | Criação dos slides | Todos |
+| 1.1 | 19/10/2021 | Gravação do video | Todos |
+| 1.2 | 19/10/2021 | Edição do video | Fernando Calil |
 
 </center>
 
